@@ -1,0 +1,1743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c4root>
+  <header/>
+  <header>
+    <metadata>
+      <docID>uig20210406_conversation4</docID>
+      <language iso="uig" glottocode="uigh1240">Uyghur, Modern Standard</language>
+      <date_created>2021_04_06</date_created>
+      <title>Conversation 4</title>
+      <recording>Conversation recorded on participant's iPhone (regular compressed audio, not lossless)</recording>
+      <context>The participants are at the table in their home, chatting after school.</context>
+      <rights>Restricted access: Creators allow academic use.</rights>
+      <sponsors>Uyghur Projects Foundation; UCSB Confucius Institute China Studies Award 2021 (Michael Fiddler); UCSB Humanities and Social Sciences Research Grant 2022 (Michael Fiddler)</sponsors>
+      <participants>
+        <speaker_A>
+          <comment>Speaker A wishes for all personal information to remain confidential</comment>
+        </speaker_A>
+        <speaker_B>
+          <comment>Speaker B wishes for all personal information to remain confidential</comment>
+        </speaker_B>
+      </participants>
+      <project_creators>
+        <initial_transcription>Malik Anvar</initial_transcription>
+        <annotation>Michael Fiddler</annotation>
+        <translation>Michael Fiddler</translation>
+	      <translation_consultant>Akbar Amat</translation_consultant>
+        <web_formatting>Haibibullah Abdul-Kerim</web_formatting>
+      </project_creators>
+    </metadata>
+  </header>
+  <transcript_body>
+    <c4_final>
+      <annotation who="Speaker A" ref="1">
+        <timestamp>00:00:01.310-00:00:03.285</timestamp>
+        <iu>[bowaqning ismi] néme boldingiz siz balam.</iu>
+        <seg>[bowaqning ismi] néme bol-d-ingiz siz bala-m</seg>
+        <gloss>[baby's name] what be-PST-2SG.POL 2SG.POL child-1SG.POSS</gloss>
+        <eng>[baby’s name], what’s going on, baby?</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="2">
+        <timestamp>00:00:04.410-00:00:06.310</timestamp>
+        <iu>Mijezingiz yoq he balam he</iu>
+        <seg>mijez-ingiz yoq he bala-m he</seg>
+        <gloss>feeling-2SG.POL.POSS not.exist DM child-1SG.POSS DM</gloss>
+        <eng>You’re not feeling good, are you, baby?</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="3">
+        <timestamp>00:00:08.690-00:00:12.128</timestamp>
+        <iu>Balam ukangning mijezi yoq, sen ukanggha néme ish qilip béreleysen balam.</iu>
+        <seg>bala-m uka-ng-ning mijez-i yoq sen uka-ng-gha néme ish qil-ip bér-ele-y-sen bala-m</seg>
+        <gloss>child-1SG.POSS younger.brother-2SG.INFM.POSS-GEN feeling-3POSS not.exist 2SG.INFM younger brother-2SG.INFM.POSS-DAT what thing do-CVB AUX.ber-ABIL-PRES-2SG.INF child-1SG.POSS</gloss>
+        <eng>Child, your little brother isn’t feeling good, what can you do for your brother, child?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="4">
+        <timestamp>00:00:12.320-00:00:13.275</timestamp>
+        <iu>Nothing.</iu>
+        <seg>EN:nothing</seg>
+        <gloss>EN:nothing</gloss>
+        <eng>Nothing.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="5">
+        <timestamp>00:00:13.700-00:00:15.646</timestamp>
+        <iu>Undaq «nothing» démigine balam.</iu>
+        <seg>undaq EN:nothing dé-mi-gin-e bala-m</seg>
+        <gloss>thus EN:nothing say-NEG-INFM.IMP-DM child-1SG.POSS</gloss>
+        <eng>Don’t just say “nothing,” child.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="6">
+        <timestamp>00:00:16.170-00:00:22.350</timestamp>
+        <iu>Séning mijezing yoq waqtingda, biz dada ikkimiz séni néme déseng he dep qip bérimizghu.</iu>
+        <seg>séning mijez-ing yoq waqt-ing-da biz dada ikki-miz séni néme dé-se-ng he de-p qi-p bér-i-miz-ghu</seg>
+        <gloss>2SG.INF.GEN feeling-2SG.INFM.POSS not.exist time-2SG.INFM.POSS-LOC 1PL dad two-1PL 1SG.INF.ACC what say-COND-IMP.2SG.POL DM say-CVB do-CVB AUX.ber-PRES-1PL-CONF</gloss>
+        <eng>When you aren’t feeling good, your dad and I can do whatever you say.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="7">
+        <timestamp>00:00:22.350-00:00:26.317</timestamp>
+        <iu>Sen «a yerim aghridi miyerim aghridi» dep déyeleysenghu.</iu>
+        <seg>sen a yer-im aghri-d-i miyer-im aghri-d-i de-p déy-ele-y-sen-ghu</seg>
+        <gloss>2SG.INFM that place-1SG.POSS hurt-PST-3 here-1SG.POSS hurt-PST-3 say-CVB say-ABIL-PRES-2SG.INFM-CONF</gloss>
+        <eng>You can say “It hurts here, it hurts there.”</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="8">
+        <timestamp>00:00:26.443-00:00:29.443</timestamp>
+        <iu>Lékin ukangning téxi gep qilalmighandinkin [xxx] [xxx]</iu>
+        <seg>lékin uka-ng-ning téxi gep qil-al-mi-ghan-dinkin [xxx] [xxx]</seg>
+        <gloss>but younger.brother-2SG.INFM.POSS-GEN still speech do-ABIL-NEG-PTCP.PST-since [xxx] [xxx]</gloss>
+        <eng>But since your little brother can’t talk yet [xxx] [xxx]</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="9">
+        <timestamp>00:00:28.193-00:00:29.808</timestamp>
+        <iu>[xxx] [xxx] gep qilalaydu!</iu>
+        <seg>[xxx] [xxx] gep qil-ala-y-du</seg>
+        <gloss>[xxx] [xxx] speech do-ABIL-PRES-3</gloss>
+        <eng>[xxx] [xxx] he can talk!</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="10">
+        <timestamp>00:00:30.190-00:00:32.229</timestamp>
+        <iu>He shu yighlapla qilalaydu shu, </iu>
+        <seg>he shu yighla-p-la qil-ala-y-du shu</seg>
+        <gloss>uh that cry-CVB-just do-ABIL-PRES-3 that</gloss>
+        <eng>All he can do is cry,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="11">
+        <timestamp>00:00:32.229-00:00:34.182</timestamp>
+        <iu>hazir qiziwatidu uning üstige.</iu>
+        <seg>hazir qizi-wat-i-du u-ning üst-i-ge</seg>
+        <gloss>now heat.up-CONT-PRES-3 that-GEN top-3POSS-DAT</gloss>
+        <eng>and besides that he’s got a fever now.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="12">
+        <timestamp>00:00:35.219-00:00:37.340</timestamp>
+        <iu>Sen ukanggha néme ish qip béreleysen balam?</iu>
+        <seg>sen uka-ng-gha néme ish qi-p bér-ele-y-sen bala-m</seg>
+        <gloss>2SG.INFM younger.brother-2SG.INFM.POSS-DAT what thing do-CVB AUX.ber-ABIL-PRES-2SG.INFM child-1SG.POSS</gloss>
+        <eng>What can you do for your brother, child?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="13">
+        <timestamp>00:00:37.269-00:00:40.369</timestamp>
+        <iu>«Doxturgha bar-- barsun» dep advice qilimen men.</iu>
+        <seg>doxtur-gha bar-- bar-sun de-p EN:advice qil-i-men men</seg>
+        <gloss>doctor-DAT * go-JUSS say-CVB EN:advice do-PRES-1SG 1SG</gloss>
+        <eng>My advice is, “Let him go to the doctor”</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="14">
+        <timestamp>00:00:40.699-00:00:42.748</timestamp>
+        <iu>Doxturgha barayli dések qara.</iu>
+        <seg>doxtur-gha bar-ayli dé-se-k qara</seg>
+        <gloss>doctor-DAT go-OPT.1PL say-COND-1PL look</gloss>
+        <eng>Look, if we want to go to the doctor…</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="15">
+        <timestamp>00:00:42.753-00:00:46.650</timestamp>
+        <iu>Doxturgha barsang birinchi bolup u yerde uzun öchret saqlaysen.</iu>
+        <seg>doxtur-gha bar-sa-ng bir-inchi bol-up u yer-de uzun öchret saqla-y-sen</seg>
+        <gloss>doctor-DAT go-COND-IMP.2SG.POL one-ORD be-CVB that place-LOC long line wait-PRES-2SG.INF</gloss>
+        <eng>If you go to the doctor, the first thing you have to do is wait for a long time.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="16">
+        <timestamp>00:00:46.793-00:00:48.751</timestamp>
+        <iu>Öchret saqlighan waqtida,</iu>
+        <seg>öchret saqli-ghan waqt-i-da</seg>
+        <gloss>line wait-PTCP.PST time-3POSS-LOC</gloss>
+        <eng>While you’re waiting,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="17">
+        <timestamp>00:00:49.572-00:00:51.905</timestamp>
+        <iu>her xil késeller bar u yerde.</iu>
+        <seg>her xil késel-ler bar u yer-de</seg>
+        <gloss>every type disease-PL exist that place-LOC</gloss>
+        <eng>…there’s all kinds of germs there.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="18">
+        <timestamp>00:00:53.221-00:00:56.486</timestamp>
+        <iu>Uning üstige ukangni «tekshürimiz» dep bek tola yighlitiwétidiken.</iu>
+        <seg>u-ning üst-i-ge uka-ng-ni tekshür-i-miz de-p bek tola yighlit-iwét-i-diken</seg>
+        <gloss>that-GEN top-3POSS-DAT younger.brother-2SG.INFM.POSS-ACC check-PRES-1PL say-CVB very much cry-CAUS-INTENS-PRES-EVID</gloss>
+        <eng>Besides that, if they decide they need to check your brother they’ll make him cry a lot.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="19">
+        <timestamp>00:00:57.868-00:00:58.945</timestamp>
+        <iu>Yenichu balam?</iu>
+        <seg>yeni-chu bala-m</seg>
+        <gloss>again-TOP child-1SG.POSS</gloss>
+        <eng>What else can you do, child?</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="20">
+        <timestamp>00:00:59.062-00:01:00.582</timestamp>
+        <iu>Miyerge kéle men sanga gep qilay balam.</iu>
+        <seg>miyer-ge kél-e men sanga gep qil-ay bala-m</seg>
+        <gloss>here-DAT come-DM 1SG 2SG.INFM.DAT speech do-OPT.1SG child-1SG.POSS</gloss>
+        <eng>Hey, come here, child, I’m talking to you.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="21">
+        <timestamp>00:01:00.594-00:01:01.109</timestamp>
+        <iu>[balining ismi]?</iu>
+        <seg>[balining ismi]</seg>
+        <gloss>[child's name]</gloss>
+        <eng>[child's name]</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="22">
+        <timestamp>00:01:02.628-00:01:03.561</timestamp>
+        <iu>Néme?</iu>
+        <seg>néme</seg>
+        <gloss>what</gloss>
+        <eng>What?</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="23">
+        <timestamp>00:01:03.473-00:01:04.531</timestamp>
+        <iu>Miyerge kéle.</iu>
+        <seg>miyer-ge kél-e</seg>
+        <gloss>here-DAT come-DM</gloss>
+        <eng>Come here.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="24">
+        <timestamp>00:01:05.941-00:01:08.811</timestamp>
+        <iu>Ma-- némini téléwini körmiseng öchüriwéte balam.</iu>
+        <seg>ma némi-ni téléwi-ni kör-mi-se-ng öch-ür-iwét-e bala-m</seg>
+        <gloss>this what-ACC TV-ACC see-NEG-COND-2SG.INFM turn.off-CAUS-INTENS-DM child-1SG.POSS</gloss>
+        <eng>This—thing, this TV, if you’re not going to watch it, turn it off.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="25">
+        <timestamp>00:01:09.171-00:01:10.710</timestamp>
+        <iu>Téléwini öchüriwétemsen?</iu>
+        <seg>téléwi-ni öch-ür-iwét-em-sen</seg>
+        <gloss>TV-ACC turn.off-CAUS-INTENS-INT-2SG.INF</gloss>
+        <eng>Did you turn off the TV?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="26">
+        <timestamp>00:01:10.930-00:01:11.804</timestamp>
+        <iu>Öchürük.</iu>
+        <seg>öchürük</seg>
+        <gloss>off</gloss>
+        <eng>It’s off.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="27">
+        <timestamp>00:01:11.979-00:01:13.138</timestamp>
+        <iu>Ochuqken.</iu>
+        <seg>ochuq-ken</seg>
+        <gloss>open-EVID</gloss>
+        <eng>It seems like it’s on.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="28">
+        <timestamp>00:01:14.153-00:01:15.185</timestamp>
+        <iu>A--</iu>
+        <seg>A--</seg>
+        <gloss>*</gloss>
+        <eng>A--</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="29">
+        <timestamp>00:01:15.640-00:01:16.894</timestamp>
+        <iu>méngiwatidu a yerde qara?</iu>
+        <seg>méng-iwat-i-du a yer-de qara</seg>
+        <gloss>walk-CONT-PRES-3 that place-LOC look</gloss>
+        <eng>Look there, it’s still going.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="30">
+        <timestamp>00:01:16.894-00:01:18.924</timestamp>
+        <iu>Üch minuttin kéyin öchidu demdu awu, qara?</iu>
+        <seg>üch minut-tin kéyin öch-i-du de-am-du awu qara</seg>
+        <gloss>three minute-ABL after turn.off-PRES-3 say-INT-3 that look</gloss>
+        <eng>Look, give it a break, it’s going off in three minutes.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="31">
+        <timestamp>00:01:20.450-00:01:21.698</timestamp>
+        <iu>Yeah, yeah, yeah.</iu>
+        <seg>yeah yeah yeah</seg>
+        <gloss>yeah yeah yeah</gloss>
+        <eng>Yeah, yeah, yeah.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="32">
+        <timestamp>00:01:22.762-00:01:26.102</timestamp>
+        <iu>Balam mektipingning tapshuruqliri tügigenmu tügimigenmu?</iu>
+        <seg>bala-m mektip-ing-ning tapshuruq-lir-i tügi-gen-mu tügi-mi-gen-mu</seg>
+        <gloss>child-1SG.POSS school-2SG.INFM.POSS-GEN homework-PL-3POSS end-PTCP.PST-INT end-NEG-PTCP.PST-INT</gloss>
+        <eng>Child, have you finished your homework from school?</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="33">
+        <timestamp>00:01:26.834-00:01:27.441</timestamp>
+        <iu>He?</iu>
+        <seg>he</seg>
+        <gloss>DM</gloss>
+        <eng>Huh?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="34">
+        <timestamp>00:01:28.370-00:01:30.468</timestamp>
+        <iu>Bir ay boldi tügigili.</iu>
+        <seg>bir ay bol-d-i tügi-gili</seg>
+        <gloss>one month be-PST-3 finish-PURP</gloss>
+        <eng>It’s been done for a month.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="35">
+        <timestamp>00:01:30.918-00:01:31.882</timestamp>
+        <iu>Hmm...</iu>
+        <seg>hmm</seg>
+        <gloss>hmm</gloss>
+        <eng>Hmm...</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="36">
+        <timestamp>00:01:32.763-00:01:34.653</timestamp>
+        <iu>Uningdinkin men sanga héliqi,</iu>
+        <seg>u-ning-dinkin men sanga héliqi</seg>
+        <gloss>that-GEN-after 1SG 2SG.INF.DAT that</gloss>
+        <eng>Also, do you want me to, uh,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="37">
+        <timestamp>00:01:34.653-00:01:36.995</timestamp>
+        <iu>bir néme yasaydighanni rejistér qip bersem,</iu>
+        <seg>bir néme yasa-ydighan-ni rejistér qi-p ber-se-m</seg>
+        <gloss>one what create-PTCP.PRES-ACC register do-CVB AUX.ber-COND-1SG</gloss>
+        <eng>register you for that creation thing, whatever it was,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="38">
+        <timestamp>00:01:37.113-00:01:39.173</timestamp>
+        <iu>Ashu öyge ekep yasaydighan ishken,</iu>
+        <seg>ashu öy-ge eke-p yasa-ydighan ish-ken</seg>
+        <gloss>that home-DAT bring-CVB create-PTCP.PRES thing-EVID</gloss>
+        <eng>that thing you bring home and create,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="39">
+        <timestamp>00:01:39.173-00:01:40.304</timestamp>
+        <iu>zadi yasamsen yasimamsen?</iu>
+        <seg>zadi yasa-m-sen yasi-ma-m-sen</seg>
+        <gloss>exactly create-INT-2SG.INF create-NEG-INT-2SG.INF</gloss>
+        <eng>are you going to do it or no?</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="40">
+        <timestamp>00:01:40.304-00:01:41.751</timestamp>
+        <iu>Eger yasaymen déseng,</iu>
+        <seg>eger yasa-y-men dé-se-ng</seg>
+        <gloss>if create-PRES-1SG say-COND-2SG.INFM</gloss>
+        <eng>If you want to do it,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="41">
+        <timestamp>00:01:41.908-00:01:43.400</timestamp>
+        <iu>men rejistér qilay.</iu>
+        <seg>men rejistér qil-ay</seg>
+        <gloss>1SG register do-OPT.1SG</gloss>
+        <eng>I’ll register you.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="42">
+        <timestamp>00:01:43.400-00:01:44.656</timestamp>
+        <iu>Yasighum bar.</iu>
+        <seg>yasi-ghu-m bar</seg>
+        <gloss>create-DESID-1SG.POSS exist</gloss>
+        <eng>I want to do it.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="43">
+        <timestamp>00:01:44.947-00:01:46.001</timestamp>
+        <iu>Mmm, maqul he.</iu>
+        <seg>mmm maqul he</seg>
+        <gloss>mmm okay DM</gloss>
+        <eng>Mm, ok. </eng>
+      </annotation>
+      <annotation who="Speaker A" ref="44">
+        <timestamp>00:01:46.001-00:01:49.938</timestamp>
+        <iu>Uningdinkin mawu shenbe künichu balam Home Depot-qa barsaq héliqi,</iu>
+        <seg>u-ning-dinkin mawu shenbe kün-i-chu bala-m EN:Home EN:Depot-qa bar-sa-q héliqi</seg>
+        <gloss>that-GEN-since this Saturday day-3POSS-TOP child-1SG.POSS EN:Home EN:Depot-DAT go-COND-1PL that</gloss>
+        <eng>And what about that…on Saturday, if we go to Home Depot,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="45">
+        <timestamp>00:01:50.081-00:01:51.364</timestamp>
+        <iu>yene héliqi nimu,</iu>
+        <seg>yene héliqi nimu</seg>
+        <gloss>again that what</gloss>
+        <eng>what was it,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="46">
+        <timestamp>00:01:51.364-00:01:53.080</timestamp>
+        <iu>nimu Kids Workshop-ma? </iu>
+        <seg>nimu EN:Kids EN:Workshop-ma</seg>
+        <gloss>what EN:Kids EN:Workshop-INT</gloss>
+        <eng>that Kids Workshop thing?</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="47">
+        <timestamp>00:01:53.667-00:01:55.227</timestamp>
+        <iu>Ashu mushu shenbe küni bar balam.</iu>
+        <seg>ashu mushu shenbe kün-i bar bala-m</seg>
+        <gloss>that this Saturday day-3POSS exist child-1SG.POSS</gloss>
+        <eng>They’ll have it this Saturday, child.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="48">
+        <timestamp>00:01:55.348-00:01:57.034</timestamp>
+        <iu>Ashunimu alaylimu yasamsen?</iu>
+        <seg>ashu-ni-mu al-ayli-mu yasa-m-sen</seg>
+        <gloss>that-ACC-INT take-OPT.1PL-INT create-INT-2SG.INF</gloss>
+        <eng>Do you want to do that too?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="49">
+        <timestamp>00:01:57.084-00:01:58.837</timestamp>
+        <iu>Okéy....</iu>
+        <seg>okéy</seg>
+        <gloss>okay</gloss>
+        <eng>Ok...</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="50">
+        <timestamp>00:01:59.440-00:02:03.257</timestamp>
+        <iu>[xxx] a kiyimingmu bek meynet bop kétiptu sewetkin yuyup bérey bolamda? </iu>
+        <seg>[xxx] a kiyim-ing-mu bek meynet bo-p két-ipt-du se-wet-kin yuy-up bér-ey bol-am-du-a</seg>
+        <gloss>[xxx] that clothing-2SG.INFM.POSS-INT very dirty be-CVB AUX.ket-PST.EVID-3 put-INTENS-INFM.IMP wash-CVB give-OPT.1SG be-INT-3-DM</gloss>
+        <eng>[xxx] your clothes are all dirty, take them off and let me wash them for you, ok?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="51">
+        <timestamp>00:02:02.623-00:02:03.287</timestamp>
+        <iu>Okéy.</iu>
+        <seg>okéy</seg>
+        <gloss>okay</gloss>
+        <eng>Ok.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="52">
+        <timestamp>00:02:05.966-00:02:07.956</timestamp>
+        <iu>Chéching bek ösüp kétiptu balam.</iu>
+        <seg>chéch-ing bek ös-üp két-ipt-du bala-m</seg>
+        <gloss>hair-2SG.INFM.POSS very grow-CVB AUX.ket-PST.EVID-3 child-1SG.POSS</gloss>
+        <eng>Your hair is getting so long, child.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="53">
+        <timestamp>00:02:07.959-00:02:09.752</timestamp>
+        <iu>Chéchingni késip qoyaylimu bügün?</iu>
+        <seg>chéch-ing-ni kés-ip qoy-ayli-mu bügün</seg>
+        <gloss>hair-2SG.INFM.POSS-ACC cut-CVB AUX.qoy-OPT.1PL-INT today</gloss>
+        <eng>Should we get you a haircut today?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="54">
+        <timestamp>00:02:09.372-00:02:11.238</timestamp>
+        <iu>I don’t care.</iu>
+        <seg>EN:I EN:don't EN:care</seg>
+        <gloss>EN:I EN:don't EN:care</gloss>
+        <eng>I don’t care.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="55">
+        <timestamp>00:02:10.382-00:02:13.305</timestamp>
+        <iu>Men késip qoyaymu ya satrachxanigha apirip kesküzeylimu?</iu>
+        <seg>men kés-ip qoy-ay-mu ya satrachxani-gha apir-ip kes-küz-eyli-mu-i-mu</seg>
+        <gloss>1SG cut-CVB put-OPT.1SG-INT or barbershop-DAT take-CVB cut-CAUS-OPT.1PL-INT-PRES-INT</gloss>
+        <eng>Should I cut it or should we take you to the barbershop and get it cut there?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="56">
+        <timestamp>00:02:13.691-00:02:15.890</timestamp>
+        <iu>I don’t care...</iu>
+        <seg>EN:I EN:don't EN:care</seg>
+        <gloss>EN:I EN:don't EN:care</gloss>
+        <eng>I don’t care...</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="57">
+        <timestamp>00:02:15.407-00:02:16.395</timestamp>
+        <iu>He [balining ismi]?</iu>
+        <seg>he [balining ismi]?</seg>
+        <gloss>DM [child's name]</gloss>
+        <eng>Huh, [kid’s name]?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="58">
+        <timestamp>00:02:16.491-00:02:18.465</timestamp>
+        <iu>I don’t care...</iu>
+        <seg>EN:I EN:don't EN:care</seg>
+        <gloss>EN:I EN:don't EN:care</gloss>
+        <eng>I don’t care...</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="59">
+        <timestamp>00:02:17.721-00:02:18.979</timestamp>
+        <iu>Birni talla deymen.</iu>
+        <seg>bir-ni talla de-y-men</seg>
+        <gloss>one-ACC choose say-PRES-1SG</gloss>
+        <eng>Come on, just pick one.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="60">
+        <timestamp>00:02:19.531-00:02:20.348</timestamp>
+        <iu>[xxx] men--</iu>
+        <seg>[xxx] men</seg>
+        <gloss>[xxx] 1SG</gloss>
+        <eng>[xxx] I—</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="61">
+        <timestamp>00:02:19.568-00:02:20.526</timestamp>
+        <iu>[xxx] [xxx]</iu>
+        <seg>[xxx] [xxx]</seg>
+        <gloss>[xxx] [xxx]</gloss>
+        <eng>[xxx] [xxx]</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="62">
+        <timestamp>00:02:20.348-00:02:23.281</timestamp>
+        <iu>men késip qoyimen ya bolmisa satrachxanigha apirimiz.</iu>
+        <seg>men kés-ip qoy-i-men ya bol-mi-sa satrachxani-gha apir-i-miz</seg>
+        <gloss>1SG cut-CVB put-PRES-1SG or be-NEG-COND barbershop-DAT take-PRES-1PL</gloss>
+        <eng>I can cut it for you, otherwise we can take you to the barbershop.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="63">
+        <timestamp>00:02:22.958-00:02:24.638</timestamp>
+        <iu>Satrachxanigha barghum bar.</iu>
+        <seg>satrachxani-gha bar-ghu-m bar</seg>
+        <gloss>barbershop-DAT go-DESID-1SG.POSS exist</gloss>
+        <eng>I want to go to the barbershop.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="64">
+        <timestamp>00:02:25.415-00:02:27.021</timestamp>
+        <iu>Miyerge kéle men körey chéchingni.</iu>
+        <seg>miyer-ge kél-e men kör-ey chéch-ing-ni</seg>
+        <gloss>here-DAT come-DM 1SG see-OPT.1SG splash-2SG.INFM.POSS-ACC</gloss>
+        <eng>Come here, let me take a look at your hair.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="65">
+        <timestamp>00:02:27.663-00:02:29.891</timestamp>
+        <iu>Satrachxanigha barghum bar!</iu>
+        <seg>satrachxani-gha bar-ghu-m bar</seg>
+        <gloss>barbershop-DAT go-DESID-1SG.POSS exist</gloss>
+        <eng>I want to go to the barbershop!</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="66">
+        <timestamp>00:02:36.110-00:02:37.996</timestamp>
+        <iu>Miyerge kéle men körüp baqay chéchingni,</iu>
+        <seg>miyer-ge kél-e men kör-üp baq-ay chéch-ing-ni</seg>
+        <gloss>here-DAT come-DM 1SG see-CVB AUX.baq-OPT.1SG splash-2SG.INFM.POSS-ACC</gloss>
+        <eng>Come here and let me take a look at your hair,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="67">
+        <timestamp>00:02:38.412-00:02:39.108</timestamp>
+        <iu>Miyerge kéle,</iu>
+        <seg>miyer-ge kél-e</seg>
+        <gloss>here-DAT come-DM</gloss>
+        <eng>come here.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="68">
+        <timestamp>00:02:41.730-00:02:43.751</timestamp>
+        <iu>Balam bu chéching ösüptu,</iu>
+        <seg>bala-m bu chéch-ing ös-üpt-u</seg>
+        <gloss>child-1SG.POSS this hair-2SG.INFM.POSS grow-PST.EVID-3</gloss>
+        <eng>Wow, your hair has gotten long, child,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="69">
+        <timestamp>00:02:43.751-00:02:44.587</timestamp>
+        <iu>sen,</iu>
+        <seg>sen</seg>
+        <gloss>2SG.INFM</gloss>
+        <eng>you,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="70">
+        <timestamp>00:02:44.883-00:02:48.252</timestamp>
+        <iu>bu chachning astida yashawatqan bir-- héliqichu,</iu>
+        <seg>bu chach-ning ast-i-da yasha-watqan bir héliqi-chu</seg>
+        <gloss>this hair-GEN underneath-3POSS-LOC live-PTCP.CONT one that-TOP</gloss>
+        <eng>there’s something living under your hair—</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="71">
+        <timestamp>00:02:48.257-00:02:50.145</timestamp>
+        <iu>chachni béshinggha, [xxx] [xxx],</iu>
+        <seg>chach-ni bésh-ing-gha [xxx] [xxx]</seg>
+        <gloss>hair-ACC head-2SG.INFM.POSS-DAT [xxx] [xxx]</gloss>
+        <eng>uh, the hair on your head, [xxx] [xxx]</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="72">
+        <timestamp>00:02:50.145-00:02:53.003</timestamp>
+        <iu>kigiz bilen béshinggha ornutup qoyghan ademdekla bop qapsen balam.</iu>
+        <seg>kigiz bilen bésh-ing-gha orni-t-ip qoy-ghan adem-dek-la bo-p qa-p-sen bala-m</seg>
+        <gloss>carpet with head-2SG.INFM.POSS-DAT be.placed-CAUS-CVB AUX.qoy-PTCP.PST person-SIM-just become-CVB AUX.qal-CVB-2SG.INF child-1SG.POSS</gloss>
+        <eng>you look like a person with a felt carpet stuck on your head, child.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="73">
+        <timestamp>00:02:53.656-00:02:59.262</timestamp>
+        <iu>In twenty-five years ademler özini chéchinimu kesmey ashtaq qip baqqanlar bar.</iu>
+        <seg>EN:in EN:twenty-five EN:years adem-ler öz-i-ni chéch-i-ni-mu kes-mey ashtaq qi-p baq-qan-lar bar</seg>
+        <gloss>EN:in EN:twenty-five EN:years person-PL self-3POSS-ACC hair-3POSS-ACC-INT cut-CVB.NEG thus do-CVB AUX.baq-PTCP.PST-PL exist</gloss>
+        <eng>25 years ago there were people who made their hair like this, never cutting it.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="74">
+        <timestamp>00:02:59.262-00:03:02.847</timestamp>
+        <iu>Sen ashtaq twenty-five years-ning aldida yashawatqan ademma emise?</iu>
+        <seg>sen ashtaq EN:twenty-five EN:years-ning ald-i-da yasha-watqan adem-mu emise</seg>
+        <gloss>2SG.INFM thus EN:twenty-five EN:years-GEN front-3POSS-LOC live-PTCP.CONT person-INT well</gloss>
+        <eng>So you’re a person living 25 years in the past, huh?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="75">
+        <timestamp>00:03:02.361-00:03:03.782</timestamp>
+        <iu>Mm-hmm,</iu>
+        <seg>mm-hmm</seg>
+        <gloss>mm-hmm</gloss>
+        <eng>Mm-hmm,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="76">
+        <timestamp>00:03:04.094-00:03:08.037</timestamp>
+        <iu>Sen hazir bu twenty-first century-da yashawatqan ademghu balam?</iu>
+        <seg>sen hazir bu EN:twenty-first EN:century-da yasha-watqan adem-ghu bala-m</seg>
+        <gloss>2SG.INFM now this EN:twenty-first EN:century-LOC live-PTCP.CONT person-CONF child-1SG.POSS</gloss>
+        <eng>I think you’re a person living in the 21st century here, child.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="77">
+        <timestamp>00:03:08.885-00:03:10.230</timestamp>
+        <iu>I don't care.</iu>
+        <seg>EN:I EN:don't EN:care</seg>
+        <gloss>EN:I EN:don't EN:care</gloss>
+        <eng>I don't care.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="78">
+        <timestamp>00:03:11.222-00:03:14.495</timestamp>
+        <iu>Yaq balam sel bolmaptu bu chéching bek ösüp kétiptu balam.</iu>
+        <seg>yaq bala-m sel bol-ma-pt-u bu chéch-ing bek ös-üp két-ipt-u bala-m</seg>
+        <gloss>no child-1SG.POSS a.bit be-NEG-PST.EVID-3 this hair-2SG.INFM.POSS very grow-CVB AUX.ket-PST.EVID-3 child-1SG.POSS</gloss>
+        <eng>No that’s not going to work, child, your hair has gotten so long.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="79">
+        <timestamp>00:03:15.520-00:03:16.869</timestamp>
+        <iu>Ukangning mijezi yoq--</iu>
+        <seg>uka-ng-ning mijez-i yoq</seg>
+        <gloss>younger.brother-2SG.INFM.POSS-GEN feeling-3POSS not.exist</gloss>
+        <eng>Your brother’s not feeling good—</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="80">
+        <timestamp>00:03:16.113-00:03:19.790</timestamp>
+        <iu>Sixteen hundred [xxx] [xxx] [xxx]</iu>
+        <seg>EN:sixteen EN:hundred [xxx] [xxx] [xxx]</seg>
+        <gloss>EN:sixteen EN:hundred [xxx] [xxx] [xxx]</gloss>
+        <eng>Sixteen hundred [...] [...] [...]</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="81">
+        <timestamp>00:03:17.657-00:03:22.458</timestamp>
+        <iu>Ukangning mijezi yoq turup ashu sugha chilap turup chéchini alsam jim olturup berdi balam.</iu>
+        <seg>uka-ng-ning mijez-i yoq tur-up ashu su-gha chila-p tur-up chéch-i-ni al-sa-m jim oltur-up ber-d-i bala-m</seg>
+        <gloss>younger.brother-2SG.INFM.POSS-GEN feeling-3POSS not.exist AUX.tur-CVB that water-DAT dip-CVB AUX.tur-CVB hair-3POSS-ACC take-COND-1SG quiet sit-CVB AUX.ber-PST-3 child-1SG.POSS</gloss>
+        <eng>When your brother wasn’t feeling good, he sat quietly while I soaked his hair in water and cut it, child. </eng>
+      </annotation>
+      <annotation who="Speaker A" ref="82">
+        <timestamp>00:03:22.994-00:03:25.252</timestamp>
+        <iu>Sen a yerde jim olturup berseng men alaymu ya?</iu>
+        <seg>sen a yer-de jim oltur-up ber-se-ng men al-ay-mu ya</seg>
+        <gloss>2SG.INFM that place-LOC quiet sit-CVB AUX.ber-COND-2SG.INFM 1SG take-OPT.1SG-INT or</gloss>
+        <eng>You sit here quietly and I’ll cut yours.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="83">
+        <timestamp>00:03:25.806-00:03:26.462</timestamp>
+        <iu>No.</iu>
+        <seg>EN:no</seg>
+        <gloss>EN:no</gloss>
+        <eng>No.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="84">
+        <timestamp>00:03:27.101-00:03:28.808</timestamp>
+        <iu>Miyege kéle men sanga gep qilay.</iu>
+        <seg>miye-ge kél-e men sanga gep qil-ay</seg>
+        <gloss>here-DAT come-dm 1SG 2SG.INF.DAT speech do-OPT.1SG</gloss>
+        <eng>Come here and let me talk to you.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="85">
+        <timestamp>00:03:27.900-00:03:29.992</timestamp>
+        <iu>Méning satrachxanigha barghum bar.</iu>
+        <seg>méning satrachxani-gha bar-ghu-m bar</seg>
+        <gloss>1SG.GEN barbershop-DAT go-DESID-1SG.POSS exist</gloss>
+        <eng>I want to go to the barbershop.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="86">
+        <timestamp>00:03:30.637-00:03:35.834</timestamp>
+        <iu>Satrachxanigha barsang ma yerdiki chachlar ma yeringge chüshüp ketse qichiship ketti dep héliqi [xxx] qaqshima.</iu>
+        <seg>satrachxani-gha bar-sa-ng ma yer-diki chach-lar ma yer-ing-ge chüsh-üp ket-se qichish-ip ket-t-i de-p héliqi [xxx] qaqshi-ma</seg>
+        <gloss>barbershop-DAT go-COND-2SG.INFM this place-LOC.REL hair-PL this place-2SG.INFM.POSS-DAT go.down-CVB AUX.ket-COND tickle-CVB AUX.ket-PST-3 say-CVB that [xxx] groan-NEG</gloss>
+        <eng>If you go to the barbershop, don’t complain if the hair falls somewhere on you and makes you itchy [xxx]</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="87">
+        <timestamp>00:03:34.098-00:03:35.810</timestamp>
+        <iu>I'm not a fool.</iu>
+        <seg>EN:I'm EN:not EN:a EN:fool</seg>
+        <gloss>EN:I'm EN:not EN:a EN:fool</gloss>
+        <eng>I'm not a fool.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="88">
+        <timestamp>00:03:35.842-00:03:36.420</timestamp>
+        <iu>[xxx],</iu>
+        <seg>[xxx]</seg>
+        <gloss>[xxx]</gloss>
+        <eng>[xxx],</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="89">
+        <timestamp>00:03:36.420-00:03:38.084</timestamp>
+        <iu>[xxx], let me see what’s on your thumb.</iu>
+        <seg>[xxx] EN:let EN:me EN:see EN:what's EN:on EN:your EN:thumb</seg>
+        <gloss>[xxx] EN:let EN:me EN:see EN:what's EN:on EN:your EN:thumb</gloss>
+        <eng>[xxx], let me see what’s on your thumb.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="90">
+        <timestamp>00:03:38.163-00:03:38.573</timestamp>
+        <iu>Mm.</iu>
+        <seg>mm</seg>
+        <gloss>mm</gloss>
+        <eng>Mm.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="91">
+        <timestamp>00:03:38.477-00:03:39.663</timestamp>
+        <iu>Men bilimen.</iu>
+        <seg>men bil-i-men</seg>
+        <gloss>1SG know-PRES-1SG</gloss>
+        <eng>I know.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="92">
+        <timestamp>00:03:40.641-00:03:41.568</timestamp>
+        <iu>He okey.</iu>
+        <seg>he okey</seg>
+        <gloss>uh okay</gloss>
+        <eng>Uh, ok.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="93">
+        <timestamp>00:03:41.703-00:03:44.266</timestamp>
+        <iu>Undaq bolsa bügün chüshtin kéyin sel aldirash balam.</iu>
+        <seg>undaq bol-sa bügün chüsh-tin kéyin sel aldirash bala-m</seg>
+        <gloss>thus be-COND today noon-ABL after a.bit busy child-1SG.POSS</gloss>
+        <eng>In that case, I’m a little busy this afternoon, child.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="94">
+        <timestamp>00:03:44.266-00:03:45.216</timestamp>
+        <iu>Ete,</iu>
+        <seg>ete</seg>
+        <gloss>tomorrow</gloss>
+        <eng>Tomorrow,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="95">
+        <timestamp>00:03:45.306-00:03:47.236</timestamp>
+        <iu>he etimu belkim aldirash bolushi mumkin dadang,</iu>
+        <seg>he eti-mu belkim aldirash bol-ush-i mumkin dada-ng</seg>
+        <gloss>uh tomorrow-also maybe busy be-GER-3POSS possible dad-2SG.INFM</gloss>
+        <eng>uh, tomorrow your dad might be busy too,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="96">
+        <timestamp>00:03:47.240-00:03:49.069</timestamp>
+        <iu>ögünlükke aparghuche sen,</iu>
+        <seg>ögünlük-ke apar-ghu-che sen</seg>
+        <gloss>day.after.tomorrow-DAT take-DESID-EQU 2SG.INFM</gloss>
+        <eng>for the day after tomorrow until we take you,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="97">
+        <timestamp>00:03:49.137-00:03:49.936</timestamp>
+        <iu>néme qilalamsen,</iu>
+        <seg>néme qil-al-am-sen</seg>
+        <gloss>what do-ABIL-INT-2SG.INF</gloss>
+        <eng>can you do something,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="98">
+        <timestamp>00:03:49.936-00:03:51.147</timestamp>
+        <iu>tamaq qilalamsen?</iu>
+        <seg>tamaq qil-al-am-sen</seg>
+        <gloss>meal do-ABIL-INT-2SG.INF</gloss>
+        <eng>can you make food?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="99">
+        <timestamp>00:03:51.223-00:03:52.602</timestamp>
+        <iu>Mm-hmm...</iu>
+        <seg>mm-hmm</seg>
+        <gloss>mm-hmm</gloss>
+        <eng>Mm-hmm...</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="100">
+        <timestamp>00:03:52.468-00:03:53.359</timestamp>
+        <iu>Mm okéy.</iu>
+        <seg>mm okéy</seg>
+        <gloss>mm ok</gloss>
+        <eng>Mm ok.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="101">
+        <timestamp>00:03:54.609-00:03:56.304</timestamp>
+        <iu>Ma ukanggha bir dem gep qile balam.</iu>
+        <seg>ma uka-ng-gha bir dem gep qil-e bala-m</seg>
+        <gloss>this younger.brother-2SG.INFM.POSS-DAT one rest speech do-dm child-1SSG.POSS</gloss>
+        <eng>Talk to your brother for a bit, child.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="102">
+        <timestamp>00:03:56.304-00:03:57.478</timestamp>
+        <iu>Ukang sangila külidu,</iu>
+        <seg>uka-ng sangi-la kül-i-du</seg>
+        <gloss>younger brother-2SG.INFM.POSS 2SG.INF.DAT-just smile-PRES-3</gloss>
+        <eng>Your brother smiles at you,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="103">
+        <timestamp>00:03:57.478-00:03:59.375</timestamp>
+        <iu>biz héchqaysimizgha undaq qilmaydighu.</iu>
+        <seg>biz héchqaysi-miz-gha undaq qil-ma-y-di-ghu</seg>
+        <gloss>1PL none-1PL-DAT thus do-NEG-PRES-3-CONF</gloss>
+        <eng>he doesn’t do that for any of us.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="104">
+        <timestamp>00:04:00.768-00:04:01.885</timestamp>
+        <iu>Ukanggha gep qile.</iu>
+        <seg>uka-ng-gha gep qil-e</seg>
+        <gloss>younger.brother-2SG.INFM.POSS-DAT speech do-DM</gloss>
+        <eng>Talk to your brother.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="105">
+        <timestamp>00:04:00.870-00:04:01.594</timestamp>
+        <iu>No.</iu>
+        <seg>EN:no</seg>
+        <gloss>EN:no</gloss>
+        <eng>No.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="106">
+        <timestamp>00:04:03.394-00:04:04.014</timestamp>
+        <iu>No.</iu>
+        <seg>EN:no</seg>
+        <gloss>EN:no</gloss>
+        <eng>No.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="107">
+        <timestamp>00:04:03.546-00:04:03.879</timestamp>
+        <iu>[xxx]</iu>
+        <seg>[xxx]</seg>
+        <gloss>[xxx]</gloss>
+        <eng>[xxx]</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="108">
+        <timestamp>00:04:06.258-00:04:07.397</timestamp>
+        <iu>[bowaqning ismi]!</iu>
+        <seg>[bowaqning ismi]</seg>
+        <gloss>[baby's name]</gloss>
+        <eng>[baby's name]!</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="109">
+        <timestamp>00:04:07.675-00:04:09.460</timestamp>
+        <iu>[xxx] [xxx] [xxx]</iu>
+        <seg>[xxx] [xxx] [xxx]</seg>
+        <gloss>[xxx] [xxx] [xxx]</gloss>
+        <eng>[xxx] [xxx] [xxx]</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="110">
+        <timestamp>00:04:09.681-00:04:10.895</timestamp>
+        <iu>[bowaqning ismi]!</iu>
+        <seg>[bowaqning ismi]</seg>
+        <gloss>[baby's name]</gloss>
+        <eng>[baby's name]!</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="111">
+        <timestamp>00:04:15.139-00:04:16.045</timestamp>
+        <iu>[balining ismi]?</iu>
+        <seg>[balining ismi]</seg>
+        <gloss>[child's name]</gloss>
+        <eng>[kid's name]?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="112">
+        <timestamp>00:04:16.045-00:04:17.454</timestamp>
+        <iu>Mom?</iu>
+        <seg>EN:Mom</seg>
+        <gloss>EN:Mom</gloss>
+        <eng>Mom?</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="113">
+        <timestamp>00:04:18.339-00:04:18.949</timestamp>
+        <iu>Balam sen--</iu>
+        <seg>bala-m sen</seg>
+        <gloss>child-1SG.POSS 2SG.INFM</gloss>
+        <eng>Child, you—</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="114">
+        <timestamp>00:04:19.230-00:04:21.613</timestamp>
+        <iu>yéqinda oqughan kitabliringni dep baqe manga,</iu>
+        <seg>yéqin-da oqu-ghan kitablir-ing-ni de-p baq-e manga</seg>
+        <gloss>recent-LOC study-PTCP.PST book-PL-2SG.INFM-ACC say-CVB look-DM 1SG.DAT</gloss>
+        <eng>tell me about those books you’ve been reading recently,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="115">
+        <timestamp>00:04:21.613-00:04:23.574</timestamp>
+        <iu>her kün oquwatamsen oqumaywatamsen?</iu>
+        <seg>her kün oqu-wat-am-sen oqu-ma-y-wat-am-sen</seg>
+        <gloss>every day study-CONT-INT-2SG.INF study-NEG-PRES-CONT-INT-2SG.INF</gloss>
+        <eng>have you been reading every day or not?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="116">
+        <timestamp>00:04:23.103-00:04:23.785</timestamp>
+        <iu>[xxx],</iu>
+        <seg>[xxx]</seg>
+        <gloss>[xxx]</gloss>
+        <eng>[xxx],</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="117">
+        <timestamp>00:04:23.785-00:04:26.220</timestamp>
+        <iu>[xxx] [xxx] [xxx] [xxx].</iu>
+        <seg>[xxx] [xxx] [xxx] [xxx]</seg>
+        <gloss>[xxx] [xxx] [xxx] [xxx]</gloss>
+        <eng>[xxx] [xxx] [xxx] [xxx].</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="118">
+        <timestamp>00:04:26.290-00:04:26.875</timestamp>
+        <iu>A--</iu>
+        <seg>A--</seg>
+        <gloss>*</gloss>
+        <eng>Uh--</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="119">
+        <timestamp>00:04:27.028-00:04:27.954</timestamp>
+        <iu>nimu--</iu>
+        <seg>nimu</seg>
+        <gloss>what</gloss>
+        <eng>um--</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="120">
+        <timestamp>00:04:29.153-00:04:33.321</timestamp>
+        <iu>library-da hold qip qoyghan kitabliring abaytin keptiken balam,</iu>
+        <seg>EN:library-da EN:hold qi-p qoy-ghan kitab-lir-ing abaytin ke-pt-iken bala-m</seg>
+        <gloss>EN:library-LOC EN:hold do-CVB put-PTCP.PST book-PL-2SG.INFM.POSS recently come-PST.EVID-EVID child-1SG.POSS</gloss>
+        <eng>those books you put on hold at the library came in recently, child,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="121">
+        <timestamp>00:04:33.891-00:04:35.572</timestamp>
+        <iu>yaxshi kitablarni apsen.</iu>
+        <seg>yaxshi kitab-lar-ni a-p-sen</seg>
+        <gloss>good book-PL-ACC take-CVB-2SG.INF</gloss>
+        <eng>Looks like you got some good books.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="122">
+        <timestamp>00:04:36.187-00:04:38.528</timestamp>
+        <iu>Xiroshimaning kitablirini apsen he?</iu>
+        <seg>xiroshima-ning kitab-lir-i-ni a-p-sen he</seg>
+        <gloss>Hiroshima-GEN book-PL-3POSS-ACC take-CVB-2SG.INF DM</gloss>
+        <eng>You got books about Hiroshima, huh?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="123">
+        <timestamp>00:04:39.865-00:04:40.894</timestamp>
+        <iu>Xiroshima?</iu>
+        <seg>xiroshima</seg>
+        <gloss>Hiroshima</gloss>
+        <eng>Hiroshima?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="124">
+        <timestamp>00:04:40.894-00:04:42.547</timestamp>
+        <iu>Bombing of Hiroshima.</iu>
+        <seg>EN:bombing EN:of EN:Hiroshima</seg>
+        <gloss>EN:bombing EN:of EN:Hiroshima</gloss>
+        <eng>Bombing of Hiroshima.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="125">
+        <timestamp>00:04:42.456-00:04:45.202</timestamp>
+        <iu>He, qandaq bolup u kitabni élish xiyalinggha kep qaldi balam?</iu>
+        <seg>he qandaq bol-up u kitab-ni él-ish xiyal-ing-gha ke-p qal-d-i bala-m</seg>
+        <gloss>uh how be-CVB that book-ACC take-GER thought-2SG.INFM-DAT come-CVB remain-PST-3 child-1SG.POSS</gloss>
+        <eng>Hm, what made you think to get that book, child?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="126">
+        <timestamp>00:04:46.305-00:04:47.079</timestamp>
+        <iu>I don't know.</iu>
+        <seg>EN:I EN:don't EN:know</seg>
+        <gloss>EN:I EN:don't EN:know</gloss>
+        <eng>I don't know.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="127">
+        <timestamp>00:04:47.771-00:04:50.514</timestamp>
+        <iu>[xxx] qilip men oqumighan kitablarni,</iu>
+        <seg>[xxx] qil-ip men oqu-mi-ghan kitab-lar-ni</seg>
+        <gloss>[xxx] do-CVB 1SG study-NEG-PTCP.PST book-PL-ACC</gloss>
+        <eng>[xxx] some books I hadn’t read before,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="128">
+        <timestamp>00:04:50.511-00:04:50.954</timestamp>
+        <iu>He'e.</iu>
+        <seg>he'e</seg>
+        <gloss>yes</gloss>
+        <eng>Uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="129">
+        <timestamp>00:04:50.954-00:04:52.608</timestamp>
+        <iu>Ep baqay dep oylidim men.</iu>
+        <seg>e-p baq-ay de-p oyli-d-im men</seg>
+        <gloss>take-CVB look-OPT.1SG say-CVB think-PST-1SG 1SG</gloss>
+        <eng>I just decided to check it out. </eng>
+      </annotation>
+      <annotation who="Speaker A" ref="130">
+        <timestamp>00:04:52.608-00:04:53.406</timestamp>
+        <iu>He...</iu>
+        <seg>he</seg>
+        <gloss>uh</gloss>
+        <eng>Uh…</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="131">
+        <timestamp>00:04:53.413-00:04:55.427</timestamp>
+        <iu>Yaq, u-- u isim qandaq ésingge keldi deymen,</iu>
+        <seg>yaq u-- u isim qandaq és-ing-ge kel-d-i de-y-men</seg>
+        <gloss>no * that name how mind-2SG.INFM-DAT come-PST-PRES say-PRES-1SG</gloss>
+        <eng>No, I mean how did its name come to your mind,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="132">
+        <timestamp>00:04:55.427-00:04:57.408</timestamp>
+        <iu> tapshuruqlarni hold qilghan chaghda,</iu>
+        <seg>tapshuruq-lar-ni EN:hold qil-ghan chagh-da</seg>
+        <gloss>homework-PL-ACC EN:hold do-PTCP.PST time-LOC</gloss>
+        <eng>when you were putting a hold on books for your homework,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="133">
+        <timestamp>00:04:57.408-00:04:59.654</timestamp>
+        <iu>qandaq ashu isim ésingge kep qaldi?</iu>
+        <seg>qandaq ashu isim és-ing-ge ke-p qal-d-i</seg>
+        <gloss>how that name mind-2SG.INFM.POSS-DAT come-CVB AUX.qal-PST-3</gloss>
+        <eng>how did that name come to mind?</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="134">
+        <timestamp>00:05:01.612-00:05:02.117</timestamp>
+        <iu>He?</iu>
+        <seg>he</seg>
+        <gloss>huh?</gloss>
+        <eng>Huh?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="135">
+        <timestamp>00:05:04.319-00:05:04.708</timestamp>
+        <iu>U...</iu>
+        <seg>u</seg>
+        <gloss>3SG</gloss>
+        <eng>It…</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="136">
+        <timestamp>00:05:05.163-00:05:08.187</timestamp>
+        <iu>Every time alghum keldi ashuni so...</iu>
+        <seg>EN:every EN:time al-ghu-m kel-d-i ashu-ni EN:so</seg>
+        <gloss>EN:every EN:time take-DESID-1SG.POSS come-PST-3 that-ACC EN:so</gloss>
+        <eng>Every time I wanted to get it, so…</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="137">
+        <timestamp>00:05:08.630-00:05:12.156</timestamp>
+        <iu>He birsige ashu kitabni apsen, andin kéyin yene bashqa kitablarmu barken,</iu>
+        <seg>he bir-si-ge ashu kitab-ni a-p-sen andin kéyin yene bashqa kitab-lar-mu bar-ken</seg>
+        <gloss>uh one-3POSS-DAT that book-ACC take-CVB-2SG.INF then after again other book-PL-INT exist-EVID</gloss>
+        <eng>Uh, so you just got that one book, and then there were also some more books later,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="138">
+        <timestamp>00:05:12.156-00:05:14.682</timestamp>
+        <iu>ésimde qalmaptu hazir, üchmu töttek kitabken.</iu>
+        <seg>és-im-de qal-ma-pt-du hazir üch-mu töt-tek kitab-ken</seg>
+        <gloss>mind-1SG.POSS-LOC remain-NEG-PST.EVID-3 now three-INT four-SIM book-EVID</gloss>
+        <eng>I can’t remember now, three or four books I think.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="139">
+        <timestamp>00:05:16.211-00:05:17.954</timestamp>
+        <iu>Qanche kitabni alghanting jem'iy?</iu>
+        <seg>qanche kitab-ni al-ghan-ti-ng jem'iy</seg>
+        <gloss>how.many book-ACC take-PTCP.PST-XPST-2SG.INFM.POSS in.total</gloss>
+        <eng>How many books did you get altogether?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="140">
+        <timestamp>00:05:18.391-00:05:19.440</timestamp>
+        <iu>I don't know.</iu>
+        <seg>EN:I EN:don't EN:know</seg>
+        <gloss>EN:I EN:don't EN:know</gloss>
+        <eng>I don't know.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="141">
+        <timestamp>00:05:19.966-00:05:21.389</timestamp>
+        <iu>I didn't count.</iu>
+        <seg>EN:I EN:didn't EN:count</seg>
+        <gloss>EN:I EN:didn't EN:count</gloss>
+        <eng>I didn't count.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="142">
+        <timestamp>00:05:28.964-00:05:31.130</timestamp>
+        <iu>Chüshtichu balam néme tamaq yégüng bar?</iu>
+        <seg>chüsh-ti-chu bala-m néme tamaq yé-gü-ng bar</seg>
+        <gloss>noon-LOC-TOP child-1SG.POSS what meal eat-DESID-2SG.INFM.POSS exist</gloss>
+        <eng>And for lunch, child, what do you want to eat?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="143">
+        <timestamp>00:05:32.577-00:05:33.697</timestamp>
+        <iu>Chüshte?</iu>
+        <seg>chüsh-te</seg>
+        <gloss>noon-LOC</gloss>
+        <eng>For lunch?</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="144">
+        <timestamp>00:05:33.697-00:05:34.295</timestamp>
+        <iu>Mm.</iu>
+        <seg>mm</seg>
+        <gloss>mm</gloss>
+        <eng>Mm.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="145">
+        <timestamp>00:05:34.396-00:05:35.920</timestamp>
+        <iu>Chocolate cake!</iu>
+        <seg>EN:chocolate EN:cake</seg>
+        <gloss>EN:chocolate EN:cake</gloss>
+        <eng>Chocolate cake!</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="146">
+        <timestamp>00:05:35.925-00:05:36.386</timestamp>
+        <iu>Mm.</iu>
+        <seg>mm</seg>
+        <gloss>mm</gloss>
+        <eng>Mm.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="147">
+        <timestamp>00:05:36.120-00:05:37.473</timestamp>
+        <iu>Ice cream!</iu>
+        <seg>EN:ice EN:cream</seg>
+        <gloss>EN:ice EN:cream</gloss>
+        <eng>Ice cream!</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="148">
+        <timestamp>00:05:38.634-00:05:40.362</timestamp>
+        <iu>Leghmen emes!</iu>
+        <seg>leghmen emes</seg>
+        <gloss>leghmen.noodles not</gloss>
+        <eng>Not leghmen noodles!</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="149">
+        <timestamp>00:05:40.293-00:05:40.848</timestamp>
+        <iu>Hmm.</iu>
+        <seg>hmm</seg>
+        <gloss>hmm</gloss>
+        <eng>Hmm.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="150">
+        <timestamp>00:05:42.202-00:05:42.762</timestamp>
+        <iu>[xxx]</iu>
+        <seg>[xxx]</seg>
+        <gloss>[xxx]</gloss>
+        <eng>[xxx]</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="151">
+        <timestamp>00:05:44.648-00:05:45.682</timestamp>
+        <iu>Polo!</iu>
+        <seg>polo</seg>
+        <gloss>pilaf</gloss>
+        <eng>Pilaf!</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="152">
+        <timestamp>00:05:46.005-00:05:47.166</timestamp>
+        <iu>Sangza!</iu>
+        <seg>sangza</seg>
+        <gloss>sangza(food)</gloss>
+        <eng>Sangza!</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="153">
+        <timestamp>00:05:47.329-00:05:48.459</timestamp>
+        <iu>Sangza?</iu>
+        <seg>sangza</seg>
+        <gloss>sangza(food)</gloss>
+        <eng>Sangza?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="154">
+        <timestamp>00:05:48.860-00:05:49.630</timestamp>
+        <iu>He...</iu>
+        <seg>he</seg>
+        <gloss>uh</gloss>
+        <eng>Yeah…</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="155">
+        <timestamp>00:05:49.456-00:05:51.223</timestamp>
+        <iu>Sangza dégen tamaq emes balam u,</iu>
+        <seg>sangza dé-gen tamaq emes bala-m u</seg>
+        <gloss>sangza(food) say-PTCP.PST meal not child-1SG.POSS 3SG</gloss>
+        <eng>Sangza isn’t a meal, child.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="156">
+        <timestamp>00:05:51.223-00:05:52.781</timestamp>
+        <iu>Sangza dégenchu,</iu>
+        <seg>sangza dé-gen-chu</seg>
+        <gloss>sangza(food) say-PTCP.PST-TOP</gloss>
+        <eng>Sangza, </eng>
+      </annotation>
+      <annotation who="Speaker A" ref="157">
+        <timestamp>00:05:52.781-00:05:56.190</timestamp>
+        <iu>héyt bolghan waqitlarda munda jozigha tizip qoyidighanchu,</iu>
+        <seg>héyt bol-ghan waqit-lar-da munda jozi-gha tüz-üp qoy-idighan-chu</seg>
+        <gloss>Eid be-PTCP.PST time-PL-LOC thus table-DAT arrange-CVB AUX.qoy-PTCP.PRES-TOP</gloss>
+        <eng>that’s the thing we put on the table during Eid celebrations,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="158">
+        <timestamp>00:05:55.329-00:05:56.418</timestamp>
+        <iu>Héyt boldi.</iu>
+        <seg>héyt bol-d-i</seg>
+        <gloss>Eid be-PST-3</gloss>
+        <eng>It’s Eid now.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="159">
+        <timestamp>00:05:56.190-00:05:57.869</timestamp>
+        <iu>«snack» dep oylisang bolidu.  </iu>
+        <seg>EN:snack de-p oyli-sa-ng bol-i-du</seg>
+        <gloss>EN:snack say-CVB think-COND-2SG.INFM.POSS be-PRES-3</gloss>
+        <eng>You could think of it as a snack.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="160">
+        <timestamp>00:05:57.572-00:05:58.889</timestamp>
+        <iu>Héyt boldi.</iu>
+        <seg>héyt bol-d-i</seg>
+        <gloss>Eid be-PST-3</gloss>
+        <eng>It’s Eid.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="161">
+        <timestamp>00:05:58.836-00:06:00.904</timestamp>
+        <iu>Héyt bolmidi téxi, ramizan kélidighanda,</iu>
+        <seg>héyt bol-mi-d-i téxi ramizan kél-idighan-da</seg>
+        <gloss>Eid be-NEG-PST-3 still Ramadan come-PTCP.PRES-LOC</gloss>
+        <eng>It’s not Eid yet, Ramadan is coming,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="162">
+        <timestamp>00:06:00.906-00:06:02.915</timestamp>
+        <iu>[xxx]-- azraq waqit qaldi ramizangha.</iu>
+        <seg>[xxx] azraq waqit qal-d-i ramizan-gha</seg>
+        <gloss>[xxx] a.little time remain-PST-3 Ramadan-DAT</gloss>
+        <eng>[xxx] we’ve got a bit of time left until Ramadan still.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="163">
+        <timestamp>00:06:03.607-00:06:05.399</timestamp>
+        <iu>Roza tutamsen tutmamsen?</iu>
+        <seg>roza tut-am-sen tut-ma-am-sen</seg>
+        <gloss>fasting restrain-INT-2SG.INF restrain-NEG-INT-2SG.INF</gloss>
+        <eng>Are you going to fast?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="164">
+        <timestamp>00:06:06.069-00:06:06.802</timestamp>
+        <iu>I don't know.</iu>
+        <seg>EN:I EN:don't EN:know</seg>
+        <gloss>EN:I EN:don't EN:know</gloss>
+        <eng>I don't know.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="165">
+        <timestamp>00:06:07.264-00:06:07.988</timestamp>
+        <iu>Yighlimang balam,</iu>
+        <seg>yighli-ma-ng bala-m</seg>
+        <gloss>cry-NEG-IMP.2SG.POL child-1SG.POSS</gloss>
+        <eng>Don’t cry, baby,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="166">
+        <timestamp>00:06:08.000-00:06:08.797</timestamp>
+        <iu>yighlimang meng.</iu>
+        <seg>yighli-ma-ng meng</seg>
+        <gloss>cry-NEG-IMP.2SG.POL here</gloss>
+        <eng>here, don’t cry.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="167">
+        <timestamp>00:06:09.083-00:06:10.084</timestamp>
+        <iu>[bowaqning ismi]!</iu>
+        <seg>[bowaqning ismi]</seg>
+        <gloss>[baby's name]</gloss>
+        <eng>[baby's name]!</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="168">
+        <timestamp>00:06:10.117-00:06:10.444</timestamp>
+        <iu>Meng.</iu>
+        <seg>meng</seg>
+        <gloss>here</gloss>
+        <eng>Here,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="169">
+        <timestamp>00:06:10.387-00:06:12.779</timestamp>
+        <iu>Which age-de bashlaydu?</iu>
+        <seg>EN:which EN:age-de bashla-y-du</seg>
+        <gloss>EN:which EN:age-LOC begin-PRES-3</gloss>
+        <eng>At what age do people start fasting?</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="170">
+        <timestamp>00:06:10.444-00:06:11.283</timestamp>
+        <iu>[xxx] oynang.</iu>
+        <seg>[xxx] oyna-ng</seg>
+        <gloss>[xxx] play-IMP.2SG.POL</gloss>
+        <eng>play with [xxx].</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="171">
+        <timestamp>00:06:13.488-00:06:17.267</timestamp>
+        <iu>He, awu kimler toqquz yash waqtidin bashlapla roza tutup.</iu>
+        <seg>he awu kim-ler toqquz yash waqt-i-din bashla-p-la roza tut-up</seg>
+        <gloss>uh that who-PL nine young time-3-ABL begin-CVB-just fasting restrain-CVB</gloss>
+        <eng>Uh, those kids started fasting when they were nine years old.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="172">
+        <timestamp>00:06:17.439-00:06:19.346</timestamp>
+        <iu>Néme yiqitisen ukangni?</iu>
+        <seg>néme yiqit-i-sen uka-ng-ni</seg>
+        <gloss>what overturn-PRES-2SG.INF younger brother-2SG.INFM.POSS-ACC</gloss>
+        <eng>Why are you knocking your brother over?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="173">
+        <timestamp>00:06:19.420-00:06:21.562</timestamp>
+        <iu>Hey it’s not my fault I tripped,</iu>
+        <seg>EN:hey EN:it's EN:not EN:my EN:fault EN:I EN:tripped</seg>
+        <gloss>EN:hey EN:it's EN:not EN:my EN:fault EN:I EN:tripped</gloss>
+        <eng>Hey it’s not my fault I tripped,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="174">
+        <timestamp>00:06:22.755-00:06:23.598</timestamp>
+        <iu>Xapa bolmang balam.</iu>
+        <seg>xapa bol-ma-ng bala-m</seg>
+        <gloss>upset be-NEG-IMP.2SG.POL child-1SG.POSS</gloss>
+        <eng>Don’t be upset, baby.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="175">
+        <timestamp>00:06:23.598-00:06:24.233</timestamp>
+        <iu>Xapa bolmang.</iu>
+        <seg>xapa bol-ma-ng</seg>
+        <gloss>upset be-NEG-IMP.2SG.POL</gloss>
+        <eng>Don’t be upset.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="176">
+        <timestamp>00:06:28.533-00:06:31.473</timestamp>
+        <iu>Ukangning mijezi yoq balam, ésingde tut he balam he?</iu>
+        <seg>uka-ng-ning mijez-i yoq bala-m és-ing-de tut he bala-m he</seg>
+        <gloss>younger.brother-2SG.INFM.POSS-GEN feeling-3POSS not.exist child-1SG.POSS mind-2SG.INFM.POSS-LOC hold DM child-1SG.POSS DM</gloss>
+        <eng>Your brother’s not feeling good, child, can you please keep that in mind, child, huh?</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="177">
+        <timestamp>00:06:34.843-00:06:37.290</timestamp>
+        <iu>[xxx] xapa bolmang xapa bolmang [xxx].</iu>
+        <seg>[xxx] xapa bol-ma-ng xapa bol-ma-ng [xxx]</seg>
+        <gloss>[xxx] upset be-NEG-IMP.2SG.POL upset be-NEG-IMP.2SG.POL [xxx]</gloss>
+        <eng>[xxx] don’t be upset, don’t be upset [xxx].</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="178">
+        <timestamp>00:06:45.223-00:06:46.834</timestamp>
+        <iu>a mana mana mana mana.</iu>
+        <seg>a mana mana mana mana</seg>
+        <gloss>ah look.here look.here look.here look.here</gloss>
+        <eng>Here, here, here, here.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="179">
+        <timestamp>00:06:48.403-00:06:50.466</timestamp>
+        <iu>[balining ismi] héliqi séning qosh kézek,</iu>
+        <seg>[balining ismi] héliqi séning qosh kézek</seg>
+        <gloss>[child's name] that 2SG.INF.GEN double embryo</gloss>
+        <eng>[kid’s name] your twin,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="180">
+        <timestamp>00:06:50.466-00:06:51.538</timestamp>
+        <iu>héliqi,</iu>
+        <seg>héliqi</seg>
+        <gloss>that</gloss>
+        <eng>that,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="181">
+        <timestamp>00:06:52.052-00:06:54.166</timestamp>
+        <iu>héliqi bir burunqi xoshnimiz barghu?</iu>
+        <seg>héliqi bir burun-qi xoshni-miz bar-ghu</seg>
+        <gloss>that one before-ATTR neighbor-1PL exist-CONF</gloss>
+        <eng>that neighbor we used to have?</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="182">
+        <timestamp>00:06:55.766-00:06:58.814</timestamp>
+        <iu>Ashular shu toqquz yash waqtida tutuptikentuq ashu chaghda,</iu>
+        <seg>ashu-lar shu toqquz yash waqt-i-da tut-upt-iken-tuq ashu chagh-da</seg>
+        <gloss>that-PL that nine young time-3POSS-LOC hold-PST.EVID-EVID-?? that time-LOC</gloss>
+        <eng>When they were nine years old they fasted that time,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="183">
+        <timestamp>00:06:58.814-00:07:00.507</timestamp>
+        <iu>künde tuttighu ashular.</iu>
+        <seg>kün-de tut-ti-ghu ashu-lar</seg>
+        <gloss>day-LOC restrain-XPST-CONF that-PL</gloss>
+        <eng>they didn’t eat during the day.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="184">
+        <timestamp>00:07:01.230-00:07:03.264</timestamp>
+        <iu>Senmu sinap baqamsen bu qétim?</iu>
+        <seg>sen-mu sina-p baq-am-sen bu qétim</seg>
+        <gloss>2SG.INFM-INT try-CVB AUX.baq-INT-2SG.INF this time</gloss>
+        <eng>Do you want to try it this time?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="185">
+        <timestamp>00:07:03.944-00:07:04.733</timestamp>
+        <iu>Okéy,</iu>
+        <seg>okéy</seg>
+        <gloss>okay</gloss>
+        <eng>Ok!</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="186">
+        <timestamp>00:07:05.314-00:07:06.692</timestamp>
+        <iu>Chidalamsen?</iu>
+        <seg>chida-al-am-sen</seg>
+        <gloss>endure-ABIL-INT-2SG.INF</gloss>
+        <eng>Can you handle it?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="187">
+        <timestamp>00:07:08.281-00:07:09.487</timestamp>
+        <iu>Mm-hmm,</iu>
+        <seg>mm-hmm</seg>
+        <gloss>mm-hmm</gloss>
+        <eng>Mm-hmm,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="188">
+        <timestamp>00:07:11.341-00:07:12.230</timestamp>
+        <iu>Tuxumtu?</iu>
+        <seg>??</seg>
+        <gloss>??</gloss>
+        <eng>[????]</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="189">
+        <timestamp>00:07:12.557-00:07:14.327</timestamp>
+        <iu>Mm-hmm!</iu>
+        <seg>mm-hmm</seg>
+        <gloss>mm-hmm</gloss>
+        <eng>Mm-hmm!</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="190">
+        <timestamp>00:07:13.877-00:07:14.976</timestamp>
+        <iu>Ettigendichu balam,</iu>
+        <seg>ettigen-di-chu bala-m</seg>
+        <gloss>morning-LOC-TOP child-1SG.POSS</gloss>
+        <eng>In the morning, child,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="191">
+        <timestamp>00:07:15.178-00:07:18.113</timestamp>
+        <iu>kün chiqishtin burun tamaq yewalisen, he.</iu>
+        <seg>kün chiq-ish-tin burun tamaq ye-wal-i-sen he</seg>
+        <gloss>day go.up-GER-ABL before meal eat-SELF.BEN-PRES-2SG.INF DM</gloss>
+        <eng>you can eat before the sun comes up.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="192">
+        <timestamp>00:07:18.673-00:07:20.250</timestamp>
+        <iu>Ha, tamaqmu emes emdi,</iu>
+        <seg>ha tamaq-mu emes emdi</seg>
+        <gloss>ha meal-INT not now</gloss>
+        <eng>Well, that’s not a real meal,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="193">
+        <timestamp>00:07:20.250-00:07:22.636</timestamp>
+        <iu>ishqilip ettigen nashtiliqni yaxshi yepchu,</iu>
+        <seg>ishqilip ettigen nashtiliq-ni yaxshi ye-p-chu</seg>
+        <gloss>anyway morning breakfast-ACC good eat-CVB-TOP</gloss>
+        <eng>but anyway, you eat a good breakfast,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="194">
+        <timestamp>00:07:22.935-00:07:25.119</timestamp>
+        <iu>uningdin kéyin bir kün ettigen yaxshichu--</iu>
+        <seg>u-ning-din kéyin bir kün ettigen yaxshi-chu</seg>
+        <gloss>that-GEN-ABL after one day morning good-TOP</gloss>
+        <eng>and after that the morning is good—</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="195">
+        <timestamp>00:07:24.420-00:07:26.024</timestamp>
+        <iu>Okéy men qilmaymen undaq bolsa.</iu>
+        <seg>okéy men qil-ma-y-men undaq bol-sa</seg>
+        <gloss>okay 1SG do-NEG-PRES-1SG thus be-COND</gloss>
+        <eng>Ok then I’m not going to do it.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="196">
+        <timestamp>00:07:26.850-00:07:29.266</timestamp>
+        <iu>Birer qétim trial qip baqmamsen?</iu>
+        <seg>birer qétim EN:trial qi-p baq-ma-am-sen</seg>
+        <gloss>a.certain time EN:trial do-CVB try-NEG-INT-2SG.INF</gloss>
+        <eng>You’re not going to just give it one trial?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="197">
+        <timestamp>00:07:29.428-00:07:31.442</timestamp>
+        <iu>Men eighty-five years old, then.</iu>
+        <seg>men EN:eighty-five EN:years EN:old EN:then</seg>
+        <gloss>1SG EN:eighty-five EN:years EN:old EN:then</gloss>
+        <eng>I’ll do it when I’m 85 then.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="198">
+        <timestamp>00:07:31.798-00:07:32.315</timestamp>
+        <iu>He?</iu>
+        <seg>he</seg>
+        <gloss>huh?</gloss>
+        <eng>Huh?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="199">
+        <timestamp>00:07:33.184-00:07:35.302</timestamp>
+        <iu>Men eighty-five years old bolghanda.</iu>
+        <seg>men EN:eighty-five EN:years EN:old bol-ghan-da</seg>
+        <gloss>1SG EN:eighty-five EN:years EN:old be-PTCP.PST-LOC</gloss>
+        <eng>When I’m 85 years old.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="200">
+        <timestamp>00:07:35.209-00:07:36.843</timestamp>
+        <iu>Qérighan waqtingdima?</iu>
+        <seg>qéri-ghan waqt-ing-di-ma</seg>
+        <gloss>grow.old-PTCP.PST time-2SG.INFM.POSS-LOC-INT</gloss>
+        <eng>When you’re an old man?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="201">
+        <timestamp>00:07:36.524-00:07:37.800</timestamp>
+        <iu>Mm-hmm,</iu>
+        <seg>mm-hmm</seg>
+        <gloss>mm-hmm</gloss>
+        <eng>Mm-hmm,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="202">
+        <timestamp>00:07:37.122-00:07:38.702</timestamp>
+        <iu>Eighty-five-gha kirgende?</iu>
+        <seg>EN:eighty-five-gha kir-gen-de</seg>
+        <gloss>EN:eighty-five-DAT enter-PTCP.PST-LOC</gloss>
+        <eng>When you turn 85?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="203">
+        <timestamp>00:07:38.444-00:07:39.940</timestamp>
+        <iu>Mm-hmm,</iu>
+        <seg>mm-hmm</seg>
+        <gloss>mm-hmm</gloss>
+        <eng>Mm-hmm,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="204">
+        <timestamp>00:07:39.240-00:07:40.877</timestamp>
+        <iu>U chaghda yene chidimaysen.</iu>
+        <seg>u chagh-da yene chidi-ma-y-sen</seg>
+        <gloss>that time-LOC again endure-NEG-PRES-2SG.INF</gloss>
+        <eng>You won’t be able to handle it then either.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="205">
+        <timestamp>00:07:41.298-00:07:44.004</timestamp>
+        <iu>Qérip kétip qorsiqing ittik achidighan bop kétidu.</iu>
+        <seg>qéri-p két-ip qorsiq-ing ittik ach-idighan bo-p két-i-du</seg>
+        <gloss>grow.old-CVB AUX.ket-CVB stomach-2SG.INFM.POSS quickly be.empty-PTCP.PRES be-CVB AUX.ket-PRES-3</gloss>
+        <eng>When you’re old you get hungry quickly.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="206">
+        <timestamp>00:07:48.011-00:07:50.045</timestamp>
+        <iu>Salametlikke paydiliq balam,</iu>
+        <seg>salametlik-ke paydiliq bala-m</seg>
+        <gloss>health-DAT beneficial child-1SG.POSS</gloss>
+        <eng>It’s good for your health, child,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="207">
+        <timestamp>00:07:50.694-00:07:51.430</timestamp>
+        <iu>tutsang.</iu>
+        <seg>tut-sa-ng</seg>
+        <gloss>restrain-COND-2SG.INFM</gloss>
+        <eng>if you fast. </eng>
+      </annotation>
+      <annotation who="Speaker A" ref="208">
+        <timestamp>00:08:03.343-00:08:06.733</timestamp>
+        <iu>Balam emdi, azraq waqit oquwetkendin kéyinlamchu,</iu>
+        <seg>bala-m emdi azraq waqit oqu-wet-ken-din kéyin-lam-chu</seg>
+        <gloss>child-1SG.POSS now a.little time study-INTENS-PTCP.PST-ABL after-just-TOP</gloss>
+        <eng>Anyway, child, after just a bit more school,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="209">
+        <timestamp>00:08:06.733-00:08:09.454</timestamp>
+        <iu>tetilge bek uzun tetilge chiqip kétisen balam,</iu>
+        <seg>tetil-ge bek uzun tetil-ge chiq-ip két-i-sen bala-m</seg>
+        <gloss>vacation-DAT very long vacation-DAT go.up-CVB AUX.ket-PRES-2SG.INF child-1SG.POSS</gloss>
+        <eng>you’ll go on vacation, a really long vacation,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="210">
+        <timestamp>00:08:09.454-00:08:10.687</timestamp>
+        <iu>yazliq tetil.</iu>
+        <seg>yaz-liq tetil</seg>
+        <gloss>summer-DER vacation</gloss>
+        <eng>summer vacation. </eng>
+      </annotation>
+      <annotation who="Speaker A" ref="211">
+        <timestamp>00:08:10.785-00:08:13.786</timestamp>
+        <iu>Yazliq tetil tügigendin kéyin sen üchinchi sinipqa chiqisen balam.</iu>
+        <seg>yaz-liq tetil tügi-gen-din kéyin sen üch-inchi sinip-qa chiq-i-sen bala-m</seg>
+        <gloss>summer-DER vacation end-PTCP.PST-ABL after 2SG.INFM three-ORD class-DAT go.up-PRES-2SG.INF child-1SG.POSS</gloss>
+        <eng>After summer vacation ends, you’ll start third grade, child.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="212">
+        <timestamp>00:08:14.762-00:08:20.973</timestamp>
+        <iu>Üchinchi sinipqa chiqsang awu mektepke bérip oqushni tallamduq yaki bolmisa öyde olturup oqamsen zoom-da?</iu>
+        <seg>üch-inchi sinip-qa chiq-sa-ng awu mektep-ke bér-ip oqu-sh-ni talla-am-d-uq yaki bol-mi-sa öy-de oltur-up oq-am-sen zum-da</seg>
+        <gloss>three-ORD class-DAT go.up-COND-2SG.INFM.POSS that school-DAT go-CVB study-GER-ACC choose-INT-PST-1PL or be-NEG-COND home-LOC sit-CVB study-INT-2SG.INFM Zoom-LOC</gloss>
+        <eng>When you start third grade are we going to choose in-person class or remote learning on Zoom?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="213">
+        <timestamp>00:08:21.372-00:08:22.723</timestamp>
+        <iu>Zoom!</iu>
+        <seg>EN:Zoom</seg>
+        <gloss>EN:Zoom</gloss>
+        <eng>Zoom!</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="214">
+        <timestamp>00:08:23.452-00:08:25.317</timestamp>
+        <iu>Yene zum-ni tallamduq?</iu>
+        <seg>yene zum-ni talla-am-d-uq</seg>
+        <gloss>again Zoom-ACC choose-INT-PST-1PL</gloss>
+        <eng>We’re going to choose Zoom again?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="215">
+        <timestamp>00:08:24.824-00:08:25.720</timestamp>
+        <iu>[xxx] barghum bar.</iu>
+        <seg>[xxx] bar-ghu-m bar</seg>
+        <gloss>[xxx] go-DESID-1SG.POSS exist</gloss>
+        <eng>I want to go to [xxx].</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="216">
+        <timestamp>00:08:26.214-00:08:27.112</timestamp>
+        <iu>Mektepkima?</iu>
+        <seg>mektep-ki-ma</seg>
+        <gloss>school-DAT-INT</gloss>
+        <eng>To school?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="217">
+        <timestamp>00:08:27.112-00:08:28.264</timestamp>
+        <iu>Mm-hmm,</iu>
+        <seg>mm-hmm</seg>
+        <gloss>mm-hmm</gloss>
+        <eng>Mm-hmm,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="218">
+        <timestamp>00:08:28.379-00:08:29.267</timestamp>
+        <iu>Némishqa?</iu>
+        <seg>némishqa</seg>
+        <gloss>why</gloss>
+        <eng>Why is that?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="219">
+        <timestamp>00:08:29.430-00:08:31.744</timestamp>
+        <iu>Chünki barghum bar!</iu>
+        <seg>chünki bar-ghu-m bar</seg>
+        <gloss>because go-DESID-1SG.POSS exist</gloss>
+        <eng>Because I want to!</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="220">
+        <timestamp>00:08:32.052-00:08:34.215</timestamp>
+        <iu>Némishqa dégen gep yoq!</iu>
+        <seg>némishqa dé-gen gep yoq</seg>
+        <gloss>why say-PTCP.PST speech not.exist</gloss>
+        <eng>There’s no reason why!</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="221">
+        <timestamp>00:08:37.585-00:08:40.048</timestamp>
+        <iu>Kompyutérdinmu zérikting balam he.</iu>
+        <seg>kompyutér-din-mu zérik-ti-ng bala-m he</seg>
+        <gloss>computer-ABL-INT be.bored-XPST-2SG.INFM.POSS child-1SG.POSS DM</gloss>
+        <eng>You’re tired of the computer, huh kiddo?</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="222">
+        <timestamp>00:08:40.187-00:08:42.625</timestamp>
+        <iu>Jiq oynawérip videogame-ni he?</iu>
+        <seg>jiq oyna-wér-ip EN:videogame-ni he</seg>
+        <gloss>many play-UNRESTR-CVB EN:videogame-ACC DM</gloss>
+        <eng>You’ve been playing too many video games, huh?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="223">
+        <timestamp>00:08:42.346-00:08:43.427</timestamp>
+        <iu>[xxx]</iu>
+        <seg>[xxx]</seg>
+        <gloss>[xxx]</gloss>
+        <eng>[xxx]</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="224">
+        <timestamp>00:08:52.458-00:08:54.989</timestamp>
+        <iu>Lékin, mu'elliming özgireydude?</iu>
+        <seg>lékin mu'ellim-ing özgere-y-du-de</seg>
+        <gloss>but teacher-2SG.INFM.POSS change-PRES-3-PTCL</gloss>
+        <eng>But, there will be a different teacher.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="225">
+        <timestamp>00:08:55.097-00:08:57.745</timestamp>
+        <iu>Awu nimu [mu'ellimning ismi] bolmaydude,</iu>
+        <seg>awu nimu [mu'ellimning ismi] bol-ma-y-du-de</seg>
+        <gloss>that what [teacher's name] be-NEG-PRES-3-PTCL</gloss>
+        <eng>It won’t be [teacher’s name],</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="226">
+        <timestamp>00:08:57.745-00:08:59.211</timestamp>
+        <iu>emdi bashqa mu'ellim bolidu.</iu>
+        <seg>emdi bashqa mu'ellim bol-i-du</seg>
+        <gloss>now other teacher be-PRES-3</gloss>
+        <eng> it’ll be a different teacher now.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="227">
+        <timestamp>00:08:59.846-00:09:01.274</timestamp>
+        <iu>Why should I care?</iu>
+        <seg>EN:why EN:should EN:I EN:care</seg>
+        <gloss>EN:why EN:should EN:I EN:care</gloss>
+        <eng>Why should I care?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="228">
+        <timestamp>00:09:19.363-00:09:24.317</timestamp>
+        <iu>Blablablablabla….</iu>
+        <seg>blablablablabla</seg>
+        <gloss>blablablablabla</gloss>
+        <eng>Blablablablabla….</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="229">
+        <timestamp>00:09:21.774-00:09:22.514</timestamp>
+        <iu>Héliqi,</iu>
+        <seg>héliqi</seg>
+        <gloss>that</gloss>
+        <eng>Um,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="230">
+        <timestamp>00:09:23.615-00:09:25.798</timestamp>
+        <iu>oqughan bir kitabing barti balam.</iu>
+        <seg>oqu-ghan bir kitab-ing bar-ti bala-m</seg>
+        <gloss>study-PTCP.PST one book-2SG.INFM.POSS exist-XPST child-1SG.POSS</gloss>
+        <eng>there was one book you read, child.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="231">
+        <timestamp>00:09:26.062-00:09:29.207</timestamp>
+        <iu>Nechche waqitning yaqi taza aldirash waqtimda sözlep kétetting,</iu>
+        <seg>nechche waqit-ning yaq-i taza aldirash waqt-im-da sözle-p két-et-ti-ng</seg>
+        <gloss>some time-GEN side-3POSS absolutely busy time-1SG.POSS-LOC speak-CVB AUX.ket-PST.HAB-XPST-2SG.INFM.POSS</gloss>
+        <eng>A while ago you kept talking about it when I was really busy,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="232">
+        <timestamp>00:09:27.932-00:09:31.037</timestamp>
+        <iu>Blablablablabla….</iu>
+        <seg>blablablablabla</seg>
+        <gloss>blablablablabla</gloss>
+        <eng>Blablablablabla….</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="233">
+        <timestamp>00:09:29.207-00:09:31.937</timestamp>
+        <iu>Hazir mushta chaghda sözlep bére hazir men bikar bolghandinkin balam.</iu>
+        <seg>hazir mushta chagh-da sözle-p bér-e hazir men bikar bol-ghan-dinkin bala-m</seg>
+        <gloss>now thus time-LOC speak-CVB AUX.ber-DM now 1SG free be-PTCP.PST-since child-1SG.POSS</gloss>
+        <eng>Now you can tell me about what you read then since I’m free now, child.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="234">
+        <timestamp>00:09:32.841-00:09:33.568</timestamp>
+        <iu>He balam.</iu>
+        <seg>he bala-m</seg>
+        <gloss>DM child-1SG.POSS</gloss>
+        <eng>Eh, kiddo?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="235">
+        <timestamp>00:09:33.639-00:09:35.033</timestamp>
+        <iu>He...?</iu>
+        <seg>he</seg>
+        <gloss>DM</gloss>
+        <eng>Huh…?</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="236">
+        <timestamp>00:09:34.686-00:09:40.681</timestamp>
+        <iu>Oqughan yaxshi kitabliringni «apa apa, apa apa, mani dep bérey sanga» dep taza aldirash waqtimda dep kétetting balam.</iu>
+        <seg>oqu-ghan yaxshi kitab-lir-ing-ni apa apa apa apa ma-ni de-p bér-ey sanga de-p taza aldirash waqt-im-da de-p két-et-ti-ng bala-m</seg>
+        <gloss>study-PTCP.PST good book-PL-2SG.INFM.POSS-ACC mom mom mom mom this-ACC say-CVB give-OPT.1SG 2SG.INF.DAT say-CVB absolutely busy time-1SG.POSS-LOC say-CVB AUX.ket-PST.HAB-XPST-2SG.INFM.POSS child-1SG.POSS</gloss>
+        <eng>You would always say, “Mom, mom, mom let me tell you about this great book I read” when I was really busy, child.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="237">
+        <timestamp>00:09:38.759-00:09:39.471</timestamp>
+        <iu>[xxx]</iu>
+        <seg>[xxx]</seg>
+        <gloss>[xxx]</gloss>
+        <eng>[xxx]</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="238">
+        <timestamp>00:09:42.241-00:09:43.726</timestamp>
+        <iu>Emdi dep berseng bolidu.</iu>
+        <seg>emdi de-p ber-se-ng bol-i-du</seg>
+        <gloss>now say-CVB AUX.ber-COND-2SG.INFM.POSS be-PRES-3</gloss>
+        <eng>You can tell me about it now.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="239">
+        <timestamp>00:09:43.491-00:09:44.783</timestamp>
+        <iu>Sanga dep bergüm yoq.</iu>
+        <seg>sanga de-p ber-gü-m yoq</seg>
+        <gloss>2SG.INF.DAT say-CVB give-DESID-1SG.POSS not.exist</gloss>
+        <eng>I don’t want to tell you about it.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="240">
+        <timestamp>00:09:45.572-00:09:47.039</timestamp>
+        <iu>Dégüzgüm bar--</iu>
+        <seg>dé-güz-gü-m bar</seg>
+        <gloss>say-CAUS-DESID-1SG.POSS exist</gloss>
+        <eng>When I wanted to make you tell-- </eng>
+      </annotation>
+      <annotation who="Speaker B" ref="241">
+        <timestamp>00:09:47.039-00:09:49.349</timestamp>
+        <iu>dégüm bar waqtida dégüzmiding so,</iu>
+        <seg>dé-gü-m bar waqt-i-da dé-güz-mi-d-ing EN:so</seg>
+        <gloss>say-DESID-1SG.POSS exist time-3POSS-LOC say-CAUS-NEG-PST-2SG.INFM.POSS EN:so</gloss>
+        <eng>when I wanted to tell you you didn’t let me so…</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="242">
+        <timestamp>00:09:49.279-00:09:51.197</timestamp>
+        <iu>U chaghlarda men aldirash tursam balam.</iu>
+        <seg>u chagh-lar-da men aldirash tur-sa-m bala-m</seg>
+        <gloss>that time-PL-LOC 1SG busy stand-COND-1SG.POSS child-1SG.POSS</gloss>
+        <eng>I was busy at those times, child.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="243">
+        <timestamp>00:09:51.197-00:09:53.363</timestamp>
+        <iu>Hazir olturup anglay dewatimen sendin.</iu>
+        <seg>hazir oltur-up angla-ay de-wat-i-men sen-din</seg>
+        <gloss>now sit-CVB listen-OPT.1SG say-CONT-PRES-1SG 2SG.INFM-ABL</gloss>
+        <eng>Now I want to sit and listen to you.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="244">
+        <timestamp>00:10:00.091-00:10:01.394</timestamp>
+        <iu>Blablablablabla….</iu>
+        <seg>blablablablabla</seg>
+        <gloss>blablablablabla</gloss>
+        <eng>Blablablablabla….</eng>
+      </annotation>
+    </c4_final>
+  </transcript_body>
+</c4root>

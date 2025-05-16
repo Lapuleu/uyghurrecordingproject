@@ -1,0 +1,3140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c2root>
+  <header/>
+  <header>
+    <metadata>
+      <docID>uig20210317_conversation2</docID>
+      <language iso="uig" glottocode="uigh1240">Uyghur, Modern Standard</language>
+      <date_created>2021_03_17</date_created>
+      <title>Conversation 2</title>
+      <recording>Conversation recorded on participant's iPhone (regular compressed audio, not lossless)</recording>
+      <context>The participants are husband and wife, chatting at the table after a meal.</context>
+      <rights>Restricted access: Creators allow academic use.</rights>
+      <sponsors>Uyghur Projects Foundation; UCSB Confucius Institute China Studies Award 2021 (Michael Fiddler); UCSB Humanities and Social Sciences Research Grant 2022 (Michael Fiddler)</sponsors>
+      <participants>
+        <speaker_A>
+          <sex>male</sex>
+          <age>54</age>
+          <birthplace>Kucha</birthplace>
+          <current_residence>Sweden</current_residence>
+          <other_languages>Chinese, Swedish</other_languages>
+        </speaker_A>
+        <speaker_B>
+          <current_residence>Sweden</current_residence>
+          <other_languages>Chinese, English, Turkish, Swedish, Russian</other_languages>
+        </speaker_B>
+      </participants>
+      <project_creators>
+        <initial_transcription>Malik Anvar</initial_transcription>
+        <annotation>Michael Fiddler</annotation>
+        <translation>Michael Fiddler</translation>
+        <web_formatting>Haibibullah Abdul-Kerim</web_formatting>
+      </project_creators>
+    </metadata>
+  </header>
+  <transcript_body>
+    <c2_final>
+      <annotation who="Speaker A" ref="1">
+        <timestamp>00:00:09.160-00:00:11.171</timestamp>
+        <iu>Kucha xelq naxshiliri,</iu>
+        <morph>kucha xelq naxshi-lir-i</morph>
+        <gloss>Kucha(city) folk song-PL-3POSS</gloss>
+        <eng>Kucha’s folk music,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="2">
+        <timestamp>00:00:12.719-00:00:13.669</timestamp>
+        <iu>anglashqa,</iu>
+        <morph>angla-sh-qa</morph>
+        <gloss>listen-GER-DAT</gloss>
+        <eng>for listening,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="3">
+        <timestamp>00:00:14.641-00:00:15.777</timestamp>
+        <iu>nahayiti bir xil,</iu>
+        <morph>nahayiti bir xil</morph>
+        <gloss>very one type</gloss>
+        <eng>is really a kind of,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="4">
+        <timestamp>00:00:17.394-00:00:19.085</timestamp>
+        <iu>u-- udarliqi küchlük,</iu>
+        <morph>u-- udarliq-i küchlük</morph>
+        <gloss>* beat(music)-3POSS powerful</gloss>
+        <eng>it-- its beat is strong,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="5">
+        <timestamp>00:00:20.858-00:00:22.900</timestamp>
+        <iu>ussulgha bek mas kélidighan,</iu>
+        <morph>ussul-gha bek mas kél-idighan</morph>
+        <gloss>dance-DAT very suitable come-PTCP.PRES</gloss>
+        <eng>it’s great for dancing,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="6">
+        <timestamp>00:00:23.928-00:00:26.545</timestamp>
+        <iu>bir... [xxx] iken.</iu>
+        <morph>bir [xxx] iken</morph>
+        <gloss>one [xxx] EVID</gloss>
+        <eng>it’s a … [xxx].</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="7">
+        <timestamp>00:00:26.545-00:00:29.746</timestamp>
+        <iu>Gerche uyghur xelq naxsh-- naxshilirining da'irisi nahayiti keng bolsimu,</iu>
+        <morph>gerche uyghur xelq naxsh-- naxshi-lir-i-ning da'iri-si nahayiti keng bol-si-mu</morph>
+        <gloss>although Uyghur folk * song-PL-3POSS-GEN scope-3POSS very broad be-COND-INT</gloss>
+        <eng>Although the scope of Uyghur folk music is very broad,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="8">
+        <timestamp>00:00:29.746-00:00:32.885</timestamp>
+        <iu>her bir yurtning yoli ayrim bir naxsha némiliri bar emdi.</iu>
+        <morph>her bir yurt-ning yol-i ayrim bir naxsha némi-lir-i bar emdi</morph>
+        <gloss>every one hometown-GEN road-3POSS separate one song what-PL-3POSS exist now</gloss>
+        <eng> every town has something distinct about its songs.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="9">
+        <timestamp>00:00:33.172-00:00:35.086</timestamp>
+        <iu>Lékin kucha xelq naxshilirida bir xil, </iu>
+        <morph>lékin kucha xelq naxshi-lir-i-da bir xil</morph>
+        <gloss>but Kucha(city) folk song-PL-3POSS-LOC one type</gloss>
+        <eng>But Kucha’s folk music is a kind of</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="10">
+        <timestamp>00:00:35.794-00:00:37.071</timestamp>
+        <iu>xushalliq,</iu>
+        <morph>xushalliq</morph>
+        <gloss>joyful</gloss>
+        <eng>joyful,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="11">
+        <timestamp>00:00:37.530-00:00:39.106</timestamp>
+        <iu>bay-bayashatliq...</iu>
+        <morph>bay-bayashatliq</morph>
+        <gloss>rich</gloss>
+        <eng>rich…</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="12">
+        <timestamp>00:00:41.304-00:00:42.278</timestamp>
+        <iu>[xxx]--</iu>
+        <morph>[xxx]</morph>
+        <gloss>[xxx]</gloss>
+        <eng>[xxx]--</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="13">
+        <timestamp>00:00:41.382-00:00:42.341</timestamp>
+        <iu>Muhebbet--</iu>
+        <morph>muhebbet</morph>
+        <gloss>love</gloss>
+        <eng>Love--</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="14">
+        <timestamp>00:00:42.386-00:00:42.914</timestamp>
+        <iu>he'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="15">
+        <timestamp>00:00:43.001-00:00:45.091</timestamp>
+        <iu>Muhebbet némisi-- küchlük,</iu>
+        <morph>muhebbet némi-si küchlük</morph>
+        <gloss>love what-3POSS powerful</gloss>
+        <eng>About love-- strong--</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="16">
+        <timestamp>00:00:45.091-00:00:46.119</timestamp>
+        <iu>yarni eslesh,</iu>
+        <morph>yar-ni esle-sh</morph>
+        <gloss>lover-ACC miss-GER</gloss>
+        <eng>remembering a beloved,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="17">
+        <timestamp>00:00:46.448-00:00:46.903</timestamp>
+        <iu>Hm-mm.</iu>
+        <morph>hm-mm</morph>
+        <gloss>hm-mm</gloss>
+        <eng>Mm-hm.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="18">
+        <timestamp>00:00:47.552-00:00:50.380</timestamp>
+        <iu>erlerning aghzidin bolsun meyli ayallarning aghzidin bolsun,</iu>
+        <morph>er-ler-ning aghz-i-din bol-sun meyli ayal-lar-ning aghz-i-din bol-sun</morph>
+        <gloss>man-PL-GEN mouth-3POSS-ABL be-IMP.3 no.matter woman-PL-GEN mouth-3POSS-ABL be-IMP.3</gloss>
+        <eng>Whether male singers or female singers,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="19">
+        <timestamp>00:00:51.650-00:00:52.923</timestamp>
+        <iu>kucha xelq naxshilirida</iu>
+        <morph>kucha xelq naxshi-lir-i-da</morph>
+        <gloss>Kucha(city) folk song-PL-3POSS-LOC</gloss>
+        <eng>Kucha folk music--</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="20">
+        <timestamp>00:00:53.387-00:00:54.317</timestamp>
+        <iu>asasen,</iu>
+        <morph>asasen</morph>
+        <gloss>basically</gloss>
+        <eng>asasen,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="21">
+        <timestamp>00:00:54.572-00:00:56.607</timestamp>
+        <iu>ishqilip yüzde yüz pérsent dégüdek,</iu>
+        <morph>ishqilip yüz-de yüz pérsent dégüdek</morph>
+        <gloss>anyway hundred-LOC hundred percent almost</gloss>
+        <eng>anyway almost 100 percent, </eng>
+      </annotation>
+      <annotation who="Speaker A" ref="22">
+        <timestamp>00:00:54.662-00:00:55.195</timestamp>
+        <iu>Mm.</iu>
+        <morph>mm</morph>
+        <gloss>mm</gloss>
+        <eng>Mm.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="23">
+        <timestamp>00:00:57.337-00:00:59.023</timestamp>
+        <iu>ketken yarini séghinish,</iu>
+        <morph>ket-ken yar-i-ni séghin-ish</morph>
+        <gloss>leave-PTCP.PST lover-3POSS-ACC miss-GER</gloss>
+        <eng>missing a departed beloved,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="24">
+        <timestamp>00:01:01.347-00:01:03.231</timestamp>
+        <iu>yargha bolghan sadaqiti,</iu>
+        <morph>yar-gha bol-ghan sadaqit-i</morph>
+        <gloss>lover-DAT be-PTCP.PST faithfulness-3POSS</gloss>
+        <eng>faithfulness to one’s beloved,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="25">
+        <timestamp>00:01:04.195-00:01:04.829</timestamp>
+        <iu>ashu,</iu>
+        <morph>ashu</morph>
+        <gloss>that</gloss>
+        <eng>um,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="26">
+        <timestamp>00:01:05.090-00:01:08.860</timestamp>
+        <iu>yari bilen bille oynighini, shuninglam-- teswirliri jiq.</iu>
+        <morph>yar-i bilen bille oyni-ghin-i shu-ning-lam teswirlir-i jiq</morph>
+        <gloss>lover-3POSS with together play-PTCP.PST-3POSS that-GEN-just description-PL-3POSS many</gloss>
+        <eng>time enjoyed with one’s beloved, there are many that describe things like that.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="27">
+        <timestamp>00:01:08.438-00:01:09.754</timestamp>
+        <iu>Lékin qizziq yéri,</iu>
+        <morph>lékin qizziq yér-i</morph>
+        <gloss>but interesting place-3POSS</gloss>
+        <eng>But the interesting thing is,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="28">
+        <timestamp>00:01:10.385-00:01:14.804</timestamp>
+        <iu>he kucha xelq naxshilirida asasen héliqi, ayalche naxshilar bek jiq.</iu>
+        <morph>he kucha xelq naxshi-lir-i-da asasen héliqi ayal-che naxshi-lar bek jiq</morph>
+        <gloss>uh Kucha(city) folk song-PL-3POSS-LOC basically that woman-EQU song-PL very many</gloss>
+        <eng>Kucha folk music essentially, there are a lot of women’s songs.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="29">
+        <timestamp>00:01:15.704-00:01:16.259</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="30">
+        <timestamp>00:01:16.183-00:01:21.361</timestamp>
+        <iu>Héliqi ayallarning awazidin, yaki ayallarning éghizidin éytilghan,</iu>
+        <morph>héliqi ayal-lar-ning awaz-i-din yaki ayal-lar-ning éghiz-i-din éyt-il-ghan</morph>
+        <gloss>that woman-PL-GEN voice-3POSS-ABL or woman-PL-GEN mouth-3POSS-ABL sing-PASS-PTCP.PST</gloss>
+        <eng>From womens’ voice, or sung by women,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="31">
+        <timestamp>00:01:21.643-00:01:23.218</timestamp>
+        <iu>héliqi erler,</iu>
+        <morph>héliqi er-ler</morph>
+        <gloss>that man-PL</gloss>
+        <eng>uh men,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="32">
+        <timestamp>00:01:23.643-00:01:25.095</timestamp>
+        <iu>teripidin éytilghan emes.</iu>
+        <morph>terip-i-din éyt-il-ghan emes</morph>
+        <gloss>side-3POSS-ABL sing-PASS-PTCP.PST not</gloss>
+        <eng>they’re not sung by men.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="33">
+        <timestamp>00:01:25.610-00:01:26.155</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="34">
+        <timestamp>00:01:26.310-00:01:28.403</timestamp>
+        <iu>Naxshining köpinchisi héliqi ayallar éytidu,</iu>
+        <morph>naxshi-ning köpinchi-si héliqi ayal-lar éyt-i-du</morph>
+        <gloss>song-GEN majority-3POSS that woman-PL sing-PRES-3</gloss>
+        <eng>The majority of songs, women sing them,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="35">
+        <timestamp>00:01:28.403-00:01:29.501</timestamp>
+        <iu>ayallargha xas bolghan.</iu>
+        <morph>ayal-lar-gha xas bol-ghan</morph>
+        <gloss>woman-PL-DAT unique be-PTCP.PST</gloss>
+        <eng>they belong to women.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="36">
+        <timestamp>00:01:29.766-00:01:30.748</timestamp>
+        <iu>Belkim bu emdi,</iu>
+        <morph>belkim bu emdi</morph>
+        <gloss>maybe this now</gloss>
+        <eng>Maybe um,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="37">
+        <timestamp>00:01:31.143-00:01:36.468</timestamp>
+        <iu>héliqi ayal aptorlar, yaki ayal ijadkarlarning, jiq-- jiq bolushini dep qaraymen.</iu>
+        <morph>héliqi ayal aptor-lar yaki ayal ijadkar-lar-ning jiq jiq bol-ush-i-ni de-p qara-y-men</morph>
+        <gloss>that woman author-PL or woman inventor-PL-GEN many many be-GER-3POSS-ACC say-CVB look-PRES-1SG</gloss>
+        <eng>there were a lot of women songwriters, or women composers, I think.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="38">
+        <timestamp>00:01:36.672-00:01:39.434</timestamp>
+        <iu>Mesilen kéyinki, mushu seksininchi yillardiki,</iu>
+        <morph>mesilen kéyin-ki mushu seksin-inchi yil-lar-diki</morph>
+        <gloss>for.example after-ATTR this eighty-ORD year-PL-LOC.REL</gloss>
+        <eng>For example later, the ones in the ’80s,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="39">
+        <timestamp>00:01:39.866-00:01:44.194</timestamp>
+        <iu>he kucha xelq naxshilirining toplinishi, yighilishi,</iu>
+        <morph>he kucha xelq naxshi-lir-i-ning topli-n-ish-i yigh-il-ish-i</morph>
+        <gloss>uh Kucha(city) folk song-PL-3POSS-GEN gather-PASS-GER-3POSS gather-PASS-GER-3POSS</gloss>
+        <eng>in collecting, assembling Kucha’s folk music,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="40">
+        <timestamp>00:01:44.194-00:01:46.547</timestamp>
+        <iu>saqlinip qélishigha muhim rol oynighan.</iu>
+        <morph>saqli-n-ip qél-ish-i-gha muhim rol oyni-ghan</morph>
+        <gloss>preserve-PASS-CVB remain-GER-3POSS-DAT important role play-PTCP.PST</gloss>
+        <eng>preserving it, they played an important role.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="41">
+        <timestamp>00:01:47.194-00:01:50.756</timestamp>
+        <iu>Nisaxan Abduwéli yeni, Nisaxan Jéldir nami bilen kuchada.</iu>
+        <morph>Nisaxan Abduwéli yene Nisaxan Jéldir nam-i bilen kucha-da</morph>
+        <gloss>(name) (name) also (name) (name) name-3POSS with Kucha(city)-LOC</gloss>
+        <eng>Nisaxan Abduwéli, and Nisaxan Jéldir were famous in Kucha.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="42">
+        <timestamp>00:01:50.944-00:01:52.050</timestamp>
+        <iu>Nam chiqqan ayallar.</iu>
+        <morph>nam chiq-qan ayal -lar</morph>
+        <gloss>reputation go.up-PTCP.PST woman PL</gloss>
+        <eng>Famous women.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="43">
+        <timestamp>00:01:52.050-00:01:56.532</timestamp>
+        <iu>Asasen naxshilarning köpinchisi shu ayal-- éytip-- qaldurghan,</iu>
+        <morph>asasen naxshi-lar-ning köpinchi-si shu ayal éyt-ip qal-dur-ghan</morph>
+        <gloss>basically song-PL-GEN majority-3POSS that woman sing-CVB remain-CAUS-PTCP.PST</gloss>
+        <eng>Essentially, the majority of songs, those women sang and recorded.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="44">
+        <timestamp>00:01:56.532-00:01:58.726</timestamp>
+        <iu>Emdi bezi naxshilirini özliri ijad qilghan dégendek.</iu>
+        <morph>emdi bezi naxshi-lir-i-ni öz-lir-i ijad qil-ghan dé-gen-dek</morph>
+        <gloss>now some song-PL-3POSS-ACC self-PL-3POSS creation do-PTCP.PST say-PTCP.PST-SIM</gloss>
+        <eng>And some songs they wrote themselves.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="45">
+        <timestamp>00:01:58.882-00:02:00.682</timestamp>
+        <iu>Shu nuqtidinmu yaki,</iu>
+        <morph>shu nuqti-din-mu yaki</morph>
+        <gloss>that point-ABL-INT or</gloss>
+        <eng>Besides that, though,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="46">
+        <timestamp>00:02:01.215-00:02:03.772</timestamp>
+        <iu>héliqi tarixtin buyan kuchada,</iu>
+        <morph>héliqi tarix-tin buyan kucha-da</morph>
+        <gloss>that history-ABL since Kucha(city)-LOC</gloss>
+        <eng>in Kucha historically,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="47">
+        <timestamp>00:02:04.599-00:02:05.358</timestamp>
+        <iu>bir xil,</iu>
+        <morph>bir xil</morph>
+        <gloss>one type</gloss>
+        <eng>kind of,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="48">
+        <timestamp>00:02:05.953-00:02:08.671</timestamp>
+        <iu>ayallar hoquqi yaki ayallarning he...</iu>
+        <morph>ayal-lar hoquq-i yaki ayal-lar-ning he</morph>
+        <gloss>woman-PL right(s)-3POSS or woman-PL-GEN uh</gloss>
+        <eng>in the field of women’s rights or women’s uh…</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="49">
+        <timestamp>00:02:08.687-00:02:09.163</timestamp>
+        <iu>pa'aliyet--</iu>
+        <morph>pa'aliyet</morph>
+        <gloss>event</gloss>
+        <eng>dynamic--</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="50">
+        <timestamp>00:02:08.871-00:02:11.235</timestamp>
+        <iu>sen'et saheside, köprekini bilmeymen.</iu>
+        <morph>sen'et sahe-si-de köp-rek-i-ni bil-me-y-men</morph>
+        <gloss>art(s) field-3POSS-LOC many-COMP-3POSS-ACC know-NEG-PRES-1SG</gloss>
+        <eng>...arts, I don’t know most of them.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="51">
+        <timestamp>00:02:11.253-00:02:11.683</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="52">
+        <timestamp>00:02:11.683-00:02:15.144</timestamp>
+        <iu>Kucha ayalliri héliqi köprek pa'aliyetchan. </iu>
+        <morph>kucha ayal-lir-i héliqi köp-rek pa'aliyetchan</morph>
+        <gloss>Kucha(city) woman-PL-3POSS that many-COMP dynamic</gloss>
+        <eng>Kucha women are more dynamic.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="53">
+        <timestamp>00:02:15.354-00:02:15.697</timestamp>
+        <iu>Mm.</iu>
+        <morph>mm</morph>
+        <gloss>mm</gloss>
+        <eng>Mm.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="54">
+        <timestamp>00:02:15.461-00:02:17.509</timestamp>
+        <iu>Birer pa'aliyetke héliqi nahayiti aktip--</iu>
+        <morph>birer pa'aliyet-ke héliqi nahayiti aktip</morph>
+        <gloss>a.certain event-DAT that very active</gloss>
+        <eng>Since they’re really active at any kind of event-- </eng>
+      </annotation>
+      <annotation who="Speaker B" ref="55">
+        <timestamp>00:02:18.114-00:02:20.935</timestamp>
+        <iu>néme qilidighan, bolghanliqi üchünmiki deymen emdi.</iu>
+        <morph>néme qil-idighan bol-ghan-liq-i üchün-miki de-y-men emdi</morph>
+        <gloss>what do-PTCP.PRES be-PTCP.PST-DER-3POSS for-UNCERT say-PRES-1SG now</gloss>
+        <eng>what do you call it, that's why I say that. </eng>
+      </annotation>
+      <annotation who="Speaker B" ref="56">
+        <timestamp>00:02:22.253-00:02:24.064</timestamp>
+        <iu>Shunglashqa deydughu: «kuchaning ayalliri...</iu>
+        <morph>shunglashqa de-y-du-ghu kucha-ning ayal-lir-i</morph>
+        <gloss>therefore say-PRES-3-CONF Kucha(city)-GEN woman-PL-3POSS</gloss>
+        <eng>That’s why they say, "Kucha women..."</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="57">
+        <timestamp>00:02:25.264-00:02:26.925</timestamp>
+        <iu>«kuchaning ayalliri yaman kélidu»</iu>
+        <morph>kucha-ning ayal-lir-i yaman kél-i-du</morph>
+        <gloss>Kucha(city)-GEN woman-PL-3POSS bad come-PRES-3</gloss>
+        <eng>Kucha women are awesome,”</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="58">
+        <timestamp>00:02:26.925-00:02:27.867</timestamp>
+        <iu>dégenlikidiki sewep,</iu>
+        <morph>dé-gen-lik-i-diki sewep</morph>
+        <gloss>say-PTCP.PST-DER-3POSS-LOC.REL reason</gloss>
+        <eng>that’s the reason,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="59">
+        <timestamp>00:02:28.247-00:02:29.181</timestamp>
+        <iu>sodighimu,</iu>
+        <morph>sodi-ghi-mu</morph>
+        <gloss>business-DAT-also</gloss>
+        <eng>whether for business,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="60">
+        <timestamp>00:02:29.264-00:02:30.885</timestamp>
+        <iu>herqandaq bir pa'aliyetke,</iu>
+        <morph>herqandaq bir pa'aliyet-ke</morph>
+        <gloss>any.kind.of one event-DAT</gloss>
+        <eng>for whatever kind of activity,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="61">
+        <timestamp>00:02:31.294-00:02:31.956</timestamp>
+        <iu>héliqi,</iu>
+        <morph>héliqi</morph>
+        <gloss>that</gloss>
+        <eng>um,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="62">
+        <timestamp>00:02:32.918-00:02:34.345</timestamp>
+        <iu>aktip qatnishidighan.</iu>
+        <morph>aktip qatnish-idighan</morph>
+        <gloss>active participate-PTCP.PRES</gloss>
+        <eng>they participate actively.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="63">
+        <timestamp>00:02:36.474-00:02:39.634</timestamp>
+        <iu>Ayallarning roli nahayiti-- küchlük bolidiken,</iu>
+        <morph>ayal-lar-ning rol-i nahayiti küchlük bol-i-di-ken</morph>
+        <gloss>woman-PL-GEN role-3POSS very powerful be-PRES-3-EVID</gloss>
+        <eng>The role of women was very-- strong,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="64">
+        <timestamp>00:02:41.675-00:02:44.391</timestamp>
+        <iu>meyli yézilarda bolsun, ayallar küchlükrek,</iu>
+        <morph>meyli yézi-lar-da bol-sun ayal-lar küchlük-rek</morph>
+        <gloss>no.matter village-PL-LOC be-IMP.3 woman-PL powerful-COMP</gloss>
+        <eng>even in the villages, women were stronger,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="65">
+        <timestamp>00:02:44.741-00:02:45.232</timestamp>
+        <iu>héliqi,</iu>
+        <morph>héliqi</morph>
+        <gloss>that</gloss>
+        <eng>uh,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="66">
+        <timestamp>00:02:45.590-00:02:46.266</timestamp>
+        <iu>janliq.</iu>
+        <morph>janliq</morph>
+        <gloss>lively</gloss>
+        <eng>energetic.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="67">
+        <timestamp>00:02:47.032-00:02:48.294</timestamp>
+        <iu>[xxx] shunglashqa--</iu>
+        <morph>[xxx] shunglashqa</morph>
+        <gloss>[xxx] therefore</gloss>
+        <eng>[xxx] so--</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="68">
+        <timestamp>00:02:47.141-00:02:48.181</timestamp>
+        <iu>Men kichik waqtim--</iu>
+        <morph>men kichik waqt-im</morph>
+        <gloss>1SG small time-1SG.POSS</gloss>
+        <eng>When I was young--</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="69">
+        <timestamp>00:02:48.342-00:02:49.379</timestamp>
+        <iu>kichik waqtimda,</iu>
+        <morph>kichik waqt-im-da</morph>
+        <gloss>small time-1SG.POSS-LOC</gloss>
+        <eng>When I was young,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="70">
+        <timestamp>00:02:49.854-00:02:52.531</timestamp>
+        <iu>héliqi bizning «yumulaq mehelle» dep kuchada bir...</iu>
+        <morph>héliqi biz-ning yumulaq mehelle de-p kucha-da bir</morph>
+        <gloss>that 1PL-GEN circular neighborhood say-CVB Kucha(city)-LOC one</gloss>
+        <eng>we had a store in Kucha called “Circular Neighborhood,”</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="71">
+        <timestamp>00:02:53.353-00:02:54.598</timestamp>
+        <iu>soda dukini bolidighanti,</iu>
+        <morph>soda dukin-i bol-idighan-ti</morph>
+        <gloss>business store-3POSS be-PTCP.PRES-XPST</gloss>
+        <eng>(translated with previous line)</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="72">
+        <timestamp>00:02:54.598-00:02:57.560</timestamp>
+        <iu>ashu kona, way kona yaghach köwrük bar chaghlarda,</iu>
+        <morph>ashu kona way kona yaghach köwrük bar chagh-lar-da</morph>
+        <gloss>that old wow old wooden bridge exist time-PL-LOC</gloss>
+        <eng>back in the times when that old, old wooden bridge was there,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="73">
+        <timestamp>00:02:57.560-00:02:59.753</timestamp>
+        <iu>kucha sayliqqa sélinghan,</iu>
+        <morph>kucha sayliq-qa sél-in-ghan</morph>
+        <gloss>Kucha(city) riverbed-DAT put-PASS-PTCP.PST</gloss>
+        <eng>it was set at the Kucha river bed,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="74">
+        <timestamp>00:02:59.754-00:03:02.766</timestamp>
+        <iu>shuningdin bir ikki yüz métirmu,</iu>
+        <morph>shu-ning-din bir ikki yüz métir-mu</morph>
+        <gloss>that-GEN-ABL one two hundred meter-INT</gloss>
+        <eng>from there a distance of maybe 200 meters,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="75">
+        <timestamp>00:03:02.766-00:03:04.217</timestamp>
+        <iu>üch yüz métir sherqke,</iu>
+        <morph>üch yüz métir sherq-ke</morph>
+        <gloss>three hundred meter east-DAT</gloss>
+        <eng>or 300 meters to the west, </eng>
+      </annotation>
+      <annotation who="Speaker A" ref="76">
+        <timestamp>00:03:05.092-00:03:08.776</timestamp>
+        <iu>mangghan waqtida bir, mm, kichik bir da'ire barti.</iu>
+        <morph>mang-ghan waqt-i-da bir mm kichik bir da'ire bar-ti</morph>
+        <gloss>walk-PTCP.PST time-3POSS-LOC one mm small one scope exist-XPST</gloss>
+        <eng>when you went there, there was a little area,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="77">
+        <timestamp>00:03:08.776-00:03:09.741</timestamp>
+        <iu>Mundaq tosup qoyulghan,</iu>
+        <morph>mundaq tos-up qoy-ul-ghan</morph>
+        <gloss>thus obstruct-CVB put-PASS-PTCP.PST</gloss>
+        <eng>it was blocked off like that,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="78">
+        <timestamp>00:03:09.801-00:03:11.633</timestamp>
+        <iu>ayagh ong tereptin sol tereptin kirgili bolidighan,</iu>
+        <morph>ayagh ong terep-tin sol terep-tin kir-gili bol-idighan</morph>
+        <gloss>foot right(hand) side-ABL left(hand) side-ABL enter-PURP be-PTCP.PRES</gloss>
+        <eng>you could enter from the lower right side or left side,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="79">
+        <timestamp>00:03:11.633-00:03:12.051</timestamp>
+        <iu>shu yerde,</iu>
+        <morph>shu yer-de</morph>
+        <gloss>that place-LOC</gloss>
+        <eng>at that place,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="80">
+        <timestamp>00:03:12.409-00:03:14.272</timestamp>
+        <iu>qatar kucha sodigerliri bolidighan.</iu>
+        <morph>qatar kucha sodiger-lir-i bol-idighan</morph>
+        <gloss>row Kucha(city) businessperson-PL-PRES be-PTCP.PRES</gloss>
+        <eng>there was a row of Kucha businesspeople.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="81">
+        <timestamp>00:03:14.272-00:03:15.906</timestamp>
+        <iu>Shu yerdimu héliqi,</iu>
+        <morph>shu yer-di-mu héliqi</morph>
+        <gloss>that place-LOC-also that</gloss>
+        <eng>At that place too,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="82">
+        <timestamp>00:03:16.223-00:03:17.824</timestamp>
+        <iu>sodigerlerning köpinchisi,</iu>
+        <morph>sodiger-ler-ning köpinchi-si</morph>
+        <gloss>businessperson-PL-GEN majority-3POSS</gloss>
+        <eng>the majority of the businesspeople,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="83">
+        <timestamp>00:03:18.699-00:03:19.866</timestamp>
+        <iu>ayal kishi he,</iu>
+        <morph>ayal kishi he</morph>
+        <gloss>woman person DM</gloss>
+        <eng>were women,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="84">
+        <timestamp>00:03:19.296-00:03:20.574</timestamp>
+        <iu>ayal bolatti,</iu>
+        <morph>ayal bol-att-i</morph>
+        <gloss>woman be-PST.HAB-3</gloss>
+        <eng>were women,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="85">
+        <timestamp>00:03:20.574-00:03:22.885</timestamp>
+        <iu>andin kéyin héliqi ushshaq-chüshshek he,</iu>
+        <morph>andin kéyin héliqi ushshaq chüshshek he</morph>
+        <gloss>then after that tiny REDUP uh</gloss>
+        <eng>and then those uh small goods,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="86">
+        <timestamp>00:03:23.176-00:03:24.093</timestamp>
+        <iu>sétimchiliq qilidighan,</iu>
+        <morph>sétimchiliq qil-idighan</morph>
+        <gloss>selling do-PTCP.PRES</gloss>
+        <eng>they were selling them,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="87">
+        <timestamp>00:03:24.093-00:03:26.902</timestamp>
+        <iu>andin kéyin awu baqqal dep bir héliqi köwrükning,</iu>
+        <morph>andin kéyin awu baqqal de-p bir héliqi köwrük-ning</morph>
+        <gloss>then after that fruit.seller say-CVB one that bridge-GEN</gloss>
+        <eng>and then the fruit sellers on the bridge's,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="88">
+        <timestamp>00:03:27.436-00:03:31.524</timestamp>
+        <iu>aldida, yol yaqisida olturup, tuxum satidighan, nan satidighan,</iu>
+        <morph>ald-i-da yol yaq-i-si-da oltur-up tuxum sat-idighan nan sat-idighan</morph>
+        <gloss>front-3POSS-LOC road side-3POSS-3POSS-LOC sit-CVB egg sell-PTCP.PRES nan.bread sell-PTCP.PRES</gloss>
+        <eng>front side, sitting on the side of the road selling eggs, selling nan.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="89">
+        <timestamp>00:03:32.176-00:03:34.111</timestamp>
+        <iu>andin kéyin gazir parche satidighan,</iu>
+        <morph>andin kéyin gazir parche sat-idighan</morph>
+        <gloss>then after sunflower.seeds piece sell-PTCP.PRES</gloss>
+        <eng>and selling sunflower seeds,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="90">
+        <timestamp>00:03:32.498-00:03:33.652</timestamp>
+        <iu>[xxx]--</iu>
+        <morph>[xxx]</morph>
+        <gloss>[xxx]</gloss>
+        <eng>[xxx]--</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="91">
+        <timestamp>00:03:34.343-00:03:36.042</timestamp>
+        <iu>qaq jigde nerse satidighan,</iu>
+        <morph>qaq jigde nerse sat-idighan</morph>
+        <gloss>dried.fruit red.date thing sell-PTCP.PRES</gloss>
+        <eng>selling dried red dates and stuff,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="92">
+        <timestamp>00:03:35.252-00:03:36.235</timestamp>
+        <iu>qaq [xxx] [xxx].</iu>
+        <morph>qaq [xxx] [xxx]</morph>
+        <gloss>dried.fruit [xxx] [xxx]</gloss>
+        <eng>dried fruit [xxx] [xxx].</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="93">
+        <timestamp>00:03:36.329-00:03:37.766</timestamp>
+        <iu>Erler asasen yoqti.</iu>
+        <morph>er-ler asasen yoq-ti</morph>
+        <gloss>man-PL basically not.exist-XPST</gloss>
+        <eng>There were basically no men.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="94">
+        <timestamp>00:03:36.352-00:03:36.779</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="95">
+        <timestamp>00:03:37.253-00:03:37.854</timestamp>
+        <iu>Shu [xxx].</iu>
+        <morph>shu [xxx]</morph>
+        <gloss>that [xxx]</gloss>
+        <eng>That [xxx].</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="96">
+        <timestamp>00:03:37.855-00:03:38.276</timestamp>
+        <iu>Shu [xxx],</iu>
+        <morph>shu [xxx]</morph>
+        <gloss>that [xxx]</gloss>
+        <eng>That [xxx].</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="97">
+        <timestamp>00:03:38.276-00:03:40.405</timestamp>
+        <iu>baqqallarning asasen ashundaq héliqi,</iu>
+        <morph>baqqal-lar-ning asasen ashundaq héliqi</morph>
+        <gloss>fruit.seller-PL-GEN basically thus that</gloss>
+        <eng>the fruit sellers were basically like,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="98">
+        <timestamp>00:03:40.045-00:03:40.501</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Yeah.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="99">
+        <timestamp>00:03:41.613-00:03:43.228</timestamp>
+        <iu>ayallar... jiqti.</iu>
+        <morph>ayal-lar jiq-ti</morph>
+        <gloss>woman-PL many-XPST</gloss>
+        <eng>a lot of them...were women.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="100">
+        <timestamp>00:03:42.014-00:03:43.599</timestamp>
+        <iu>Kichik waqtimizda bizningki--</iu>
+        <morph>kichik waqt-imiz-da biz-ningki</morph>
+        <gloss>small time-1PL.POSS-LOC 1PL-GEN</gloss>
+        <eng>When we were young our--</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="101">
+        <timestamp>00:03:43.599-00:03:46.787</timestamp>
+        <iu>bir tallam bir-- tokur... adem barti,</iu>
+        <morph>bir tal-lam bir tokur adem bar-ti</morph>
+        <gloss>one (measure word)-just one crippled.person person exist-XPST</gloss>
+        <eng>there was a-- disabled… man,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="102">
+        <timestamp>00:03:46.787-00:03:47.651</timestamp>
+        <iu>bir puti aqsaydighan,</iu>
+        <morph>bir put-i aqsa-ydighan</morph>
+        <gloss>one foot-3POSS be.lame-PTCP.PRES</gloss>
+        <eng>he was lame in one foot,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="103">
+        <timestamp>00:03:48.447-00:03:49.599</timestamp>
+        <iu>ashu ademla qaq satti,</iu>
+        <morph>ashu adem-la qaq sat-t-i</morph>
+        <gloss>that person-just dried.fruit sell-PST-3</gloss>
+        <eng>he was the only man selling dried fruit,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="104">
+        <timestamp>00:03:49.599-00:03:50.205</timestamp>
+        <iu>qalghan--</iu>
+        <morph>qal-ghan</morph>
+        <gloss>remain-PTCP.PST</gloss>
+        <eng>the rest--</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="105">
+        <timestamp>00:03:51.257-00:03:52.522</timestamp>
+        <iu>hemmisi ayalti.</iu>
+        <morph>hemmi-si ayal-ti</morph>
+        <gloss>all-3POSS woman-XPST</gloss>
+        <eng>all the others were women.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="106">
+        <timestamp>00:03:52.522-00:03:54.217</timestamp>
+        <iu>Közimizge bir xil ghelite körünettide,</iu>
+        <morph>köz-imiz-ge bir xil ghelite kör-ün-ett-i-de</morph>
+        <gloss>eye-1PL.POSS-DAT one type strange see-PASS-PST.HAB-3-PTCL</gloss>
+        <eng>For us it seemed like sort of a strange,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="107">
+        <timestamp>00:03:54.222-00:03:54.794</timestamp>
+        <iu>«mushu yerde,</iu>
+        <morph>mushu yer-de</morph>
+        <gloss>this place-LOC</gloss>
+        <eng>like, “in this place,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="108">
+        <timestamp>00:03:54.871-00:03:55.835</timestamp>
+        <iu>bu adem némishqa,</iu>
+        <morph>bu adem némishqa</morph>
+        <gloss>this man why</gloss>
+        <eng>why is this man,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="109">
+        <timestamp>00:03:56.437-00:03:58.691</timestamp>
+        <iu>ayallarning arisigha kirip olturup bir nerse satidighandu»</iu>
+        <morph>ayal-lar-ning ari-si-gha kir-ip oltur-up bir nerse sat-idighan-du</morph>
+        <gloss>woman-PL-GEN middle-3POSS-DAT enter-CVB sit-CVB one thing sell-PTCP.PRES-3</gloss>
+        <eng>coming among all these women and sitting down to sell something?”</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="110">
+        <timestamp>00:03:58.691-00:04:00.412</timestamp>
+        <iu>dégen-- nerse boliwalattide,</iu>
+        <morph>dé-gen nerse bol-i-wal-att-i-de</morph>
+        <gloss>say-PTCP.PST thing be-PRES-SELF.BEN-PST.HAB-3-PTCL</gloss>
+        <eng>that kind of thing.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="111">
+        <timestamp>00:03:59.295-00:03:59.877</timestamp>
+        <iu>Mmm.</iu>
+        <morph>mmm</morph>
+        <gloss>mmm</gloss>
+        <eng>Mmm.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="112">
+        <timestamp>00:04:00.793-00:04:02.420</timestamp>
+        <iu>Ashundaq «ushshaq-chüshshek méwe-chéwini,</iu>
+        <morph>ashundaq ushshaq chüshshek méwe chéwi-ni</morph>
+        <gloss>thus tiny REDUP fruit REDUP-ACC</gloss>
+        <eng>There was this kind of view that “fruit and small goods</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="113">
+        <timestamp>00:04:02.706-00:04:03.592</timestamp>
+        <iu>ayal kishi satidu»</iu>
+        <morph>ayal kishi sat-i-du</morph>
+        <gloss>woman person sell-PRES-3</gloss>
+        <eng>are sold by women”</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="114">
+        <timestamp>00:04:03.592-00:04:04.914</timestamp>
+        <iu>deydighan bir xil,</iu>
+        <morph>de-ydighan bir xil</morph>
+        <gloss>say-PTCP.PRES one type</gloss>
+        <eng>(translated in previous line)</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="115">
+        <timestamp>00:04:05.490-00:04:07.332</timestamp>
+        <iu>köz qarash barti, shu kichik waqtimizda.</iu>
+        <morph>köz qarash bar-ti shu kichik waqt-imiz-da</morph>
+        <gloss>eye view exist-XPST that small time-1PL.POSS-LOC</gloss>
+        <eng>(translated in a previous line), when we were little.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="116">
+        <timestamp>00:04:07.503-00:04:08.744</timestamp>
+        <iu>héliqi kempütlerni,</iu>
+        <morph>héliqi kempüt-ler-ni</morph>
+        <gloss>that candy-PL-ACC</gloss>
+        <eng>Like candy,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="117">
+        <timestamp>00:04:09.052-00:04:12.317</timestamp>
+        <iu>qaq-ghorilarni qop qoyup, héliqi besh pungluq alsaq yérimini bölüp bérip,</iu>
+        <morph>qaq ghori-lar-ni qo-p qoy-up héliqi besh pung-luq al-sa-q yérim-i-ni böl-üp bér-ip</morph>
+        <gloss>dried.fruit apricot-PL-ACC put-CVB AUX.qoy-CVB that five cent-DER take-COND-1PL half-3POSS-ACC divide-CVB AUX.ber-CVB</gloss>
+        <eng>dried and fresh fruits, that uh, if we took a five-cent coin and divided it in half,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="118">
+        <timestamp>00:04:12.323-00:04:12.754</timestamp>
+        <iu>Toghra.</iu>
+        <morph>toghra</morph>
+        <gloss>correct</gloss>
+        <eng>Right.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="119">
+        <timestamp>00:04:12.473-00:04:13.282</timestamp>
+        <iu>qilidighan yerde,</iu>
+        <morph>qil-idighan yer-de</morph>
+        <gloss>do-PTCP.PRES place-LOC</gloss>
+        <eng>that place,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="120">
+        <timestamp>00:04:13.512-00:04:14.032</timestamp>
+        <iu>Hmm.</iu>
+        <morph>hmm</morph>
+        <gloss>hmm</gloss>
+        <eng>Hmm.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="121">
+        <timestamp>00:04:14.387-00:04:16.369</timestamp>
+        <iu>birla er kishi barti, qalghan hemmisi xotun kishiti.</iu>
+        <morph>bir-la er kishi bar-ti qal-ghan hemmi-si xotun kishi-ti</morph>
+        <gloss>one-just man person exist-XPST remain-PTCP.PST all-3POSS woman person-XPST</gloss>
+        <eng>There was only one man, all the rest were women.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="122">
+        <timestamp>00:04:17.064-00:04:19.189</timestamp>
+        <iu>Andin kéyin héliqi bashlanghuch ottura mekteplerning aldiliridimu,</iu>
+        <morph>andin kéyin héliqi bashlanghuch ottura mektep-ler-ning ald-i-lir-i-di-mu</morph>
+        <gloss>then after that primary center school-PL-GEN front-3POSS-PL-3POSS-LOC-INT</gloss>
+        <eng>And then the ones in front of the elementary and middle school,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="123">
+        <timestamp>00:04:19.327-00:04:21.586</timestamp>
+        <iu>bir nerse sétip olturidighan héliqi,</iu>
+        <morph>bir nerse sét-ip oltur-idighan héliqi</morph>
+        <gloss>one thing sell-CVB sit-PTCP.PRES that</gloss>
+        <eng>the ones selling things,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="124">
+        <timestamp>00:04:22.255-00:04:23.016</timestamp>
+        <iu>yaymichilar bolidighan,</iu>
+        <morph>yaymi-chi-lar bol-idighan</morph>
+        <gloss>street.stall--er-PL be-PTCP.PRES</gloss>
+        <eng>the ones who were street peddlers,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="125">
+        <timestamp>00:04:23.016-00:04:25.141</timestamp>
+        <iu>shularningmu köpinchisi…</iu>
+        <morph>shu-lar-ning-mu köpinchi-si</morph>
+        <gloss>that-PL-GEN-INT majority-3POSS</gloss>
+        <eng>the majority of them too…</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="126">
+        <timestamp>00:04:25.322-00:04:26.442</timestamp>
+        <iu>ayallar [xxx].</iu>
+        <morph>ayal-lar [xxx]</morph>
+        <gloss>woman-PL [xxx]</gloss>
+        <eng>women [xxx].</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="127">
+        <timestamp>00:04:25.608-00:04:26.723</timestamp>
+        <iu>ayallar bolidighanti.</iu>
+        <morph>ayal-lar bol-idighan-ti</morph>
+        <gloss>woman-PL be-PTCP.PRES-XPST</gloss>
+        <eng>were women.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="128">
+        <timestamp>00:04:28.269-00:04:29.060</timestamp>
+        <iu>Andin kéyin,</iu>
+        <morph>andin kéyin</morph>
+        <gloss>then after</gloss>
+        <eng>And then,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="129">
+        <timestamp>00:04:29.399-00:04:30.882</timestamp>
+        <iu>he kucha ayalliri,</iu>
+        <morph>he kucha ayal-lir-i</morph>
+        <gloss>uh Kucha(city) woman-PL-3POSS</gloss>
+        <eng>uh, Kucha women,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="130">
+        <timestamp>00:04:31.247-00:04:32.692</timestamp>
+        <iu>ettigende oylap baq.</iu>
+        <morph>ettigen-de oyla-p baq</morph>
+        <gloss>morning-LOC think-CVB AUX.baq</gloss>
+        <eng>think about the mornings.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="131">
+        <timestamp>00:04:34.233-00:04:35.379</timestamp>
+        <iu>Qaymaq bazirigha,</iu>
+        <morph>qaymaq bazir-i-gha</morph>
+        <gloss>cream market-3POSS-DAT</gloss>
+        <eng>To the dairy market,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="132">
+        <timestamp>00:04:35.985-00:04:37.978</timestamp>
+        <iu>qaymaq qétiqni ekirip,</iu>
+        <morph>qaymaq qétiq-ni ekir-ip</morph>
+        <gloss>cream yogurt-ACC bring.in-CVB</gloss>
+        <eng>bringing cream and yogurt in,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="133">
+        <timestamp>00:04:38.250-00:04:41.345</timestamp>
+        <iu>ettigende ashu ishi-- étizning ishi bashlanghuche,</iu>
+        <morph>ettigen-de ashu ish-i étiz-ning ish-i bashla-n-ghu-che</morph>
+        <gloss>morning-LOC that thing-3POSS field-GEN thing-3POSS begin-PASS-DESID-EQU</gloss>
+        <eng>In the morning that work-- until the farm work began,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="134">
+        <timestamp>00:04:38.519-00:04:39.067</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="135">
+        <timestamp>00:04:41.720-00:04:43.579</timestamp>
+        <iu>béghidiki méwilerni,</iu>
+        <morph>bégh-i-diki méwi-ler-ni</morph>
+        <gloss>garden-3POSS-LOC.REL fruit-PL-ACC</gloss>
+        <eng>the fruits in the garden,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="136">
+        <timestamp>00:04:44.416-00:04:45.399</timestamp>
+        <iu>sütlirini séghip,</iu>
+        <morph>süt-lir-i-ni ségh-ip</morph>
+        <gloss>milk-PL-3POSS-ACC squeeze-CVB</gloss>
+        <eng>they milk the cows,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="137">
+        <timestamp>00:04:45.600-00:04:47.663</timestamp>
+        <iu>qaymaqlirini, teyyarlap qoyghan qaymaqlirini élip,</iu>
+        <morph>qaymaq-lir-i-ni teyyarla-p qoy-ghan qaymaq-lir-i-ni él-ip</morph>
+        <gloss>cream-PL-3POSS-ACC prepare-CVB AUX.qoy-PTCP.PST cream-PL-3POSS-ACC take-CVB</gloss>
+        <eng>and then get the dairy products, the prepared dairy products,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="138">
+        <timestamp>00:04:47.663-00:04:49.252</timestamp>
+        <iu>bazargha ekirip sétiwétip chiqip,</iu>
+        <morph>bazar-gha ekir-ip sét-iwét-ip chiq-ip</morph>
+        <gloss>market-DAT bring.in-CVB sell-INTENS-CVB AUX.chiq-CVB</gloss>
+        <eng>take them to the market and sell them,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="139">
+        <timestamp>00:04:49.252-00:04:50.721</timestamp>
+        <iu>andin kéyin balilirigha ash béridu.</iu>
+        <morph>andin kéyin bali-lir-i-gha ash bér-i-du</morph>
+        <gloss>then after child-PL-3POSS-DAT food give-PRES-3</gloss>
+        <eng>and then they feed the children.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="140">
+        <timestamp>00:04:50.848-00:04:53.134</timestamp>
+        <iu>Rast, héliqi qaymaq bazirida,</iu>
+        <morph>rast héliqi qaymaq bazir-i-da</morph>
+        <gloss>true that cream market-3POSS-LOC</gloss>
+        <eng>True, at that dairy market,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="141">
+        <timestamp>00:04:53.658-00:04:55.834</timestamp>
+        <iu>peqetlam qizlar bilen ayallar bolidu,</iu>
+        <morph>peqet-lam qiz-lar bilen ayal-lar bol-i-du</morph>
+        <gloss>only-just girl-PL with woman-PL be-PRES-3</gloss>
+        <eng>only girls and women can work there.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="142">
+        <timestamp>00:04:55.550-00:04:55.980</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="143">
+        <timestamp>00:04:55.894-00:04:56.689</timestamp>
+        <iu>Er kishi bolmaydu.</iu>
+        <morph>er kishi bol-ma-y-du</morph>
+        <gloss>man person be-NEG-PRES-3</gloss>
+        <eng>It's not for men.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="144">
+        <timestamp>00:04:56.723-00:04:58.098</timestamp>
+        <iu>U ettigende shu...</iu>
+        <morph>u ettigen-de shu</morph>
+        <gloss>that morning-LOC that</gloss>
+        <eng>In the mornings…</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="145">
+        <timestamp>00:04:56.812-00:04:58.680</timestamp>
+        <iu>Er kishi [xxx] [xxx] [xxx] yerde.</iu>
+        <morph>er kishi [xxx] [xxx] [xxx] yer-de</morph>
+        <gloss>man person [xxx] [xxx] [xxx] place-LOC</gloss>
+        <eng>Men [xxx] [xxx] [xxx] place.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="146">
+        <timestamp>00:04:58.375-00:04:58.894</timestamp>
+        <iu>yéqin,</iu>
+        <morph>yéqin</morph>
+        <gloss>nearby</gloss>
+        <eng>Near,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="147">
+        <timestamp>00:04:58.894-00:05:01.351</timestamp>
+        <iu>héliqi kona sheherge yéqin etraptiki yézilardin,</iu>
+        <morph>héliqi kona sheher-ge yéqin etrap-tiki yézi-lar-din</morph>
+        <gloss>that old city-DAT nearby vicinity-LOC.REL village-PL-ABL</gloss>
+        <eng>from the villages near the old city,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="148">
+        <timestamp>00:05:01.831-00:05:02.689</timestamp>
+        <iu>ettigende,</iu>
+        <morph>ettigen-de</morph>
+        <gloss>morning-LOC</gloss>
+        <eng>in the morning,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="149">
+        <timestamp>00:05:03.245-00:05:04.672</timestamp>
+        <iu>ikki deste üch deste,</iu>
+        <morph>ikki deste üch deste</morph>
+        <gloss>two stack three stack</gloss>
+        <eng>two stacks three stacks,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="150">
+        <timestamp>00:05:04.536-00:05:05.302</timestamp>
+        <iu>He, he'e.</iu>
+        <morph>he he'e</morph>
+        <gloss>uh yes</gloss>
+        <eng>Yeah, uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="151">
+        <timestamp>00:05:04.750-00:05:05.382</timestamp>
+        <iu>héliqi,</iu>
+        <morph>héliqi</morph>
+        <gloss>that</gloss>
+        <eng>Uh,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="152">
+        <timestamp>00:05:05.382-00:05:09.175</timestamp>
+        <iu>kichik kichik qachilargha qaymaqlarni, tégige chong qachilarda qétiqlarni élip, </iu>
+        <morph>kichik kichik qachi-lar-gha qaymaq-lar-ni tég-i-ge chong qachi-lar-da qétiq-lar-ni él-ip</morph>
+        <gloss>small small bowl-PL-DAT cream-PL-ACC bottom-3POSS-DAT big bowl-PL-LOC yogurt-PL-ACC take-CVB</gloss>
+        <eng>Uh, they bring cream in tiny little bowls, and underneath was yogurt in big bowls,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="153">
+        <timestamp>00:05:09.480-00:05:10.680</timestamp>
+        <iu>yaghliq bilen baghlap,</iu>
+        <morph>yaghliq bilen baghla-p</morph>
+        <gloss>headscarf with tie.up-CVB</gloss>
+        <eng>all tied up with a scarf,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="154">
+        <timestamp>00:05:10.684-00:05:13.759</timestamp>
+        <iu>ikki qolida kötürüp kirip destlap qoyup turup ashundaq satidighanti.</iu>
+        <morph>ikki qol-i-da kötür-üp kir-ip destile-p qoy-up tur-up ashundaq sat-idighan-ti</morph>
+        <gloss>two hand-3POSS-LOC lift-CVB enter-CVB stack-CVB put-CVB stand-CVB thus sell-PTCP.PRES-XPST</gloss>
+        <eng>they carry them in with two hands, stack them up and sell them like that.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="155">
+        <timestamp>00:05:10.714-00:05:11.240</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>He'e.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="156">
+        <timestamp>00:05:12.747-00:05:13.206</timestamp>
+        <iu>Uh-huh.</iu>
+        <morph>uh-huh</morph>
+        <gloss>uh-huh</gloss>
+        <eng>He'e.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="157">
+        <timestamp>00:05:14.305-00:05:15.769</timestamp>
+        <iu>Mesilen seksininchi-toqsininchi yillarda,</iu>
+        <morph>mesilen seksin-inchi toqsin-inchi yil-lar-da</morph>
+        <gloss>for.example eighty-ORD ninety-ORD year-PL-LOC</gloss>
+        <eng>For example in the ‘80s and ‘90s,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="158">
+        <timestamp>00:05:15.769-00:05:17.107</timestamp>
+        <iu>qaymaqlar bir koy,</iu>
+        <morph>qaymaq-lar bir koy</morph>
+        <gloss>cream-PL one kuai(Chinese yuan)</gloss>
+        <eng>cream was 1 yuan,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="159">
+        <timestamp>00:05:17.735-00:05:22.230</timestamp>
+        <iu>andin qétiqlarmu bir koy birla yérim koy etrapta bolidighanti adette.</iu>
+        <morph>andin qétiq-lar-mu bir koy bir-la yérim koy etrap-ta bol-idighan-ti adette</morph>
+        <gloss>then yogurt-PL-INT one kuai(Chinese yuan) one-just half kuai(Chinese yuan) vicinity-LOC be-PTCP.PRES-XPST usually</gloss>
+        <eng>and then yogurt was 1 yuan or 1.5 yuan or so usually.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="160">
+        <timestamp>00:05:21.702-00:05:22.660</timestamp>
+        <iu>He'e, he'e.</iu>
+        <morph>he'e he'e</morph>
+        <gloss>yes yes</gloss>
+        <eng>Uh-huh, uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="161">
+        <timestamp>00:05:22.882-00:05:26.552</timestamp>
+        <iu>Héliqi kuchada asasen ettiginisi hemmisi qaymaq chay ichidughu adette,</iu>
+        <morph>héliqi kucha-da asasen ettigin-i-si hemmi-si qaymaq chay ich-i-du-ghu adette</morph>
+        <gloss>that Kucha(city)-LOC basically morning-3POSS-3POSS all-3POSS cream tea drink-PRES-3-CONF usually</gloss>
+        <eng>In Kucha basically everybody drinks tea with cream usually,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="162">
+        <timestamp>00:05:26.355-00:05:26.831</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="163">
+        <timestamp>00:05:26.668-00:05:27.766</timestamp>
+        <iu>Etken chay emes.</iu>
+        <morph>et-ken chay emes</morph>
+        <gloss>make-PTCP.PST tea not</gloss>
+        <eng>It’s not called milk tea.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="164">
+        <timestamp>00:05:27.766-00:05:29.685</timestamp>
+        <iu>Mawu ghulja tereplerde etken chay deydu,</iu>
+        <morph>mawu Ghulja terep-ler-de et-ken chay de-y-du</morph>
+        <gloss>this Ghulja(city) side-PL-LOC make-PTCP.PST tea say-PRES-3</gloss>
+        <eng>They call it milk tea around Ghulja,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="165">
+        <timestamp>00:05:28.382-00:05:29.247</timestamp>
+        <iu>He'e, he'e.</iu>
+        <morph>he'e he'e</morph>
+        <gloss>yes yes</gloss>
+        <eng>Uh-huh, uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="166">
+        <timestamp>00:05:29.858-00:05:32.074</timestamp>
+        <iu>pishshiq qaymaq bilen qilidu ma kuchada?</iu>
+        <morph>pishshiq qaymaq bilen qil-i-du ma kucha-da</morph>
+        <gloss>cooked cream with do-PRES-3 this Kucha(city)-LOC</gloss>
+        <eng>Is it made with cooked cream in Kucha?</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="167">
+        <timestamp>00:05:32.454-00:05:33.735</timestamp>
+        <iu>Xam qaymaq bilen.</iu>
+        <morph>xam qaymaq bilen</morph>
+        <gloss>raw cream with</gloss>
+        <eng>With fresh cream.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="168">
+        <timestamp>00:05:33.264-00:05:34.644</timestamp>
+        <iu>Xam qaymaq bilen qilidu.</iu>
+        <morph>xam qaymaq bilen qil-i-du</morph>
+        <gloss>raw cream with do-PRES-3</gloss>
+        <eng>It’s made with fresh cream,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="169">
+        <timestamp>00:05:34.538-00:05:35.973</timestamp>
+        <iu>Qaymaq chay qilidighanti.</iu>
+        <morph>qaymaq chay qil-idighan-ti</morph>
+        <gloss>cream tea do-PTCP.PRES-XPST</gloss>
+        <eng>They made tea with cream.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="170">
+        <timestamp>00:05:35.502-00:05:36.067</timestamp>
+        <iu>Hm-mm.</iu>
+        <morph>hm-mm</morph>
+        <gloss>hm-mm</gloss>
+        <eng>Mm-hm.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="171">
+        <timestamp>00:05:36.452-00:05:37.889</timestamp>
+        <iu>Bizning öydimu ettiginisi shundaq qilatti,</iu>
+        <morph>biz-ning öy-di-mu ettigin-i-si shundaq qil-att-i</morph>
+        <gloss>1PL-GEN home-LOC-INT morning-3POSS-3POSS thus do-PST.HAB-3</gloss>
+        <eng>We used to make it that way at home too in the morning,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="172">
+        <timestamp>00:05:37.889-00:05:38.404</timestamp>
+        <iu>dadam bérip,</iu>
+        <morph>dada-m bér-ip</morph>
+        <gloss>dad-1SG.POSS go-CVB</gloss>
+        <eng>my dad would go</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="173">
+        <timestamp>00:05:38.404-00:05:39.584</timestamp>
+        <iu>qaymaq ekéletti,</iu>
+        <morph>qaymaq ekél-ett-i</morph>
+        <gloss>cream bring-PST.HAB-3</gloss>
+        <eng>and bring back cream,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="174">
+        <timestamp>00:05:39.584-00:05:42.214</timestamp>
+        <iu>méwe-chéwiler tawuz-pawuz ettigen u tereplerde,</iu>
+        <morph>méwe chéwi-ler tawuz pawuz ettigen u terep-ler-de</morph>
+        <gloss>fruit REDUP-PL watermelon REDUP morning that side-PL-LOC</gloss>
+        <eng>fruit, melons and stuff in the morning there.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="175">
+        <timestamp>00:05:42.439-00:05:43.404</timestamp>
+        <iu>Andin kéyin,</iu>
+        <morph>andin kéyin</morph>
+        <gloss>then after</gloss>
+        <eng>And then,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="176">
+        <timestamp>00:05:43.750-00:05:44.483</timestamp>
+        <iu>shu öyde,</iu>
+        <morph>shu öy-de</morph>
+        <gloss>that home-LOC</gloss>
+        <eng>at home,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="177">
+        <timestamp>00:05:46.346-00:05:47.637</timestamp>
+        <iu>bir qoshuqtin--</iu>
+        <morph>bir qoshuq-tin</morph>
+        <gloss>one spoon-ABL</gloss>
+        <eng>from a spoon--</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="178">
+        <timestamp>00:05:48.757-00:05:49.411</timestamp>
+        <iu>qaymaq sélip,</iu>
+        <morph>qaymaq sél-ip</morph>
+        <gloss>cream put-CVB</gloss>
+        <eng>put the cream in,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="179">
+        <timestamp>00:05:49.411-00:05:50.074</timestamp>
+        <iu>xam qaymaq,</iu>
+        <morph>xam qaymaq</morph>
+        <gloss>raw cream</gloss>
+        <eng>fresh cream,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="180">
+        <timestamp>00:05:50.088-00:05:51.125</timestamp>
+        <iu>azraq tuz quyup,</iu>
+        <morph>azraq tuz quy-up</morph>
+        <gloss>a.little salt pour-CVB</gloss>
+        <eng>add a little salt,  </eng>
+      </annotation>
+      <annotation who="Speaker A" ref="181">
+        <timestamp>00:05:51.125-00:05:52.062</timestamp>
+        <iu>andin azraq süt quyup,</iu>
+        <morph>andin azraq süt quy-up</morph>
+        <gloss>then a.little milk pour-CVB</gloss>
+        <eng>then a little milk,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="182">
+        <timestamp>00:05:52.069-00:05:53.805</timestamp>
+        <iu>andin kéyin qéniq demlanghan,</iu>
+        <morph>andin kéyin qéniq demla-n-ghan</morph>
+        <gloss>then after dark brew-PASS-PTCP.PST</gloss>
+        <eng>then pour strong-brewed…</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="183">
+        <timestamp>00:05:54.161-00:05:55.680</timestamp>
+        <iu>[xxx] he'e.</iu>
+        <morph>[xxx] he'e</morph>
+        <gloss>[xxx] yes</gloss>
+        <eng>[xxx] yeah.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="184">
+        <timestamp>00:05:54.226-00:05:56.360</timestamp>
+        <iu>qara chayni quyup ashundaq qilidighanti.</iu>
+        <morph>qara chay-ni quy-up ashundaq qil-idighan-ti</morph>
+        <gloss>black tea-ACC pour-CVB thus do-PTCP.PRES-XPST</gloss>
+        <eng>black tea, that’s how we made it.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="185">
+        <timestamp>00:05:56.360-00:05:58.432</timestamp>
+        <iu>«way chay chécheklidi, chécheklimidi» dep,</iu>
+        <morph>way chay chéchekli-d-i chéchekli-mi-d-i de-p</morph>
+        <gloss>wow tea blossom-PST-3 blossom-NEG-PST-3 say-CVB</gloss>
+        <eng>we’d say “oh the tea is ready,” or “it’s not ready,”</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="186">
+        <timestamp>00:05:58.452-00:05:59.103</timestamp>
+        <iu>Hm-mm hm-mm.</iu>
+        <morph>hm-mm hm-mm</morph>
+        <gloss>hm-mm hm-mm</gloss>
+        <eng>Mm-hm, mm-hm.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="187">
+        <timestamp>00:05:58.822-00:06:00.858</timestamp>
+        <iu>Mesilen méhman kelsimu ashundaq qilidighanti.</iu>
+        <morph>mesilen méhman kel-si-mu ashundaq qil-idighan-ti</morph>
+        <gloss>for.example guest come-COND-INT thus do-PTCP.PRES-XPST</gloss>
+        <eng>For example they’d make it like that when guests came.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="188">
+        <timestamp>00:06:00.857-00:06:01.230</timestamp>
+        <iu>Hm-mm.</iu>
+        <morph>hm-mm</morph>
+        <gloss>hm-mm</gloss>
+        <eng>Mm-hm.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="189">
+        <timestamp>00:06:01.033-00:06:02.148</timestamp>
+        <iu>Aldi bilen sinchay,</iu>
+        <morph>ald-i bilen sinchay</morph>
+        <gloss>front-3POSS with plain.tea</gloss>
+        <eng>First of all plain tea,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="190">
+        <timestamp>00:06:02.148-00:06:03.610</timestamp>
+        <iu>uningdin kéyin qaymaq chay.</iu>
+        <morph>u-ning-din kéyin qaymaq chay</morph>
+        <gloss>that-GEN-ABL after cream tea</gloss>
+        <eng>and then tea with cream.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="191">
+        <timestamp>00:06:04.021-00:06:06.785</timestamp>
+        <iu>Rast, kuchada yene bir tamaqi bar, «shojir» dep qoyidu.</iu>
+        <morph>rast kucha-da yene bir tamaq-i bar shojir de-p qoy-i-du</morph>
+        <gloss>true Kucha(city)-LOC again one meal-3POSS exist shojir(food) say-CVB put-PRES-3</gloss>
+        <eng>Oh yeah, there was another kind of food in Kucha, they call it shojir.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="192">
+        <timestamp>00:06:07.793-00:06:08.418</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="193">
+        <timestamp>00:06:08.509-00:06:10.744</timestamp>
+        <iu>Uyghurche néme deydiken tang, bilmeymen emdi, uni héliqi... </iu>
+        <morph>uyghur-che nim-e de-y-di-ken tang bil-me-y-men emdi u-ni héliqi</morph>
+        <gloss>Uyghur-EQU what-dm say-PRES-3-EVID I.don't.know know-NEG-PRES-1SG now that-ACC that</gloss>
+        <eng>I don’t know how to say it in Uyghur, it’s like…</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="194">
+        <timestamp>00:06:11.197-00:06:12.629</timestamp>
+        <iu>he köktat he...</iu>
+        <morph>he köktat he</morph>
+        <gloss>uh vegetable uh</gloss>
+        <eng>uh vegetable uh…</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="195">
+        <timestamp>00:06:13.112-00:06:14.437</timestamp>
+        <iu>Shu uyghurche.</iu>
+        <morph>shu uyghur-che</morph>
+        <gloss>that Uyghur-EQU</gloss>
+        <eng>It’s a Uyghur word.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="196">
+        <timestamp>00:06:14.502-00:06:15.490</timestamp>
+        <iu>Uyghurche «shojir».</iu>
+        <morph>uyghur-che shojir</morph>
+        <gloss>Uyghur-EQU shojir(food)</gloss>
+        <eng>'Shojir' is Uyghur.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="197">
+        <timestamp>00:06:15.490-00:06:17.310</timestamp>
+        <iu>Yaq uyghurche emes shojir dégen.</iu>
+        <morph>yaq uyghur-che emes shojir dé-gen</morph>
+        <gloss>no Uyghur-EQU not shojir(food) say-PTCP.PST</gloss>
+        <eng>No, 'shojir' isn’t Uyghur.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="198">
+        <timestamp>00:06:17.538-00:06:20.019</timestamp>
+        <iu>Shojir dégen nedin kelgen tildin, bilmeymen, he'e.</iu>
+        <morph>shojir dé-gen ne-din kel-gen til-din bil-me-y-men he'e</morph>
+        <gloss>shojir(food) say-PTCP.PST where-ABL come-PTCP.PST language-ABL know-NEG-PRES-1SG yes</gloss>
+        <eng>Well, I don’t know what language 'shojir' comes from.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="199">
+        <timestamp>00:06:19.274-00:06:19.915</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="200">
+        <timestamp>00:06:20.148-00:06:21.370</timestamp>
+        <iu>Xitaychimu emes.</iu>
+        <morph>xitay-chi-mu emes</morph>
+        <gloss>China-EQU-also not</gloss>
+        <eng>It’s not Chinese.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="201">
+        <timestamp>00:06:20.353-00:06:21.550</timestamp>
+        <iu>Yene [xxx] [xxx]--</iu>
+        <morph>yene [xxx] [xxx]</morph>
+        <gloss>again [xxx] [xxx]</gloss>
+        <eng>Also [xxx] [xxx]--</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="202">
+        <timestamp>00:06:21.550-00:06:22.850</timestamp>
+        <iu>Xitaychimu emes bolushi mumkin, </iu>
+        <morph>xitay-chi-mu emes bol-ush-i mumkin</morph>
+        <gloss>China-EQU-also not be-GER-3POSS possible</gloss>
+        <eng>It might not be Chinese,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="203">
+        <timestamp>00:06:22.714-00:06:23.153</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="204">
+        <timestamp>00:06:22.850-00:06:23.663</timestamp>
+        <iu>Chünki uningda,</iu>
+        <morph>chünki u-ning-da</morph>
+        <gloss>because that-GEN-LOC</gloss>
+        <eng>Because in it,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="205">
+        <timestamp>00:06:24.168-00:06:27.444</timestamp>
+        <iu>héliqi qoyning mawu qowurgha ustixinini,</iu>
+        <morph>héliqi qoy-ning mawu qowurgha ustixin-i-ni</morph>
+        <gloss>that sheep-GEN this rib bone-3-ACC</gloss>
+        <eng>the sheep’s rib bone,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="206">
+        <timestamp>00:06:27.971-00:06:28.937</timestamp>
+        <iu>parchilap,</iu>
+        <morph>parchila-p</morph>
+        <gloss>chop.up-CVB</gloss>
+        <eng>chopped up,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="207">
+        <timestamp>00:06:29.177-00:06:30.615</timestamp>
+        <iu>uni qorup su quyup,</iu>
+        <morph>u-ni qoru-p su quy-up</morph>
+        <gloss>that-ACC fry-CVB water pour-CVB</gloss>
+        <eng>fry it up, pour some water,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="208">
+        <timestamp>00:06:30.872-00:06:33.038</timestamp>
+        <iu>andin kéyin-- héliqi yésiwélek,</iu>
+        <morph>andin kéyin héliqi yésiwélek</morph>
+        <gloss>then after that lettuce</gloss>
+        <eng>and then-- uh lettuce,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="209">
+        <timestamp>00:06:33.233-00:06:35.151</timestamp>
+        <iu>yésiwélek bilen he qilidu.</iu>
+        <morph>yésiwélek bilen he qil-i-du</morph>
+        <gloss>lettuce with uh do-PRES-3</gloss>
+        <eng>they make it with lettuce.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="210">
+        <timestamp>00:06:35.233-00:06:35.627</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="211">
+        <timestamp>00:06:35.702-00:06:38.141</timestamp>
+        <iu>Asasen jiq sey-kö-- sey-köktat bolidu uningda he,</iu>
+        <morph>asasen jiq sey kö-- sey köktat bol-i-du u-ning-da he</morph>
+        <gloss>basically many vegetable * vegetable vegetable be-PRES-3 3SG-GEN-LOC uh</gloss>
+        <eng>Basically a lot of vegetables can go in it,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="212">
+        <timestamp>00:06:35.886-00:06:36.673</timestamp>
+        <iu>[xxx] bilen.</iu>
+        <morph>[xxx] bilen</morph>
+        <gloss>[xxx] with</gloss>
+        <eng>With [xxx].</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="213">
+        <timestamp>00:06:37.800-00:06:38.235</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="214">
+        <timestamp>00:06:38.154-00:06:40.509</timestamp>
+        <iu>bashqa héch qandaq nerse bolattimaydu he'e...</iu>
+        <morph>bashqa héch qandaq nerse bol-at-t-i-ma-y-du he'e</morph>
+        <gloss>other none how thing be-PST.HAB-PST-PRES-NEG-PRES-3 yes</gloss>
+        <eng>There wasn’t anything else in it...</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="215">
+        <timestamp>00:06:38.572-00:06:41.105</timestamp>
+        <iu>Bashqa [xxx] [xxx] [xxx] héliqi hemmini.</iu>
+        <morph>bashqa [xxx] [xxx] [xxx] héliqi hemmi-ni</morph>
+        <gloss>other [xxx] [xxx] [xxx] that all-ACC</gloss>
+        <eng>Other [xxx] [xxx] [xxx] everything.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="216">
+        <timestamp>00:06:41.680-00:06:45.473</timestamp>
+        <iu>Buni shojir depchu shojur-- uningdin kéyin asas tamaq tartilidu.</iu>
+        <morph>bu-ni shojir de-p-chu shojur u-ning-din kéyin asas tamaq tart-il-i-du</morph>
+        <gloss>this-ACC shojir(food) say-CVB-TOP shojir(food) that-GEN-ABL after basis meal pull-PASS-PRES-3</gloss>
+        <eng>It was called shojir [xxx] [xxx]-- and after that the main dish is served.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="217">
+        <timestamp>00:06:45.261-00:06:45.858</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="218">
+        <timestamp>00:06:45.920-00:06:50.064</timestamp>
+        <iu>U tamaqlar tartilip bolghan, aningdin kéyin eng axirida héliqi,</iu>
+        <morph>u tamaq-lar tart-il-ip bol-ghan a-ning-din kéyin eng axir-i-da héliqi</morph>
+        <gloss>that food-PL pull-PASS-CVB be-PTCP.PST that-GEN-ABL after most end-3-LOC that</gloss>
+        <eng>Those foods were served- and then at the end um,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="219">
+        <timestamp>00:06:50.843-00:06:52.077</timestamp>
+        <iu>méwe-chéwiler,</iu>
+        <morph>méwe chéwi-ler</morph>
+        <gloss>fruit REDUP-PL</gloss>
+        <eng>fruits,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="220">
+        <timestamp>00:06:52.120-00:06:52.564</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Yeah.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="221">
+        <timestamp>00:06:52.516-00:06:53.519</timestamp>
+        <iu>qoyulidighanti.</iu>
+        <morph>qoy-ul-idighan-ti</morph>
+        <gloss>put-PASS-PTCP.PRES-XPST</gloss>
+        <eng>were placed.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="222">
+        <timestamp>00:06:54.906-00:06:56.428</timestamp>
+        <iu>Hazir untup kettuq u nersilerni,</iu>
+        <morph>hazir untu-p ket-t-uq u nersi-ler-ni</morph>
+        <gloss>now forget-CVB leave-PST-1PL that thing-PL-ACC</gloss>
+        <eng>We’ve forgotten those things now,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="223">
+        <timestamp>00:06:56.428-00:06:58.072</timestamp>
+        <iu>hazir u [xxx] héliqi,</iu>
+        <morph>hazir u [xxx] héliqi</morph>
+        <gloss>now that [xxx] that</gloss>
+        <eng>now um [xxx],</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="224">
+        <timestamp>00:06:58.423-00:06:59.184</timestamp>
+        <iu>némimu yoq.</iu>
+        <morph>némi-mu yoq</morph>
+        <gloss>what-INT not.exist</gloss>
+        <eng>it’s all gone.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="225">
+        <timestamp>00:06:59.339-00:07:01.384</timestamp>
+        <iu>Némimu tashliwetti bu xil adetlermu.</iu>
+        <morph>némi-mu tashli-wet-t-i bu xil adet-ler-mu</morph>
+        <gloss>what-also throw-INTENS-PST-3 this type habit-PL-also</gloss>
+        <eng>They’ve given up all those kinds of customs.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="226">
+        <timestamp>00:06:59.435-00:07:00.062</timestamp>
+        <iu>Hm-mm.</iu>
+        <morph>hm-mm</morph>
+        <gloss>hm-mm</gloss>
+        <eng>Mm-hm.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="227">
+        <timestamp>00:07:02.237-00:07:03.293</timestamp>
+        <iu>Untulup ketti he'e.</iu>
+        <morph>untu-l-up ket-t-i he'e</morph>
+        <gloss>forget-PASS-CVB AUX.ket-PST-3 yes</gloss>
+        <eng>Forgotten them, uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="228">
+        <timestamp>00:07:03.225-00:07:03.776</timestamp>
+        <iu>Hm-mm.</iu>
+        <morph>hm-mm</morph>
+        <gloss>hm-mm</gloss>
+        <eng>Mm-hm.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="229">
+        <timestamp>00:07:04.319-00:07:06.411</timestamp>
+        <iu>He untulupmu kétilmigendu emdi.</iu>
+        <morph>he untu-l-up két-il-mi-gen-du emdi</morph>
+        <gloss>uh forget-PASS-CVB leave-PASS-NEG-PTCP.PST-3 now</gloss>
+        <eng>Well, they haven’t been forgotten yet.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="230">
+        <timestamp>00:07:06.689-00:07:07.454</timestamp>
+        <iu>Yene--</iu>
+        <morph>yene</morph>
+        <gloss>again</gloss>
+        <eng>Also--</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="231">
+        <timestamp>00:07:08.440-00:07:10.949</timestamp>
+        <iu>héliqi yézilargha chiqsingiz untulup kétilmeptu.</iu>
+        <morph>héliqi yézi-lar-gha chiq-si-ingiz untu-l-up két-il-me-pt-u</morph>
+        <gloss>that village-PL-DAT go.up-COND-2SG.POL forget-PASS-CVB AUX.ket-PASS-NEG-PST.EVID-3</gloss>
+        <eng>If you go out to the villages they haven’t been forgotten.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="232">
+        <timestamp>00:07:11.269-00:07:12.872</timestamp>
+        <iu>Qum ériqqa barghan waqtimizda,</iu>
+        <morph>qum ériq-qa bar-ghan waqt-imiz-da</morph>
+        <gloss>sand ditch-DAT go-PTCP.PST time-1PL.POSS-LOC</gloss>
+        <eng>When we went to Qum Eriq,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="233">
+        <timestamp>00:07:13.329-00:07:14.216</timestamp>
+        <iu>bir qétim,</iu>
+        <morph>bir qétim</morph>
+        <gloss>one time</gloss>
+        <eng>one time--</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="234">
+        <timestamp>00:07:14.488-00:07:16.266</timestamp>
+        <iu>barghan waqtimda qum ériqta-- </iu>
+        <morph>bar-ghan waqt-im-da qum ériq-ta</morph>
+        <gloss>go-PTCP.PST time-1SG.POSS-LOC sand ditch-LOC</gloss>
+        <eng>barghan waqtimda qum ériqta-- </eng>
+      </annotation>
+      <annotation who="Speaker B" ref="235">
+        <timestamp>00:07:16.379-00:07:17.661</timestamp>
+        <iu>ashtaq shojir qilip--</iu>
+        <morph>ashtaq shojir qil-ip</morph>
+        <gloss>thus shojir(food) do-CVB</gloss>
+        <eng>they made shojir like that--</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="236">
+        <timestamp>00:07:17.670-00:07:18.452</timestamp>
+        <iu>néme qildi emma,</iu>
+        <morph>néme qil-d-i emma</morph>
+        <gloss>what do-PST-3 but</gloss>
+        <eng>or what have you, but,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="237">
+        <timestamp>00:07:18.452-00:07:20.115</timestamp>
+        <iu>biz hazir qilmaydighan boptimiz.</iu>
+        <morph>biz hazir qil-ma-ydighan bo-pt-imiz</morph>
+        <gloss>1PL now do-NEG-PTCP.PRES be-PST.EVID-1PL</gloss>
+        <eng>we don’t do it anymore.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="238">
+        <timestamp>00:07:20.115-00:07:21.490</timestamp>
+        <iu>U issiqta,</iu>
+        <morph>u issiq-ta</morph>
+        <gloss>that hot-LOC</gloss>
+        <eng>When it was hot,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="239">
+        <timestamp>00:07:21.677-00:07:23.134</timestamp>
+        <iu>u shojirni ichip,</iu>
+        <morph>u shojir-ni ich-ip</morph>
+        <gloss>that shojir(food)-ACC drink-CVB</gloss>
+        <eng>they drank shojir,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="240">
+        <timestamp>00:07:23.134-00:07:25.579</timestamp>
+        <iu>shunchilik-- shunchilik terlep bi'aram… </iu>
+        <morph>shunchilik shunchilik terle-p bi'aram</morph>
+        <gloss>so so sweat-CVB uncomfortable</gloss>
+        <eng>so-- so sweaty and uncomfortable...</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="241">
+        <timestamp>00:07:26.848-00:07:28.877</timestamp>
+        <iu>shunchilik bi'aram bop ket-- bop kettim. </iu>
+        <morph>shunchilik bi'aram bo-p ket-- bo-p ket-t-im</morph>
+        <gloss>so uncomfortable become-CVB * become-CVB AUX.ket-PST-1SG</gloss>
+        <eng>I was so uncomfortable.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="242">
+        <timestamp>00:07:28.877-00:07:29.560</timestamp>
+        <iu>U yerde--</iu>
+        <morph>u yer-de</morph>
+        <gloss>that place-LOC</gloss>
+        <eng>Out there--</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="243">
+        <timestamp>00:07:30.187-00:07:33.959</timestamp>
+        <iu>Emma, yene shu méhmanningki hörmitiken.</iu>
+        <morph>emma yene shu méhman-ningki hörmit-iken</morph>
+        <gloss>but again that guest-GEN respect-EVID</gloss>
+        <eng>But, it was also courtesy for guests.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="244">
+        <timestamp>00:07:33.959-00:07:35.146</timestamp>
+        <iu>Polodin burun,</iu>
+        <morph>polo-din burun</morph>
+        <gloss>pilaf-ABL before</gloss>
+        <eng>Before the pilaf,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="245">
+        <timestamp>00:07:35.956-00:07:36.807</timestamp>
+        <iu>shojir tartip,</iu>
+        <morph>shojir tart-ip</morph>
+        <gloss>shojir(food) serve-CVB</gloss>
+        <eng>they serve shojir,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="246">
+        <timestamp>00:07:36.949-00:07:39.091</timestamp>
+        <iu>shojirdin kéyin andin kéyin polo ekélip,</iu>
+        <morph>shojir-din kéyin andin kéyin polo ekél-ip</morph>
+        <gloss>shojir(food)-ABL after then after pilaf bring-CVB</gloss>
+        <eng>after the shojir then they bring the pilaf,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="247">
+        <timestamp>00:07:39.100-00:07:39.764</timestamp>
+        <iu>néme qilidighan,</iu>
+        <morph>néme qil-idighan</morph>
+        <gloss>what do-PTCP.PRES</gloss>
+        <eng>what do you call it,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="248">
+        <timestamp>00:07:39.764-00:07:42.920</timestamp>
+        <iu>chong méhmandarchiliqlarda shojirni yenilam ishlitidiken.</iu>
+        <morph>chong méhmandarchiliq-lar-da shojir-ni yeni-lam ishlit-idiken</morph>
+        <gloss>big hospitality-PL-LOC shojir(food)-ACC again-just use-PRES.EVID</gloss>
+        <eng>they use shojir when important guests come too.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="249">
+        <timestamp>00:07:45.677-00:07:47.651</timestamp>
+        <iu>Shu emdi yézilarningki oxshimaydu.</iu>
+        <morph>shu emdi yézi-lar-ningki oxshi-ma-y-du</morph>
+        <gloss>that now village-PL-GEN be.same.as-NEG-PRES-3</gloss>
+        <eng>It’s different out in the villages.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="250">
+        <timestamp>00:07:47.742-00:07:48.492</timestamp>
+        <iu>Biz ik--</iu>
+        <morph>biz ik--</morph>
+        <gloss>1PL *</gloss>
+        <eng>We--</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="251">
+        <timestamp>00:07:47.834-00:07:48.245</timestamp>
+        <iu>Hm-mm.</iu>
+        <morph>hm-mm</morph>
+        <gloss>hm-mm</gloss>
+        <eng>Mm-hm.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="252">
+        <timestamp>00:07:48.855-00:07:49.634</timestamp>
+        <iu>Men emdi,</iu>
+        <morph>men emdi</morph>
+        <gloss>1SG now</gloss>
+        <eng>I,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="253">
+        <timestamp>00:07:49.634-00:07:51.319</timestamp>
+        <iu>bek kichik désem bolmaydu shu,</iu>
+        <morph>bek kichik dé-se-m bol-ma-y-du shu</morph>
+        <gloss>very small say-COND-1SG be-NEG-PRES-3 that</gloss>
+        <eng>I can't say it was when I was really little,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="254">
+        <timestamp>00:07:52.492-00:07:56.146</timestamp>
+        <iu>on töt on besh on alte on yette yash waqitlirimiz, emdi yash waqitlirimiz désekmu bolidu,</iu>
+        <morph>on töt on besh on alte on yette yash waqit-lir-imiz emdi yash waqit-lir-imiz dé-se-k-mu bol-i-du</morph>
+        <gloss>ten four ten five ten six ten seven years.old time-PL-1PL.POSS now young time-PL-1PL.POSS say-COND-1PL-INT be-PRES-3</gloss>
+        <eng>when we were 14, 15, 16, 17 years old, we could say it was when we were young,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="255">
+        <timestamp>00:07:56.475-00:07:58.586</timestamp>
+        <iu>héliqi kucha kona sheherde,</iu>
+        <morph>héliqi kucha kona sheher-de</morph>
+        <gloss>that Kucha(city) old city-LOC</gloss>
+        <eng>in the old city area of Kucha,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="256">
+        <timestamp>00:07:58.887-00:08:01.767</timestamp>
+        <iu>chonglarning bir némisi barti, «hajimlar olturushi» deydighan,</iu>
+        <morph>chong-lar-ning bir némi-si bar-ti hajim-lar olturush-i de-ydighan</morph>
+        <gloss>big-PL-GEN one what-3POSS exist-XPST pilgrim-PL party-3POSS say-PTCP.PRES</gloss>
+        <eng>the adults had this thing, they called it a 'haji gathering,'</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="257">
+        <timestamp>00:08:01.872-00:08:02.396</timestamp>
+        <iu>Hmm.</iu>
+        <morph>hmm</morph>
+        <gloss>hmm</gloss>
+        <eng>Hmm.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="258">
+        <timestamp>00:08:03.201-00:08:07.612</timestamp>
+        <iu>He, ottuz qiriq ashundaq chonglar yighilip he dastixan sélip qilidighan.</iu>
+        <morph>he ottuz qiriq ashundaq chong-lar yigh-il-ip he dastixan sél-ip qil-idighan</morph>
+        <gloss>uh thirty forty thus big-PL gather-PASS-CVB uh meal.for.guests put-CVB do-PTCP.PRES</gloss>
+        <eng>He, ottuz–qiriq ashundaq chonglar yighilip he dastixan sélip qilidighan.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="259">
+        <timestamp>00:08:07.612-00:08:10.120</timestamp>
+        <iu>Shuningda eng asasliq étilidighan tamaq,</iu>
+        <morph>shu-ning-da eng asasliq ét-il-idighan tamaq</morph>
+        <gloss>that-GEN-LOC most main make-PASS-PTCP.PRES meal</gloss>
+        <eng>The most essential dish they would make,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="260">
+        <timestamp>00:08:10.485-00:08:13.197</timestamp>
+        <iu>héliqi «dümbe jiger» dep bir tamaq qilidighanti.</iu>
+        <morph>héliqi dümbe jiger de-p bir tamaq qil-idighan-ti</morph>
+        <gloss>that back liver say-CVB one meal do-PTCP.PRES-XPST</gloss>
+        <eng>was a dish called 'dümbe jiger.'</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="261">
+        <timestamp>00:08:13.548-00:08:15.353</timestamp>
+        <iu>Eng asasliq tamaqti shu chaghlarda.</iu>
+        <morph>eng asasliq tamaq-ti shu chagh-lar-da</morph>
+        <gloss>most main meal-XPST that time-PL-LOC</gloss>
+        <eng>It was the most essential food in those times.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="262">
+        <timestamp>00:08:13.548-00:08:14.177</timestamp>
+        <iu>Hm-mm.</iu>
+        <morph>hm-mm</morph>
+        <gloss>hm-mm</gloss>
+        <eng>Mm-hm.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="263">
+        <timestamp>00:08:16.016-00:08:18.971</timestamp>
+        <iu>Yene dümbe jiger dégen waqtida, héliqi jigerni pishurup,</iu>
+        <morph>yene dümbe jiger dé-gen waqt-i-da héliqi jiger-ni pish-ur-up</morph>
+        <gloss>again back liver say-PTCP.PST time-3POSS-LOC that liver-ACC be.cooked-CAUS-CVB</gloss>
+        <eng>When they make dümbe jiger, they cook the liver,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="264">
+        <timestamp>00:08:19.538-00:08:22.240</timestamp>
+        <iu>népiz késiwélip, uningdin kéyin awu,</iu>
+        <morph>népiz kés-iwél-ip u-ning-din kéyin awu</morph>
+        <gloss>thin cut-SELF.BEN-CVB that-GEN-ABL after that</gloss>
+        <eng>chop it up finely, and then after that,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="265">
+        <timestamp>00:08:22.922-00:08:27.355</timestamp>
+        <iu>qoyning resmiy quyruqining mayni pishurup, uni népiz késip töpige qoyup,</iu>
+        <morph>qoy-ning resmiy quyruq-i-ning may-ni pish-ur-up u-ni népiz kés-ip töpi-ge qoy-up</morph>
+        <gloss>sheep-GEN genuine tail-3POSS-GEN oil-ACC be.cooked-CAUS-CVB 3SG-ACC thin cut-CVB top-DAT put-CVB</gloss>
+        <eng>they cook the oil from the sheep’s tail, and they chop it up fnely and serve it right away,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="266">
+        <timestamp>00:08:27.392-00:08:27.920</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="267">
+        <timestamp>00:08:27.822-00:08:29.535</timestamp>
+        <iu>Her bir ademge bir texsidin élip,</iu>
+        <morph>her bir adem-ge bir texsi-din él-ip</morph>
+        <gloss>every one person-DAT one dish-ABL take-CVB</gloss>
+        <eng>They would take a plate to each person,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="268">
+        <timestamp>00:08:29.870-00:08:31.762</timestamp>
+        <iu>ayrim ayrim qoyidighanti.</iu>
+        <morph>ayrim ayrim qoy-idighan-ti</morph>
+        <gloss>separate separate put-PTCP.PRES-XPST</gloss>
+        <eng>and serve them individually.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="269">
+        <timestamp>00:08:31.783-00:08:35.720</timestamp>
+        <iu>Shu chaghlardiki eng dangliq tamaqti emdi ashu hajimlarning...yighilishida,</iu>
+        <morph>shu chagh-lar-diki eng dangliq tamaq-ti emdi ashu hajim-lar-ning yighilish-i-da</morph>
+        <gloss>that time-PL-LOC.REL most famous meal-XPST now that pilgrim-PL-GEN gathering-3POSS-LOC</gloss>
+        <eng>That was the most famous dish in those days for the haji gathering,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="270">
+        <timestamp>00:08:34.581-00:08:35.321</timestamp>
+        <iu>Tamaqtin--</iu>
+        <morph>tamaq-tin</morph>
+        <gloss>meal-ABL</gloss>
+        <eng>The meal--</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="271">
+        <timestamp>00:08:35.432-00:08:38.370</timestamp>
+        <iu>héliqi, tamaqning aldida kélidighan tamiqi u emdi.</iu>
+        <morph>héliqi tamaq-ning ald-i-da kél-idighan tamiq-i u emdi</morph>
+        <gloss>that meal-GEN front-3POSS-LOC come-PTCP.PRES meal-3POSS 3SG now</gloss>
+        <eng>um, that was a dish that came before the meal.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="272">
+        <timestamp>00:08:38.042-00:08:38.597</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="273">
+        <timestamp>00:08:38.831-00:08:39.485</timestamp>
+        <iu>Héliqi...</iu>
+        <morph>héliqi</morph>
+        <gloss>that</gloss>
+        <eng>Um…</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="274">
+        <timestamp>00:08:40.581-00:08:45.134</timestamp>
+        <iu>Emdi muhim, héliqi birlam emes emdi, muhim tamaqlarning birsi [xxx]...</iu>
+        <morph>emdi muhim héliqi bir-lam emes emdi muhim tamaq-lar-ning bir-si [xxx]</morph>
+        <gloss>now important that one-just not now important meal-PL-GEN one-3POSS [xxx]</gloss>
+        <eng>Important, um it wasn’t just one, it was one of the important dishes [xxx]…</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="275">
+        <timestamp>00:08:43.705-00:08:44.472</timestamp>
+        <iu>He'e he'e.</iu>
+        <morph>he'e he'e</morph>
+        <gloss>yes yes</gloss>
+        <eng>Uh-huh, uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="276">
+        <timestamp>00:08:46.291-00:08:47.195</timestamp>
+        <iu>Uning üstige--</iu>
+        <morph>u-ning üst-i-ge</morph>
+        <gloss>that-GEN top-3POSS-DAT</gloss>
+        <eng>Besides that--</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="277">
+        <timestamp>00:08:47.678-00:08:50.663</timestamp>
+        <iu>hörmetlik méhmanlargha qoyidighan hörmet tamiqi</iu>
+        <morph>hörmetlik méhman-lar-gha qoy-idighan hörmet tamiq-i</morph>
+        <gloss>honored guest-PL-DAT put-PTCP.PRES respect meal-3POSS</gloss>
+        <eng>a courtesy dish served for important guests,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="278">
+        <timestamp>00:08:50.672-00:08:51.368</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="279">
+        <timestamp>00:08:51.791-00:08:52.529</timestamp>
+        <iu>déyilidu.</iu>
+        <morph>déy-il-i-du</morph>
+        <gloss>say-PASS-PRES-3</gloss>
+        <eng>…it is called.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="280">
+        <timestamp>00:08:54.285-00:09:02.721</timestamp>
+        <iu>He, shu-- ayallarningki roli shu küchlükrek-- bolghan, meyli qaymaq bazirigha qarap baq[xxx], ettigen seher sa'et beshler bilen, </iu>
+        <morph>he shu ayal-lar-ningki rol-i shu küchlük-rek bol-ghan meyli qaymaq bazir-i-gha qara-p baq-[xxx] ettigen seher sa'et besh-ler bilen</morph>
+        <gloss>uh that woman-PL-GEN role-3POSS that powerful-COMP be-PTCP.PST no.matter cream market-3POSS-DAT look-CVB AUX.baq-[xxx] morning dawn hour five-PL with</gloss>
+        <eng>Yeah, the role of women was really strong, whether you look at the dairy market, or at five o’clock or something in the morning,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="281">
+        <timestamp>00:09:02.721-00:09:04.573</timestamp>
+        <iu>chiqip kochigha qarap turidighan bolsang,</iu>
+        <morph>chiq-ip kochi-gha qara-p tur-idighan bol-sa-ng</morph>
+        <gloss>go.up-CVB street-DAT look-CVB AUX.tur-PTCP.PRES AUX.bol-COND-2SG.INFM.POSS</gloss>
+        <eng>if you went out and looked in the streets,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="282">
+        <timestamp>00:09:04.725-00:09:06.948</timestamp>
+        <iu>muj muj muj muj muj ayallar.</iu>
+        <morph>muj muj muj muj muj ayal-lar</morph>
+        <gloss>(sound) (sound) (sound) (sound) (sound) woman-PL</gloss>
+        <eng>muzh-muzh-muzh-muzh-muzh…women.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="283">
+        <timestamp>00:09:06.948-00:09:07.690</timestamp>
+        <iu>Qizlar.</iu>
+        <morph>qiz-lar</morph>
+        <gloss>girl-PL</gloss>
+        <eng>Girls.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="284">
+        <timestamp>00:09:07.996-00:09:09.773</timestamp>
+        <iu>A terep ma terepke méngiwatqan,</iu>
+        <morph>a terep ma terep-ke méng-iwatqan</morph>
+        <gloss>that side this side-DAT walk-PTCP.CONT</gloss>
+        <eng>Walking this way and that,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="285">
+        <timestamp>00:09:10.104-00:09:10.629</timestamp>
+        <iu>shu,</iu>
+        <morph>shu</morph>
+        <gloss>that</gloss>
+        <eng>um,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="286">
+        <timestamp>00:09:11.873-00:09:15.951</timestamp>
+        <iu>béli tergen-- tergen ushshaq qizlar-- qizlargha, oghullarni körmeysen.</iu>
+        <morph>bél-i ter-gen ter-gen ushshaq qiz-lar qiz-lar-gha oghul-lar-ni kör-me-y-sen</morph>
+        <gloss>waist-3POSS collect-PTCP.PST collect-PTCP.PST tiny girl-PL girl-PL-DAT son-PL-ACC see-NEG-PRES-2SG.INF</gloss>
+        <eng>slender girls with their waists gathered up, you don’t see any boys.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="287">
+        <timestamp>00:09:16.335-00:09:20.092</timestamp>
+        <iu>Pütün ashu pa-- héliqi er-- erkin pa'aliyette,</iu>
+        <morph>pütün ashu pa-- héliqi er-- erkin pa'aliyet-te</morph>
+        <gloss>whole that * that * free event-LOC</gloss>
+        <eng>In the whole ev-- that casual event,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="288">
+        <timestamp>00:09:20.186-00:09:21.269</timestamp>
+        <iu>ayallar jiqraq.</iu>
+        <morph>ayal-lar jiq-raq</morph>
+        <gloss>woman-PL many-COMP</gloss>
+        <eng>there were more women</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="289">
+        <timestamp>00:09:21.995-00:09:26.422</timestamp>
+        <iu>Andin kéyin, mundaq kechlik héliqi, gülxan yéqip meshrep qilidighan yerler bar,</iu>
+        <morph>andin kéyin mundaq kech-lik héliqi gülxan yéq-ip meshrep qil-idighan yer-ler bar</morph>
+        <gloss>then after thus evening-DER that bonfire kindle-CVB meshrep.party do-PTCP.PRES place-PL exist</gloss>
+        <eng>And then, that evening that, there were places where they would light bonfires and hold meshrep parties,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="290">
+        <timestamp>00:09:26.467-00:09:27.533</timestamp>
+        <iu>shu yerde aldi bilen,</iu>
+        <morph>shu yer-de ald-i bilen</morph>
+        <gloss>that place-LOC front-3POSS with</gloss>
+        <eng>that place first of all,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="291">
+        <timestamp>00:09:27.971-00:09:28.779</timestamp>
+        <iu>kuchada,</iu>
+        <morph>kucha-da</morph>
+        <gloss>Kucha(city)-LOC</gloss>
+        <eng>in Kucha,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="292">
+        <timestamp>00:09:29.011-00:09:30.727</timestamp>
+        <iu>qizlar aldi bilen ussulgha chüshidu.</iu>
+        <morph>qiz-lar ald-i bilen ussul-gha chüsh-i-du</morph>
+        <gloss>girl-PL front-3POSS with dance-DAT go.down-PRES-3</gloss>
+        <eng>girls go first for dancing.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="293">
+        <timestamp>00:09:31.523-00:09:32.649</timestamp>
+        <iu>Men uni bilmeydikenmen,</iu>
+        <morph>men u-ni bil-me-ydiken-men</morph>
+        <gloss>1SG that-ACC know-NEG-PRES.EVID-1SG</gloss>
+        <eng>I didn’t know that,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="294">
+        <timestamp>00:09:32.649-00:09:34.773</timestamp>
+        <iu>bu gülxan yéqip undaq meshrep qilidighanni.</iu>
+        <morph>bu gülxan yéq-ip undaq meshrep qil-idighan-ni</morph>
+        <gloss>this bonfire kindle-CVB thus meshrep.party do-PTCP.PRES-ACC</gloss>
+        <eng>that they did meshrep parties with bonfires.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="295">
+        <timestamp>00:09:34.912-00:09:35.633</timestamp>
+        <iu>He?</iu>
+        <morph>he</morph>
+        <gloss>huh?</gloss>
+        <eng>Huh?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="296">
+        <timestamp>00:09:35.754-00:09:38.791</timestamp>
+        <iu>Sen kichikingde kuchada chong bolmighandinkin bilmeysende?</iu>
+        <morph>sen kichik-ing-de kucha-da chong bol-mi-ghan-dinkin bil-me-y-sen-de</morph>
+        <gloss>2SG.INFM small-2SG.INFM.POSS-LOC Kucha(city)-LOC big be-NEG-PTCP.PST-since know-NEG-PRES-2SG.INF-PTCL</gloss>
+        <eng>You didn’t know that because you didn’t grow up in Kucha?</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="297">
+        <timestamp>00:09:37.573-00:09:38.015</timestamp>
+        <iu>Mm.</iu>
+        <morph>mm</morph>
+        <gloss>mm</gloss>
+        <eng>Mm.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="298">
+        <timestamp>00:09:38.852-00:09:41.206</timestamp>
+        <iu>Hazir emdi hökümet chekliwettighu.</iu>
+        <morph>hazir emdi hökümet chekli-wet-t-i-ghu</morph>
+        <gloss>now now government restrict-INTENS-PST-3-EMPH</gloss>
+        <eng>The government has banned it now.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="299">
+        <timestamp>00:09:41.408-00:09:44.383</timestamp>
+        <iu> He biz kichik waqtimizda [xxx] otturigha gülxan yéqip qoyup,</iu>
+        <morph>he biz kichik waqt-imiz-da [xxx] otturi-gha gülxan yéq-ip qoy-up</morph>
+        <gloss>uh 1PL small time-1PL.POSS-LOC [xxx] center-DAT bonfire kindle-CVB AUX.qoy-CVB</gloss>
+        <eng>But yeah when we were small [xxx] light a bonfire in the middle,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="300">
+        <timestamp>00:09:46.445-00:09:47.629</timestamp>
+        <iu>ashundaq he...</iu>
+        <morph>ashundaq he</morph>
+        <gloss>thus uh</gloss>
+        <eng>that kind of uh…</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="301">
+        <timestamp>00:09:48.363-00:09:49.716</timestamp>
+        <iu>meshrep némisi barti.</iu>
+        <morph>meshrep némi-si bar-ti</morph>
+        <gloss>meshrep.party what-3POSS exist-XPST</gloss>
+        <eng>there were these meshrep things.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="302">
+        <timestamp>00:09:50.849-00:09:51.784</timestamp>
+        <iu>He...</iu>
+        <morph>he</morph>
+        <gloss>uh</gloss>
+        <eng>Uh…</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="303">
+        <timestamp>00:09:52.674-00:09:54.558</timestamp>
+        <iu>«chörme» demtuq bir--</iu>
+        <morph>chörme de-am-t-uq bir</morph>
+        <gloss>?? say-INT-PST-1PL one</gloss>
+        <eng>we called it chörme, a--</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="304">
+        <timestamp>00:09:55.549-00:09:57.570</timestamp>
+        <iu>u hazir yoqap ketti u ussuli,</iu>
+        <morph>u hazir yoqa-p ket-t-i u ussul-i</morph>
+        <gloss>that now disappear-CVB AUX.ket-PST-3 that dance-3POSS</gloss>
+        <eng>they don’t have it anymore, that dance,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="305">
+        <timestamp>00:09:57.570-00:10:00.163</timestamp>
+        <iu>mundaq dapni tutup bir birige chördilep,</iu>
+        <morph>mundaq dap-ni tut-up bir bir-i-ge chördile-p</morph>
+        <gloss>thus handheld.drum-ACC hold-CVB one one-3POSS-DAT encircle-CVB</gloss>
+        <eng>that one where the girls hold the 'dap' hand drums and go around each other in a circle,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="306">
+        <timestamp>00:10:00.163-00:10:01.280</timestamp>
+        <iu>He uni [xxx]--</iu>
+        <morph>he u-ni [xxx]</morph>
+        <gloss>uh 3SG-ACC [xxx]</gloss>
+        <eng>Yeah it--</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="307">
+        <timestamp>00:10:00.443-00:10:02.003</timestamp>
+        <iu>qizlar bir birini aldaydighan.</iu>
+        <morph>qiz-lar bir bir-i-ni alda-ydighan</morph>
+        <gloss>girl-PL one one-3POSS-ACC tease-PTCP.PRES</gloss>
+        <eng>qizlar bir birini aldaydighan.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="308">
+        <timestamp>00:10:01.881-00:10:03.469</timestamp>
+        <iu>Néme démekchi héliqi,</iu>
+        <morph>néme dé-mekchi héliqi</morph>
+        <gloss>what say-FUT that</gloss>
+        <eng>What do you call it um,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="309">
+        <timestamp>00:10:02.014-00:10:02.850</timestamp>
+        <iu>Qiz yigitning--</iu>
+        <morph>qiz yigit-ning</morph>
+        <gloss>girl boy-GEN</gloss>
+        <eng>The girl, the boy’s--</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="310">
+        <timestamp>00:10:04.846-00:10:06.342</timestamp>
+        <iu>«Chélim oyuni» demtuq buni he'e,</iu>
+        <morph>chélim oyun-i de-m-t-uq bu-ni he'e</morph>
+        <gloss>?? game-3POSS say-INT-PST-1PL this-ACC yes</gloss>
+        <eng>They call it 'chélim oyuni', the instrument-playing game, yeah,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="311">
+        <timestamp>00:10:05.628-00:10:06.910</timestamp>
+        <iu>He chélim chélim he.</iu>
+        <morph>he chélim chélim he</morph>
+        <gloss>yes ?? ?? yes</gloss>
+        <eng>Yeah chélim chélim yeah.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="312">
+        <timestamp>00:10:06.342-00:10:07.378</timestamp>
+        <iu>chélim oyuni deydu.</iu>
+        <morph>chélim oyun-i de-y-du</morph>
+        <gloss>?? game-3POSS say-PRES-3</gloss>
+        <eng>They call it 'chélim oyuni.'</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="313">
+        <timestamp>00:10:07.308-00:10:08.381</timestamp>
+        <iu>Chélim oyuni deydu he.</iu>
+        <morph>chélim oyun-i de-y-du he</morph>
+        <gloss>?? game-3POSS say-PRES-3 DM</gloss>
+        <eng>They call it 'chélim oyuni,' yeah.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="314">
+        <timestamp>00:10:07.480-00:10:08.744</timestamp>
+        <iu>U-- u-- he chélim oyuni deydu. </iu>
+        <morph>u u he chélim oyun-i de-y-du</morph>
+        <gloss>3SG 3SG uh ?? game-3POSS say-PRES-3</gloss>
+        <eng>They call it 'chélim oyuni.' </eng>
+      </annotation>
+      <annotation who="Speaker A" ref="315">
+        <timestamp>00:10:08.744-00:10:12.259</timestamp>
+        <iu>Uni héliqi qizlar bilen qizlar, oghullar bilen qizlar mundaq oynaydu héliqi,</iu>
+        <morph>u-ni héliqi qiz-lar bilen qiz-lar oghul-lar bilen qiz-lar mundaq oyna-y-du héliqi</morph>
+        <gloss>3SG-ACC that girl-PL with girl-PL son-PL with girl-PL thus play-PRES-3 that</gloss>
+        <eng>Girls with girls, boys with girls, they dance it like that, um,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="316">
+        <timestamp>00:10:11.897-00:10:12.351</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="317">
+        <timestamp>00:10:12.621-00:10:16.904</timestamp>
+        <iu>Dap tapalisa dap bilen, dap bolmisa héliqi, mawu puti bilen,</iu>
+        <morph>dap tap-ali-sa dap bilen dap bol-mi-sa héliqi mawu put-i bilen</morph>
+        <gloss>handheld.drum find-ABIL-COND handheld.drum with handheld.drum be-NEG-COND that this foot-3POSS with</gloss>
+        <eng>If they can find a 'dap' drum they dance with a dap, if there’s no dap, then they use their feet,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="318">
+        <timestamp>00:10:16.563-00:10:17.067</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Yeah.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="319">
+        <timestamp>00:10:16.993-00:10:19.885</timestamp>
+        <iu>Yaki bolmisa birer yaghliq he manda bir nerse bilen qilidighan.</iu>
+        <morph>yaki bol-mi-sa birer yaghliq he manda bir nerse bilen qil-idighan</morph>
+        <gloss>or be-NEG-COND a.certain headscarf uh thus one thing with do-PTCP.PRES</gloss>
+        <eng>Or otherwise do it with some kind of scarf or something like that.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="320">
+        <timestamp>00:10:19.687-00:10:20.116</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="321">
+        <timestamp>00:10:19.923-00:10:21.003</timestamp>
+        <iu>Mundaq pirqirap kélip,</iu>
+        <morph>mundaq pirqira-p kél-ip</morph>
+        <gloss>thus spin-CVB AUX.kel-CVB</gloss>
+        <eng>They’d spin it around like this,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="322">
+        <timestamp>00:10:21.932-00:10:24.136</timestamp>
+        <iu>tutquzmaqchi bolidu tutmaydu andin kéyin he,</iu>
+        <morph>tut-quz-maqchi bol-i-du tut-ma-y-du andin kéyin he</morph>
+        <gloss>catch-CAUS-FUT be-PRES-3 catch-NEG-PRES-3 then after uh</gloss>
+        <eng>they’re going to make the other person catch it but they don’t grab it and then uh,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="323">
+        <timestamp>00:10:23.739-00:10:24.327</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="324">
+        <timestamp>00:10:24.754-00:10:27.234</timestamp>
+        <iu>uni qoshaq bilen béyit éytip he…</iu>
+        <morph>u-ni qoshaq bilen béyit éyt-ip he</morph>
+        <gloss>3SG-ACC folk.song with poem sing-CVB uh</gloss>
+        <eng>they’d sing folk songs and poems…</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="325">
+        <timestamp>00:10:26.652-00:10:27.158</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="326">
+        <timestamp>00:10:28.101-00:10:29.331</timestamp>
+        <iu>He kuchada,</iu>
+        <morph>he kucha-da</morph>
+        <gloss>uh Kucha(city)-LOC</gloss>
+        <eng>Yeah in Kucha,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="327">
+        <timestamp>00:10:29.033-00:10:29.480</timestamp>
+        <iu>Mm.</iu>
+        <morph>mm</morph>
+        <gloss>mm</gloss>
+        <eng>Mm.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="328">
+        <timestamp>00:10:29.851-00:10:31.309</timestamp>
+        <iu>yanduridighan manda.</iu>
+        <morph>yan-dur-idighan manda</morph>
+        <gloss>return-CAUS-PTCP.PRES thus</gloss>
+        <eng>and then pull it back like that.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="329">
+        <timestamp>00:10:29.951-00:10:30.216</timestamp>
+        <iu>he--</iu>
+        <morph>he</morph>
+        <gloss>uh</gloss>
+        <eng>Uh--</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="330">
+        <timestamp>00:10:31.601-00:10:33.346</timestamp>
+        <iu>Bolidu...u...némiler.</iu>
+        <morph>bol-i-du u némi-ler</morph>
+        <gloss>be-PRES-3 that what-PL</gloss>
+        <eng>Yes…it…what.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="331">
+        <timestamp>00:10:33.346-00:10:34.327</timestamp>
+        <iu>Oghullar bilen,</iu>
+        <morph>oghul-lar bilen</morph>
+        <gloss>son-PL with</gloss>
+        <eng>With the boys,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="332">
+        <timestamp>00:10:33.428-00:10:33.816</timestamp>
+        <iu>[xxx]</iu>
+        <morph>[xxx]</morph>
+        <gloss>[xxx]</gloss>
+        <eng>[xxx]</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="333">
+        <timestamp>00:10:35.147-00:10:36.850</timestamp>
+        <iu>mundaq yüz körüshüp,</iu>
+        <morph>mundaq yüz kör-üsh-üp</morph>
+        <gloss>thus face see-MUT-CVB</gloss>
+        <eng>they’d meet like that,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="334">
+        <timestamp>00:10:37.229-00:10:37.231</timestamp>
+        <iu>udul paranglishidighan,</iu>
+        <morph>udul parangli-sh-idighan</morph>
+        <gloss>directly chat-MUT-PTCP.PRES</gloss>
+        <eng>and chat directly,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="335">
+        <timestamp>00:10:37.231-00:10:38.682</timestamp>
+        <iu>udul paranglishidighan, </iu>
+        <morph>udul parangli-sh-idighan</morph>
+        <gloss>directly chat-MUT-PTCP.PRES</gloss>
+        <eng>udul paranglishidighan, </eng>
+      </annotation>
+      <annotation who="Speaker A" ref="336">
+        <timestamp>00:10:38.649-00:10:39.139</timestamp>
+        <iu>Hm-mm.</iu>
+        <morph>hm-mm</morph>
+        <gloss>hm-mm</gloss>
+        <eng>Mm-hm.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="337">
+        <timestamp>00:10:39.056-00:10:40.249</timestamp>
+        <iu>Paranglishalaydighan, héch--</iu>
+        <morph>parangli-sh-ala-ydighan héch</morph>
+        <gloss>chat-MUT-ABIL-PTCP.PRES none</gloss>
+        <eng>They could chat, no--</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="338">
+        <timestamp>00:10:40.630-00:10:41.985</timestamp>
+        <iu>Kuchada burundin tartip,</iu>
+        <morph>kucha-da burun-din tart-ip</morph>
+        <gloss>Kucha(city)-LOC before-ABL pull-CVB</gloss>
+        <eng>it was like that from long ago in Kucha,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="339">
+        <timestamp>00:10:42.471-00:10:43.952</timestamp>
+        <iu>bar emdi, bek héliqi,</iu>
+        <morph>bar emdi bek héliqi</morph>
+        <gloss>exist now very that</gloss>
+        <eng>still is, really um,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="340">
+        <timestamp>00:10:43.182-00:10:43.551</timestamp>
+        <iu>Mm.</iu>
+        <morph>mm</morph>
+        <gloss>mm</gloss>
+        <eng>Mm.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="341">
+        <timestamp>00:10:44.918-00:10:46.783</timestamp>
+        <iu>oghul qizlarni ayriwetken emes.</iu>
+        <morph>oghul qiz-lar-ni ayri-wet-ken emes</morph>
+        <gloss>son girl-PL-ACC separate-INTENS-PTCP.PST not</gloss>
+        <eng>the boys aren’t kept separate from the girls.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="342">
+        <timestamp>00:10:46.735-00:10:47.222</timestamp>
+        <iu>Hmm.</iu>
+        <morph>hmm</morph>
+        <gloss>hmm</gloss>
+        <eng>Hmm.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="343">
+        <timestamp>00:10:47.404-00:10:47.948</timestamp>
+        <iu>ezeldin.</iu>
+        <morph>ezel-din</morph>
+        <gloss>long.ago-ABL</gloss>
+        <eng>It's always been that way.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="344">
+        <timestamp>00:10:47.971-00:10:48.755</timestamp>
+        <iu>Shunglashqa,</iu>
+        <morph>shunglashqa</morph>
+        <gloss>therefore</gloss>
+        <eng>And so,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="345">
+        <timestamp>00:10:50.370-00:10:51.787</timestamp>
+        <iu>shu naxshiliridima,</iu>
+        <morph>shu naxshi-lir-i-di-ma</morph>
+        <gloss>that song-PL-3POSS-LOC-INT</gloss>
+        <eng>in those songs,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="346">
+        <timestamp>00:10:51.913-00:10:53.299</timestamp>
+        <iu>shu ayallarningki…</iu>
+        <morph>shu ayal-lar-ningki</morph>
+        <gloss>that woman-PL-GEN</gloss>
+        <eng>it was women’s…</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="347">
+        <timestamp>00:10:53.871-00:10:55.773</timestamp>
+        <iu>aghzidin éytilghan.</iu>
+        <morph>aghz-i-din éyt-il-ghan</morph>
+        <gloss>mouth-3POSS-ABL sing-PASS-PTCP.PST</gloss>
+        <eng>voices singing them.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="348">
+        <timestamp>00:11:00.346-00:11:02.475</timestamp>
+        <iu>Abdu-- Abdurazaq dep bir héliqi, </iu>
+        <morph>Abdu-- Abdurazaq de-p bir héliqi</morph>
+        <gloss>* (name) say-CVB one that</gloss>
+        <eng>A man named Abdu-- Abdurazaq was a um,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="349">
+        <timestamp>00:11:02.750-00:11:03.956</timestamp>
+        <iu>toy-tökünde,</iu>
+        <morph>toy tökün-de</morph>
+        <gloss>wedding wedding-LOC</gloss>
+        <eng>toy-tökünde,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="350">
+        <timestamp>00:11:04.172-00:11:05.193</timestamp>
+        <iu>ussul oynap,</iu>
+        <morph>ussul oyna-p</morph>
+        <gloss>dance play-CVB</gloss>
+        <eng>he used to dance,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="351">
+        <timestamp>00:11:06.456-00:11:09.331</timestamp>
+        <iu>naxsha éytip qilidighan bir rehmetlik bir adem barti,</iu>
+        <morph>naxsha éyt-ip qil-idighan bir rehmetlik bir adem bar-ti</morph>
+        <gloss>song sing-CVB do-PTCP.PRES one deceased one person exist-XPST</gloss>
+        <eng>and sing, recently deceased now.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="352">
+        <timestamp>00:11:09.269-00:11:09.745</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="353">
+        <timestamp>00:11:09.491-00:11:10.619</timestamp>
+        <iu>Toylarni qizzitidighan.</iu>
+        <morph>toy-lar-ni qizzi-t-idighan</morph>
+        <gloss>wedding-PL-ACC get.excited-CAUS-PTCP.PRES</gloss>
+        <eng>A guy who livened up weddings.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="354">
+        <timestamp>00:11:10.509-00:11:11.173</timestamp>
+        <iu>Hm-mm hm-mm.</iu>
+        <morph>hm-mm hm-mm</morph>
+        <gloss>hm-mm hm-mm</gloss>
+        <eng>Mm-hm, mm-hm.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="355">
+        <timestamp>00:11:10.731-00:11:12.445</timestamp>
+        <iu>Akamning toyi bolghan waqtida,</iu>
+        <morph>aka-m-ning toy-i bol-ghan waqt-i-da</morph>
+        <gloss>older.brother-1SG.POSS-GEN wedding-3POSS be-PTCP.PST time-3POSS-LOC</gloss>
+        <eng>When my brother got married,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="356">
+        <timestamp>00:11:13.705-00:11:17.996</timestamp>
+        <iu>shu bir... milliy saz guruppisi shu chaghlarda,</iu>
+        <morph>shu bir milliy saz guruppi-si shu chagh-lar-da</morph>
+        <gloss>that one folk music group-3POSS that time-PL-LOC</gloss>
+        <eng>he had a…folk band in those days,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="357">
+        <timestamp>00:11:18.283-00:11:20.945</timestamp>
+        <iu>uningdin bashqa héliqi saz guruppilirimu yoqtighu.</iu>
+        <morph>u-ning-din bashqa héliqi saz guruppi-lir-i-mu yoq-ti-ghu</morph>
+        <gloss>that-GEN-ABL other that music group-PL-3POSS-INT not.exist-XPST-CONF</gloss>
+        <eng>besides that one there weren’t any other folk music groups.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="358">
+        <timestamp>00:11:21.005-00:11:21.860</timestamp>
+        <iu>He'e he'e.</iu>
+        <morph>he'e he'e</morph>
+        <gloss>yes yes</gloss>
+        <eng>Uh-huh, uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="359">
+        <timestamp>00:11:22.750-00:11:23.500</timestamp>
+        <iu>Bir...</iu>
+        <morph>bir</morph>
+        <gloss>one</gloss>
+        <eng>Like…</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="360">
+        <timestamp>00:11:24.071-00:11:26.553</timestamp>
+        <iu>altimu – beshmu adem teshkillengen,</iu>
+        <morph>alti-mu besh-mu adem teshkille-n-gen</morph>
+        <gloss>six-INT five-INT person organize-PASS-PTCP.PST</gloss>
+        <eng>five or siz people were organized,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="361">
+        <timestamp>00:11:27.302-00:11:29.432</timestamp>
+        <iu>dangliq bir muzikantlar barti.</iu>
+        <morph>dangliq bir muzikant-lar bar-ti</morph>
+        <gloss>famous one musician-PL exist-XPST</gloss>
+        <eng>there were some famous musicians.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="362">
+        <timestamp>00:11:29.504-00:11:31.682</timestamp>
+        <iu>Shularni teklip qilip barsaq,</iu>
+        <morph>shu-lar-ni teklip qil-ip bar-sa-q</morph>
+        <gloss>that-PL-ACC invitation do-CVB go-COND-1PL</gloss>
+        <eng>If we wanted to invite them to play,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="363">
+        <timestamp>00:11:32.543-00:11:34.485</timestamp>
+        <iu>aldin'ala héliqi pul tölep qoyidiken,</iu>
+        <morph>aldin'ala héliqi pul töle-p qoy-idiken</morph>
+        <gloss>beforehand that money pay-CVB AUX.qoy-PRES.EVID</gloss>
+        <eng>we had to pay them in advance,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="364">
+        <timestamp>00:11:34.350-00:11:34.779</timestamp>
+        <iu>Hm-mm.</iu>
+        <morph>hm-mm</morph>
+        <gloss>hm-mm</gloss>
+        <eng>Mm-hm.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="365">
+        <timestamp>00:11:35.245-00:11:36.365</timestamp>
+        <iu>Kéyin he pul tölep qoyup,</iu>
+        <morph>kéyin he pul töle-p qoy-up</morph>
+        <gloss>after DM money pay-CVB AUX.qoy-CVB</gloss>
+        <eng>Afterwards, you’d pay them their fee,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="366">
+        <timestamp>00:11:36.365-00:11:37.679</timestamp>
+        <iu>toy bolidighan küni néme bolsap,</iu>
+        <morph>toy bol-idighan kün-i néme bol-sa??</morph>
+        <gloss>wedding be-PTCP.PRES day-3POSS what be-COND-??</gloss>
+        <eng>then on the day of the wedding if something happened,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="367">
+        <timestamp>00:11:37.679-00:11:38.688</timestamp>
+        <iu>yene birsi bérip,</iu>
+        <morph>yene birsi bér-ip</morph>
+        <gloss>again someone go-CVB</gloss>
+        <eng>someone else would go,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="368">
+        <timestamp>00:11:38.981-00:11:40.844</timestamp>
+        <iu>azraq-jiqraq pul bériptiken,</iu>
+        <morph>az-raq jiq-raq pul bér-ipt-iken</morph>
+        <gloss>little-COMP many-COMP money give-PST.EVID-EVID</gloss>
+        <eng>and offer him more money,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="369">
+        <timestamp>00:11:40.844-00:11:42.390</timestamp>
+        <iu>undaq bolsa, uningkige baridighan qip qoyuptu shuninggha,</iu>
+        <morph>undaq bol-sa u-ningki-ge bar-idighan qi-p qoy-upt-u shu-ning-gha</morph>
+        <gloss>thus be-COND that-GEN-DAT exist-PTCP.PRES do-CVB AUX.qoy-PST.EVID-3 that-GEN-DAT</gloss>
+        <eng>in that case, that person who tried to go to him,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="370">
+        <timestamp>00:11:42.390-00:11:44.091</timestamp>
+        <iu>shuninggha, biz uningdin jiqraq bérip,</iu>
+        <morph>shu-ning-gha biz u-ning-din jiq-raq bér-ip</morph>
+        <gloss>that-GEN-DAT 1PL 3SG-GEN-ABL many-COMP give-CVB</gloss>
+        <eng>so we gave more money than they did,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="371">
+        <timestamp>00:11:44.428-00:11:45.261</timestamp>
+        <iu>ashuni ekelgen,</iu>
+        <morph>ashu-ni ekel-gen</morph>
+        <gloss>that-ACC bring-PTCP.PST</gloss>
+        <eng>and we brought him in,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="372">
+        <timestamp>00:11:44.489-00:11:45.352</timestamp>
+        <iu>[xxx] [xxx].</iu>
+        <morph>[xxx] [xxx]</morph>
+        <gloss>[xxx] [xxx]</gloss>
+        <eng>[xxx] [xxx].</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="373">
+        <timestamp>00:11:45.261-00:11:46.196</timestamp>
+        <iu>he'e ekelgentuq.</iu>
+        <morph>he'e ekel-gen-t-uq</morph>
+        <gloss>yes bring-PTCP.PST-PST-1PL</gloss>
+        <eng>Yeah we brought it.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="374">
+        <timestamp>00:11:46.639-00:11:48.277</timestamp>
+        <iu>Shu seksen he... </iu>
+        <morph>shu seksen he</morph>
+        <gloss>that eighty uh</gloss>
+        <eng>That was in nineteen eighty- uh…</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="375">
+        <timestamp>00:11:48.933-00:11:50.230</timestamp>
+        <iu>töt – seksen beshinchi yilimu,</iu>
+        <morph>töt seksen besh-inchi yil-i-mu</morph>
+        <gloss>four eighty five-ORD year-3POSS-INT</gloss>
+        <eng>four – eighty-five, </eng>
+      </annotation>
+      <annotation who="Speaker A" ref="376">
+        <timestamp>00:11:50.249-00:11:51.802</timestamp>
+        <iu>akam qachan toy qildi rast ikkinchi akam?</iu>
+        <morph>aka-m qachan toy qil-d-i rast ikki-inchi aka-m</morph>
+        <gloss>older.brother-1SG.POSS when wedding do-PST-3 true two-ORD older.brother-1SG.POSS</gloss>
+        <eng>when did my brother get married exactly, my second brother?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="377">
+        <timestamp>00:11:52.157-00:11:54.051</timestamp>
+        <iu>Seks-- seksen besh qildi.</iu>
+        <morph>seks-- seksen besh qil-d-i</morph>
+        <gloss>* eighty five do-PST-3</gloss>
+        <eng>It was in ’eighty-five.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="378">
+        <timestamp>00:11:53.812-00:11:54.740</timestamp>
+        <iu>Seksen besh qildima.</iu>
+        <morph>seksen besh qil-d-i-ma</morph>
+        <gloss>eighty five do-PST-3-INT</gloss>
+        <eng>In ’eighty-five?</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="379">
+        <timestamp>00:11:54.230-00:11:54.642</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Yeah.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="380">
+        <timestamp>00:11:54.740-00:11:55.188</timestamp>
+        <iu>He'e shu.</iu>
+        <morph>he'e shu</morph>
+        <gloss>yes that</gloss>
+        <eng>Yeah that’s right.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="381">
+        <timestamp>00:11:55.190-00:11:56.206</timestamp>
+        <iu>Seksen besh [xxx].</iu>
+        <morph>seksen besh [xxx]</morph>
+        <gloss>eighty five [xxx]</gloss>
+        <eng>’Eighty-five [xxx].</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="382">
+        <timestamp>00:11:55.678-00:11:58.398</timestamp>
+        <iu>Biz oqushqa [xxx] ikkinchi yili yaz tetilde qildi.</iu>
+        <morph>biz oqu-sh-qa [xxx] ikki-inchi yil-i yaz tetil-de qil-d-i</morph>
+        <gloss>1PL study-GER-DAT [xxx] two-ORD year-3POSS summer vacation-LOC do-PST-3</gloss>
+        <eng>He got married in summer vacation in the second year we were studying [xxx].</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="383">
+        <timestamp>00:11:56.658-00:11:57.116</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="384">
+        <timestamp>00:11:57.379-00:11:57.902</timestamp>
+        <iu>Toghra.</iu>
+        <morph>toghra</morph>
+        <gloss>correct</gloss>
+        <eng>Right.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="385">
+        <timestamp>00:11:58.730-00:11:59.908</timestamp>
+        <iu>Hazirmu ésimde bar.</iu>
+        <morph>hazir-mu és-im-de bar</morph>
+        <gloss>now-INT mind-1SG.POSS-LOC exist</gloss>
+        <eng>Now I remember.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="386">
+        <timestamp>00:12:00.110-00:12:00.956</timestamp>
+        <iu>Hm-mm hm-mm</iu>
+        <morph>hm-mm hm-mm</morph>
+        <gloss>hm-mm hm-mm</gloss>
+        <eng>Mm-hm, mm-hm.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="387">
+        <timestamp>00:12:00.974-00:12:03.730</timestamp>
+        <iu>Shu chaghlarda héliqi, shu rehmetlik Abdurazaq--</iu>
+        <morph>shu chagh-lar-da héliqi shu rehmetlik Abdurazaq</morph>
+        <gloss>that time-PL-LOC that that deceased (name)</gloss>
+        <eng>In those days the late Abdurazaq</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="388">
+        <timestamp>00:12:04.337-00:12:05.269</timestamp>
+        <iu>ussul oynap,</iu>
+        <morph>ussul oyna-p</morph>
+        <gloss>dance play-CVB</gloss>
+        <eng>would dance,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="389">
+        <timestamp>00:12:05.283-00:12:05.928</timestamp>
+        <iu>oyun,</iu>
+        <morph>oyun</morph>
+        <gloss>game</gloss>
+        <eng>performance,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="390">
+        <timestamp>00:12:06.092-00:12:07.985</timestamp>
+        <iu>Ajayip qabiliyetlik ademti [xxx].</iu>
+        <morph>ajayip qabiliyetlik adem-ti [xxx]</morph>
+        <gloss>extremely capable person-XPST [xxx]</gloss>
+        <eng>He was a really capable man [xxx].</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="391">
+        <timestamp>00:12:06.255-00:12:07.174</timestamp>
+        <iu>[xxx]</iu>
+        <morph>[xxx]</morph>
+        <gloss>[xxx]</gloss>
+        <eng>[xxx]</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="392">
+        <timestamp>00:12:07.506-00:12:07.966</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Yeah. </eng>
+      </annotation>
+      <annotation who="Speaker A" ref="393">
+        <timestamp>00:12:08.172-00:12:08.966</timestamp>
+        <iu>Sözmen, </iu>
+        <morph>sözmen</morph>
+        <gloss>eloquent</gloss>
+        <eng>Eloquent,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="394">
+        <timestamp>00:12:08.985-00:12:09.660</timestamp>
+        <iu>qoshaqchi,</iu>
+        <morph>qoshaq-chi</morph>
+        <gloss>folk.song-AG</gloss>
+        <eng>a singer,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="395">
+        <timestamp>00:12:09.107-00:12:09.729</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Uh-huh.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="396">
+        <timestamp>00:12:09.660-00:12:10.519</timestamp>
+        <iu>ussulchi.</iu>
+        <morph>ussul-chi</morph>
+        <gloss>dance-AG</gloss>
+        <eng>a dancer.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="397">
+        <timestamp>00:12:11.818-00:12:14.341</timestamp>
+        <iu>Bir ömür shu sahede ishlep ölüp ketti mana.</iu>
+        <morph>bir ömür shu sahe-de ishle-p öl-üp ket-t-i mana</morph>
+        <gloss>one lifespan that field-LOC work-CVB die-CVB leave-PST-3 look.here</gloss>
+        <eng>He worked in that field his whole life and then died.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="398">
+        <timestamp>00:12:14.095-00:12:14.610</timestamp>
+        <iu>Hm-mm.</iu>
+        <morph>hm-mm</morph>
+        <gloss>hm-mm</gloss>
+        <eng>Mm-hm.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="399">
+        <timestamp>00:12:16.265-00:12:17.918</timestamp>
+        <iu>Undaq se'netkarlar bek jiq.</iu>
+        <morph>undaq sen'etkar-lar bek jiq</morph>
+        <gloss>thus artist-PL very many</gloss>
+        <eng>There are a lot of artists like that.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="400">
+        <timestamp>00:12:17.990-00:12:18.631</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Yeah.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="401">
+        <timestamp>00:12:18.946-00:12:19.573</timestamp>
+        <iu>[xxx]--</iu>
+        <morph>[xxx]</morph>
+        <gloss>[xxx]</gloss>
+        <eng>[xxx]--</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="402">
+        <timestamp>00:12:18.955-00:12:21.090</timestamp>
+        <iu>Tebi'iy se'netkarlar bek jiq kuchada.</iu>
+        <morph>tebi'iy sen'etkar-lar bek jiq kucha-da</morph>
+        <gloss>natural artist-PL very many Kucha(city)-LOC</gloss>
+        <eng>There are a lot of natural artists in Kucha.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="403">
+        <timestamp>00:12:19.573-00:12:20.158</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Yeah.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="404">
+        <timestamp>00:12:20.566-00:12:22.259</timestamp>
+        <iu>Shu...waqti,</iu>
+        <morph>shu waqt-i</morph>
+        <gloss>that time-3POSS</gloss>
+        <eng>That…time,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="405">
+        <timestamp>00:12:22.880-00:12:24.760</timestamp>
+        <iu>waqit ötkendinkin untulup mangidighan gep,</iu>
+        <morph>waqit öt-ken-dinkin untu-l-up mang-idighan gep</morph>
+        <gloss>time pass-PTCP.PST-since forget-PASS-CVB walk-PTCP.PRES thing</gloss>
+        <eng>since that time passed these things started to be forgotten,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="406">
+        <timestamp>00:12:24.760-00:12:26.139</timestamp>
+        <iu>uni yézip qoyidighan ademmu yoq,</iu>
+        <morph>u-ni yéz-ip qoy-idighan adem-mu yoq</morph>
+        <gloss>that-ACC write-CVB AUX.qoy-PTCP.PRES person-also not.exist</gloss>
+        <eng>there was nobody writing them down,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="407">
+        <timestamp>00:12:26.149-00:12:27.822</timestamp>
+        <iu>tarixqa qaldurup qoyidighan ademmu yoq,</iu>
+        <morph>tarix-qa qal-dur-up qoy-idighan adem-mu yoq</morph>
+        <gloss>history-DAT remain-CAUS-CVB AUX.qoy-PTCP.PRES person-also not.exist</gloss>
+        <eng>nobody recording them for history,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="408">
+        <timestamp>00:12:27.616-00:12:28.048</timestamp>
+        <iu>Hm-mm.</iu>
+        <morph>hm-mm</morph>
+        <gloss>hm-mm</gloss>
+        <eng>Mm-hm.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="409">
+        <timestamp>00:12:28.077-00:12:29.654</timestamp>
+        <iu>xelq sen'etkarliri.</iu>
+        <morph>xelq sen'etkar-lir-i</morph>
+        <gloss>folk artist-PL-3POSS</gloss>
+        <eng>The folk artists.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="410">
+        <timestamp>00:12:31.458-00:12:34.548</timestamp>
+        <iu>Manda eslise adem, ésige kélidu.</iu>
+        <morph>manda esli-se adem és-i-ge kél-i-du</morph>
+        <gloss>thus remember-COND person mind-3POSS-DAT come-PRES-3</gloss>
+        <eng>If one thinks about them like this, they come to mind.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="411">
+        <timestamp>00:12:35.359-00:12:38.750</timestamp>
+        <iu>Lékin bashqilardin, hazir yash balilardin sorisa héchkim uqmaydu ularni.</iu>
+        <morph>lékin bashqi-lar-din hazir yash bali-lar-din sori-sa héchkim uq-ma-y-du ular-ni</morph>
+        <gloss>but other-PL-ABL now young child-PL-ABL ask-COND none-who know-NEG-PRES-3 3PL-ACC</gloss>
+        <eng>But others, if you ask the young kids now, nobody knows them.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="412">
+        <timestamp>00:12:40.067-00:12:43.003</timestamp>
+        <iu>Aman'gülning toyidimu her bir, her bir gépide,</iu>
+        <morph>Amangül-ning toy-i-di-mu her bir her bir gép-i-de</morph>
+        <gloss>(name)-GEN wedding-3POSS-LOC-also every one every one thing-3POSS-LOC</gloss>
+        <eng>At Aman'gül’s wedding too, in every part of it,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="413">
+        <timestamp>00:12:44.677-00:12:46.366</timestamp>
+        <iu>a terep – ma terepke ötüp bashlidi.</iu>
+        <morph>a terep ma terep-ke öt-üp bashli-d-i</morph>
+        <gloss>that side this side-DAT pass-CVB AUX.bashli-PST-3</gloss>
+        <eng>he started just going this way and that.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="414">
+        <timestamp>00:12:46.458-00:12:49.283</timestamp>
+        <iu>Légende poloni ekep bérip, qordaqni ekétip bérip ashu,</iu>
+        <morph>légen-de polo-ni eke-p bér-ip qordaq-ni ekét-ip bér-ip ashu</morph>
+        <gloss>tray-LOC pilaf-ACC bring-CVB AUX.ber-CVB stew-ACC take-CVB AUX.ber-CVB that</gloss>
+        <eng>He brought the pilaf in on a big tray, he brought the stew,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="415">
+        <timestamp>00:12:50.221-00:12:51.687</timestamp>
+        <iu>besh alte qoshaqni qiliwétip,</iu>
+        <morph>besh alte qoshaq-ni qil-iwét-ip</morph>
+        <gloss>five six folk.song-ACC do-INTENS-CVB</gloss>
+        <eng>he did five or six songs,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="416">
+        <timestamp>00:12:52.153-00:12:54.474</timestamp>
+        <iu>emdi, ashu ademni bir sözletmiduq shu chaghda.</iu>
+        <morph>emdi ashu adem-ni bir sözle-t-mi-d-uq shu chagh-da</morph>
+        <gloss>now that person-ACC one speak-CAUS-NEG-PST-1PL that time-LOC</gloss>
+        <eng>we didn’t even give him a chance to speak that time.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="417">
+        <timestamp>00:12:55.264-00:12:59.405</timestamp>
+        <iu>Ashundaq bir purset bolmay qaldi aldirashtin [xxx] bop kettuq [xxx] [xxx].</iu>
+        <morph>ashundaq bir purset bol-may qal-d-i aldirash-tin [xxx] bo-p ket-t-uq [xxx] [xxx]</morph>
+        <gloss>thus one opportunity be-NEG.CVB AUX.qal-PST-3 busy-ABL [xxx] be-CVB AUX.ket-PST-1PL [xxx] [xxx]</gloss>
+        <eng>He didn’t have the opportunity we were [xxx] so busy [xxx] [xxx].</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="418">
+        <timestamp>00:12:57.936-00:13:01.522</timestamp>
+        <iu>Emdi u chaghlarda undaq bir ehmiyitini chüshenmigen waqitlar.</iu>
+        <morph>emdi u chagh-lar-da undaq bir ehmiyit-i-ni chüshen-mi-gen waqit-lar</morph>
+        <gloss>now that time-PL-LOC thus one attention-3POSS-ACC understand-NEG-PTCP.PST time-PL</gloss>
+        <eng>In those times, those were times when we didn’t understand the importance of it.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="419">
+        <timestamp>00:13:01.196-00:13:01.623</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Yeah.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="420">
+        <timestamp>00:13:01.754-00:13:03.249</timestamp>
+        <iu>U chaghda bizmu kichik,</iu>
+        <morph>u chagh-da biz-mu kichik</morph>
+        <gloss>that time-LOC 1PL-also small</gloss>
+        <eng>We were young then too,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="421">
+        <timestamp>00:13:03.537-00:13:07.190</timestamp>
+        <iu>sen'etning kültöri, bashqa nersilerning qimmitini chüshenmigen waqitlar.</iu>
+        <morph>sen'et-ning kültör-i bashqa nersi-ler-ning qimmit-i-ni chüshen-mi-gen waqit-lar</morph>
+        <gloss>art(s)-GEN culture-3POSS other thing-PL-GEN value-3POSS-ACC understand-NEG-PTCP.PST time-PL</gloss>
+        <eng>those were times when we didn’t understand arts culture, the value of other things.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="422">
+        <timestamp>00:13:07.215-00:13:09.178</timestamp>
+        <iu>Hazir ma yerge chiqqandinkin ma yerde yashap turup,</iu>
+        <morph>hazir ma yer-ge chiq-qan-dinkin ma yer-de yasha-p tur-up</morph>
+        <gloss>now this place-DAT go.up-PTCP.PST-since this place-LOC live-CVB stand-CVB</gloss>
+        <eng>Since we’ve moved here, we live here now,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="423">
+        <timestamp>00:13:09.476-00:13:11.570</timestamp>
+        <iu>ashu nersilerning qanchilik qimmetlik,</iu>
+        <morph>ashu nersi-ler-ning qanchilik qimmet-lik</morph>
+        <gloss>that thing-PL-GEN how.much value-DER</gloss>
+        <eng>we feel how valuable,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="424">
+        <timestamp>00:13:11.760-00:13:13.073</timestamp>
+        <iu>muhim ikenlikini hés qiliwatimiz.</iu>
+        <morph>muhim iken-lik-i-ni hés qil-iwat-imiz</morph>
+        <gloss>important EVID-DER-3POSS-ACC feeling do-CONT-1PL</gloss>
+        <eng>how important those things are,</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="425">
+        <timestamp>00:13:12.812-00:13:13.474</timestamp>
+        <iu>Uh-huh, uh-huh.</iu>
+        <morph>uh-huh uh-huh</morph>
+        <gloss>uh-huh uh-huh</gloss>
+        <eng>He'e he'e.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="426">
+        <timestamp>00:13:13.361-00:13:15.302</timestamp>
+        <iu>Shunga bilip bolghili bolmaydighan gep.</iu>
+        <morph>shunga bil-ip bol-ghili bol-ma-ydighan gep</morph>
+        <gloss>so know-CVB AUX.bol-PURP be-NEG-PTCP.PRES thing</gloss>
+        <eng>So the fact is, it wouldn’t be possible to know it.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="427">
+        <timestamp>00:13:15.836-00:13:16.422</timestamp>
+        <iu>Rast.</iu>
+        <morph>rast</morph>
+        <gloss>true</gloss>
+        <eng>True.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="428">
+        <timestamp>00:13:17.190-00:13:19.559</timestamp>
+        <iu>Bu nersiler asta asta yoqalghandinkin andin bilidighan gep,</iu>
+        <morph>bu nersi-ler asta asta yoqa-l-ghan-dinkin andin bil-idighan gep</morph>
+        <gloss>this thing-PL slowly slowly disappear-PASS-PTCP.PST-since then know-PTCP.PRES thing</gloss>
+        <eng>Since these things slowly disappeared and then the things that were known,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="429">
+        <timestamp>00:13:19.559-00:13:21.405</timestamp>
+        <iu>«hey ejep eyni chaghda ashuningdin bir,</iu>
+        <morph>hey ejep eyni chagh-da ashu-ning-din bir</morph>
+        <gloss>hey strangely original time-LOC that-GEN-ABL one</gloss>
+        <eng>it’s like, “Hey, it’s strange that at the time,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="430">
+        <timestamp>00:13:21.927-00:13:26.221</timestamp>
+        <iu>xatire qaldurmaptimen, awazgha éliwalmaptimen, yaki widé'o éliwalmaptimen» dégendek.</iu>
+        <morph>xatire qal-dur-ma-pt-imen awaz-gha él-iwal-ma-pt-imen yaki widé'o-gha él-iwal-ma-pt-imen dé-gen-dek</morph>
+        <gloss>record remain-CAUS-NEG-PST.EVID-1SG voice-DAT take-SELF.BEN-NEG-PST.EVID-1SG or video-DAT take-SELF.BEN-NEG-PST.EVID-1SG say-PTCP.PST-SIM</gloss>
+        <eng>I didn’t make any record of it, never took an audio recording, never took a video.”</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="431">
+        <timestamp>00:13:25.335-00:13:25.981</timestamp>
+        <iu>Hm-mm hm-mm.</iu>
+        <morph>hm-mm hm-mm</morph>
+        <gloss>hm-mm hm-mm</gloss>
+        <eng>Mm-hm, mm-hm.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="432">
+        <timestamp>00:13:26.394-00:13:26.924</timestamp>
+        <iu>Rast.</iu>
+        <morph>rast</morph>
+        <gloss>true</gloss>
+        <eng>True.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="433">
+        <timestamp>00:13:27.232-00:13:28.921</timestamp>
+        <iu>Hazir izdise u nersilermu yoq,</iu>
+        <morph>hazir izdi-se u nersi-ler-mu yoq</morph>
+        <gloss>now look.for-COND that thing-PL-also not.exist</gloss>
+        <eng>Now if you look for them, these things are gone,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="434">
+        <timestamp>00:13:28.921-00:13:30.745</timestamp>
+        <iu>ular bilidighan nersiliri özi bilen bille,</iu>
+        <morph>ular bil-idighan nersi-lir-i öz-i bilen bille</morph>
+        <gloss>3PL know-PTCP.PRES thing-PL-3POSS self-3POSS with together</gloss>
+        <eng>the things they knew, along with the artists themselves,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="435">
+        <timestamp>00:13:31.105-00:13:31.653</timestamp>
+        <iu>yoqidi.</iu>
+        <morph>yoqi-d-i</morph>
+        <gloss>disappear-PST-3</gloss>
+        <eng>have disappeared.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="436">
+        <timestamp>00:13:31.663-00:13:32.148</timestamp>
+        <iu>He'e.</iu>
+        <morph>he'e</morph>
+        <gloss>yes</gloss>
+        <eng>Yeah.</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="437">
+        <timestamp>00:13:32.840-00:13:33.740</timestamp>
+        <iu>Bizning ashundaq bolidu,</iu>
+        <morph>biz-ning ashundaq bol-i-du</morph>
+        <gloss>1PL-GEN thus be-PRES-3</gloss>
+        <eng>It’s that way for us,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="438">
+        <timestamp>00:13:33.740-00:13:35.186</timestamp>
+        <iu>bizning bilidighan nersilirimizmu,</iu>
+        <morph>biz-ning bil-idighan nersi-lir-imiz-mu</morph>
+        <gloss>1PL-GEN know-PTCP.PRES thing-PL-1PL.POSS-also</gloss>
+        <eng>the things we know also,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="439">
+        <timestamp>00:13:35.621-00:13:37.610</timestamp>
+        <iu>kichik waqtimizda körgen mehelliler,</iu>
+        <morph>kichik waqt-imiz-da kör-gen mehelli-ler</morph>
+        <gloss>small time-1PL.POSS-LOC see-PTCP.PST neighborhood-PL</gloss>
+        <eng>the neighborhoods we saw when we were young,</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="440">
+        <timestamp>00:13:38.250-00:13:39.698</timestamp>
+        <iu>kichik waqtimizda bilidighan...</iu>
+        <morph>kichik waqt-imiz-da bil-idighan</morph>
+        <gloss>small time-1PL.POSS-LOC know-PTCP.PRES</gloss>
+        <eng>the people we knew when we were young...</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="441">
+        <timestamp>00:13:40.111-00:13:40.991</timestamp>
+        <iu>ademler,</iu>
+        <morph>adem-ler</morph>
+        <gloss>person-PL</gloss>
+        <eng>(translated in previous line)</eng>
+      </annotation>
+      <annotation who="Speaker A" ref="442">
+        <timestamp>00:13:42.056-00:13:44.168</timestamp>
+        <iu>bir mezgildin kéyin yoqaydighan gep.</iu>
+        <morph>bir mezgil-din kéyin yoqa-ydighan gep</morph>
+        <gloss>one time.period-ABL after disappear-PTCP.PRES thing</gloss>
+        <eng>after a period of time things disappear.</eng>
+      </annotation>
+      <annotation who="Speaker B" ref="443">
+        <timestamp>00:13:44.586-00:13:45.230</timestamp>
+        <iu>Rast.</iu>
+        <morph>rast</morph>
+        <gloss>true</gloss>
+        <eng>True.</eng>
+      </annotation>
+    </c2_final>
+  </transcript_body>
+</c2root>
