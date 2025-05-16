@@ -1,5 +1,5 @@
 {
   "redirects": [
-    { "source": "uyghurrecordingproject", "destination": "/English-Home.html", "permanent": true }
+    { "source": "/", "destination": "/English-Home.html"}
   ]
 }
