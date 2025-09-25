@@ -1,42 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Home -->
+  <url><loc>https://www.uyghurcorpus.org/Home.html</loc><lastmod>2025-09-25</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
 
+  <!-- Conversation Pages -->
+  <url><loc>https://www.uyghurcorpus.org/English-Convo1.html</loc><lastmod>2025-09-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.uyghurcorpus.org/English-Convo2.html</loc><lastmod>2025-09-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.uyghurcorpus.org/English-Convo3.html</loc><lastmod>2025-09-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.uyghurcorpus.org/English-Convo4.html</loc><lastmod>2025-09-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.uyghurcorpus.org/English-Convo5.html</loc><lastmod>2025-09-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.uyghurcorpus.org/English-Convo6.html</loc><lastmod>2025-09-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.uyghurcorpus.org/English-Convo7.html</loc><lastmod>2025-09-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.uyghurcorpus.org/English-Convo8.html</loc><lastmod>2025-09-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.uyghurcorpus.org/English-Convo9.html</loc><lastmod>2025-09-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.uyghurcorpus.org/English-Convo10.html</loc><lastmod>2025-09-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.uyghurcorpus.org/English-Convo11.html</loc><lastmod>2025-09-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.uyghurcorpus.org/English-Convo12.html</loc><lastmod>2025-09-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.uyghurcorpus.org/English-Convo13.html</loc><lastmod>2025-09-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.uyghurcorpus.org/English-Convo14.html</loc><lastmod>2025-09-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.uyghurcorpus.org/English-Convo15.html</loc><lastmod>2025-09-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
-<url>
-  <loc>https://www.uyghurcorpus.org/Home.html</loc>
-  <lastmod>2025-07-06T22:56:06+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://www.uyghurcorpus.org/misc/transcription_conventions.pdf</loc>
-  <lastmod>2025-07-06T22:56:06+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.uyghurcorpus.org/English-Convo1.html</loc>
-  <lastmod>2025-07-06T22:56:07+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.uyghurcorpus.org/English-Convo2.html</loc>
-  <lastmod>2025-07-06T22:56:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.uyghurcorpus.org/English-Convo3.html</loc>
-  <lastmod>2025-07-06T22:56:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.uyghurcorpus.org/English-Convo4.html</loc>
-  <lastmod>2025-07-06T22:57:04+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-
+  <!-- Asset directories -->
+  <url><loc>https://www.uyghurcorpus.org/css/</loc><lastmod>2025-09-01</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://www.uyghurcorpus.org/js/</loc><lastmod>2025-09-01</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://www.uyghurcorpus.org/images/</loc><lastmod>2025-09-01</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://www.uyghurcorpus.org/fonts/</loc><lastmod>2025-09-01</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://www.uyghurcorpus.org/audio/</loc><lastmod>2025-09-01</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://www.uyghurcorpus.org/xml/</loc><lastmod>2025-09-01</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://www.uyghurcorpus.org/zip/</loc><lastmod>2025-09-01</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
 </urlset>
